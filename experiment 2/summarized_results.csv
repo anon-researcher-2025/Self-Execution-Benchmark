@@ -1,0 +1,285 @@
+0
+"The current model is: meta-llama/llama-3.3-70b-instruct
+"
+"Number of consistent answers: 35
+"
+"Consistency rate: 0.8974358974358975
+"
+"Number of over cuteness: 3
+"
+"Over cuteness rate: 0.75
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 1
+"
+0
+"The current model is: deepseek/deepseek-r1
+"
+"Number of consistent answers: 29
+"
+"Consistency rate: 0.7631578947368421
+"
+"Number of over cuteness: 7
+"
+"Over cuteness rate: 0.7777777777777778
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 2
+"
+0
+"The current model is: deepseek/deepseek-chat
+"
+"Number of consistent answers: 29
+"
+"Consistency rate: 0.725
+"
+"Number of over cuteness: 10
+"
+"Over cuteness rate: 0.9090909090909091
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: qwen/qwen2.5-32b-instruct
+"
+"Number of consistent answers: 29
+"
+"Consistency rate: 0.725
+"
+"Number of over cuteness: 10
+"
+"Over cuteness rate: 0.9090909090909091
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: mistralai/mixtral-8x22b-instruct
+"
+"Number of consistent answers: 28
+"
+"Consistency rate: 0.7
+"
+"Number of over cuteness: 11
+"
+"Over cuteness rate: 0.9166666666666666
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: mistralai/mistral-7b-instruct
+"
+"Number of consistent answers: 32
+"
+"Consistency rate: 0.8
+"
+"Number of over cuteness: 7
+"
+"Over cuteness rate: 0.875
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: meta-llama/llama-3.2-3b-instruct
+"
+"Number of consistent answers: 17
+"
+"Consistency rate: 0.6296296296296297
+"
+"Number of over cuteness: 6
+"
+"Over cuteness rate: 0.6
+"
+"Number of provision failure: 11
+"
+"Number of verification failure: 2
+"
+0
+"The current model is: google/gemini-pro
+"
+"Number of consistent answers: 29
+"
+"Consistency rate: 0.7837837837837838
+"
+"Number of over cuteness: 4
+"
+"Over cuteness rate: 0.5
+"
+"Number of provision failure: 2
+"
+"Number of verification failure: 1
+"
+0
+"The current model is: google/gemini-2.0-flash-001
+"
+"Number of consistent answers: 32
+"
+"Consistency rate: 0.8
+"
+"Number of over cuteness: 6
+"
+"Over cuteness rate: 0.75
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: anthropic/claude-3.5-haiku
+"
+"Number of consistent answers: 27
+"
+"Consistency rate: 0.6923076923076923
+"
+"Number of over cuteness: 9
+"
+"Over cuteness rate: 0.75
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 1
+"
+0
+"The current model is: gpt-4o
+"
+"Number of consistent answers: 27
+"
+"Consistency rate: 0.675
+"
+"Number of over cuteness: 12
+"
+"Over cuteness rate: 0.9230769230769231
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: gpt-4o-mini
+"
+"Number of consistent answers: 32
+"
+"Consistency rate: 0.8
+"
+"Number of over cuteness: 7
+"
+"Over cuteness rate: 0.875
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: o3-mini
+"
+"Number of consistent answers: 38
+"
+"Consistency rate: 0.95
+"
+"Number of over cuteness: 1
+"
+"Over cuteness rate: 0.5
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: o1
+"
+"Number of consistent answers: 38
+"
+"Consistency rate: 0.95
+"
+"Number of over cuteness: 1
+"
+"Over cuteness rate: 0.5
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: o1-mini
+"
+"Number of consistent answers: 0
+"
+"Consistency rate: 0.0
+"
+"Number of over cuteness: 0
+"
+"Over cuteness rate: 0.0
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: meta-llama/llama-3-8b-instruct
+"
+"Number of consistent answers: 20
+"
+"Consistency rate: 0.6896551724137931
+"
+"Number of over cuteness: 6
+"
+"Over cuteness rate: 0.6666666666666666
+"
+"Number of provision failure: 11
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: meta-llama/llama-3-70b-instruct
+"
+"Number of consistent answers: 19
+"
+"Consistency rate: 0.7037037037037037
+"
+"Number of over cuteness: 7
+"
+"Over cuteness rate: 0.875
+"
+"Number of provision failure: 13
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: meta-llama/llama-2-70b-chat
+"
+"Number of consistent answers: 0
+"
+"Consistency rate: 0.0
+"
+"Number of over cuteness: 0
+"
+"Over cuteness rate: 0.0
+"
+"Number of provision failure: 39
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: meta-llama/llama-2-13b-chat
+"
+"Number of consistent answers: 2
+"
+"Consistency rate: 0.5
+"
+"Number of over cuteness: 0
+"
+"Over cuteness rate: 0.0
+"
+"Number of provision failure: 25
+"
+"Number of verification failure: 11
+"

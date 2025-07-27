@@ -1,0 +1,838 @@
+group_id,llm_ranking,raw_llm_ranking_output,combined_duration,total_individual_duration,measured_ranking,score,model
+MMLU_ARRANGED_GROUP_001,"Q2,Q4,Q3,Q1","{""ranking"": [""Q2"", ""Q4"", ""Q3"", ""Q1""]}",3263,4995,"Q2,Q3,Q4,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_002,"Q2,Q1,Q3,Q4","{""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]}",3158,4181,"Q2,Q3,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_003,"Q2,Q4,Q1,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]
+}
+```",4608,4034,"Q2,Q4,Q3,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_004,"Q4,Q2,Q1,Q3","```json
+{
+  ""ranking"": [""Q4"", ""Q2"", ""Q1"", ""Q3""]
+}
+```",3206,2647,"Q1,Q3,Q2,Q4",0.16666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_005,"Q1,Q2,Q4,Q3","{""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]}",1797,3586,"Q1,Q4,Q2,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_006,"Q1,Q3,Q4,Q2","```json
+{
+  ""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]
+}
+```",2713,6115,"Q1,Q3,Q4,Q2",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_007,"Q2,Q1,Q4,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q4"", ""Q3""]
+}
+```",2196,2558,"Q1,Q4,Q2,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_008,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",1177,2401,"Q3,Q2,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_009,"Q4,Q1,Q3,Q2","```json
+{
+  ""ranking"": [""Q4"", ""Q1"", ""Q3"", ""Q2""]
+}
+```",1007,3184,"Q4,Q1,Q3,Q2",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_010,"Q2,Q1,Q3,Q4","{""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]}",2509,3714,"Q1,Q4,Q3,Q2",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_011,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",2575,2355,"Q3,Q2,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_012,"Q3,Q2,Q1,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q1"", ""Q4""]
+}
+```",4851,2256,"Q2,Q1,Q3,Q4",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_013,"Q2,Q4,Q3,Q1","{""ranking"": [""Q2"", ""Q4"", ""Q3"", ""Q1""]}",2185,3275,"Q2,Q3,Q4,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_014,"Q1,Q4,Q3,Q2","{""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]}",2249,5549,"Q1,Q3,Q4,Q2",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_015,"Q1,Q4,Q2,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]
+}
+```",2195,6212,"Q4,Q1,Q2,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_016,"Q3,Q4,Q2,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q2"", ""Q1""]
+}
+```",2660,2820,"Q3,Q2,Q4,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_017,"Q2,Q3,Q1,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]
+}
+```",2952,4311,"Q3,Q2,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_018,"Q3,Q4,Q1,Q2","```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q1"", ""Q2""]
+}
+```",1763,2335,"Q3,Q4,Q1,Q2",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_019,"Q3,Q2,Q1,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q1"", ""Q4""]
+}
+```",2551,3210,"Q2,Q4,Q1,Q3",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_020,"Q2,Q1,Q3,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]
+}
+```",1755,3029,"Q2,Q4,Q3,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_021,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",1289,3699,"Q2,Q4,Q3,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_022,"Q3,Q1,Q4,Q2","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q4"", ""Q2""]
+}
+```",2114,6221,"Q3,Q4,Q1,Q2",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_023,"Q3,Q4,Q1,Q2","```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q1"", ""Q2""]
+}
+```",979,1776,"Q2,Q4,Q3,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_024,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",1070,2714,"Q1,Q2,Q3,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_025,"Q4,Q2,Q1,Q3","{""ranking"": [""Q4"", ""Q2"", ""Q1"", ""Q3""]}",2497,4912,"Q4,Q2,Q1,Q3",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_026,"Q2,Q1,Q3,Q4","{""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]}",2829,3798,"Q2,Q4,Q3,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_027,"Q1,Q2,Q4,Q3","{""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]}",2313,1829,"Q4,Q1,Q2,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_028,"Q3,Q1,Q4,Q2","{""ranking"": [""Q3"", ""Q1"", ""Q4"", ""Q2""]}",3559,3990,"Q3,Q4,Q2,Q1",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_029,"Q3,Q1,Q4,Q2","{""ranking"": [""Q3"", ""Q1"", ""Q4"", ""Q2""]}",1796,1856,"Q3,Q2,Q4,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_030,"Q3,Q2,Q4,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]
+}
+```",3445,3272,"Q4,Q3,Q1,Q2",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_031,"Q2,Q4,Q1,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]
+}
+```",1107,3726,"Q2,Q4,Q1,Q3",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_032,"Q1,Q2,Q4,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]
+}
+```",1695,2726,"Q1,Q4,Q2,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_033,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",1621,3376,"Q1,Q3,Q4,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_034,"Q1,Q4,Q2,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]
+}
+```",2886,3181,"Q1,Q2,Q4,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_035,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",1109,1850,"Q2,Q1,Q3,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_036,"Q1,Q3,Q2,Q4","{""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]}",2031,2592,"Q3,Q1,Q2,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_037,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",906,1573,"Q3,Q4,Q1,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_038,"Q1,Q2,Q3,Q4","{""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]}",1007,13791,"Q1,Q3,Q2,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_039,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",2900,10467,"Q4,Q1,Q3,Q2",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_040,"Q3,Q4,Q2,Q1","{""ranking"": [""Q3"", ""Q4"", ""Q2"", ""Q1""]}",3047,4036,"Q3,Q2,Q1,Q4",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_041,"Q1,Q2,Q4,Q3","{""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]}",2194,3857,"Q2,Q1,Q3,Q4",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_042,"Q4,Q1,Q3,Q2","```json
+{
+  ""ranking"": [""Q4"", ""Q1"", ""Q3"", ""Q2""]
+}
+```",2152,2495,"Q3,Q4,Q1,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_043,"Q2,Q1,Q4,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q4"", ""Q3""]
+}
+```",2114,3286,"Q2,Q4,Q3,Q1",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_044,"Q2,Q3,Q4,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]
+}
+```",1736,2502,"Q2,Q4,Q1,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_045,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",2834,4634,"Q3,Q4,Q2,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_046,"Q3,Q2,Q4,Q1","{""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]}",1730,2068,"Q3,Q2,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_047,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",1361,2674,"Q1,Q2,Q4,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_048,"Q3,Q1,Q4,Q2","{""ranking"": [""Q3"", ""Q1"", ""Q4"", ""Q2""]}",1957,6071,"Q3,Q1,Q2,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_049,"Q3,Q2,Q4,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]
+}
+```",869,1670,"Q3,Q2,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_050,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",959,1280,"Q3,Q1,Q2,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_051,"Q3,Q4,Q2,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q2"", ""Q1""]
+}
+```",4742,3436,"Q4,Q3,Q2,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_052,"Q2,Q3,Q1,Q4","{""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]}",1888,2839,"Q2,Q3,Q4,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_053,"Q2,Q1,Q4,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q4"", ""Q3""]
+}
+```",2803,1743,"Q2,Q4,Q3,Q1",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_054,"Q1,Q4,Q2,Q3","{""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]}",1435,4839,"Q2,Q3,Q4,Q1",0.16666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_055,"Q2,Q3,Q4,Q1","{""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]}",2057,1832,"Q2,Q1,Q3,Q4",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_056,"Q2,Q4,Q1,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]
+}
+```",2348,4703,"Q2,Q1,Q3,Q4",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_057,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",1826,1772,"Q3,Q1,Q4,Q2",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_058,"Q4,Q1,Q2,Q3","{""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]}",2011,4804,"Q4,Q3,Q2,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_059,"Q4,Q3,Q1,Q2","```json
+{
+  ""ranking"": [""Q4"", ""Q3"", ""Q1"", ""Q2""]
+}
+```",1575,2232,"Q3,Q1,Q4,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_060,"Q2,Q3,Q4,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]
+}
+```",2314,4090,"Q2,Q3,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_061,"Q4,Q1,Q2,Q3","```json
+{
+  ""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]
+}
+```",3406,1630,"Q4,Q2,Q1,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_062,"Q1,Q3,Q2,Q4","{""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]}",3746,4698,"Q2,Q3,Q1,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_063,"Q2,Q1,Q3,Q4","{""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]}",1764,3148,"Q3,Q1,Q4,Q2",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_064,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",1888,2506,"Q3,Q1,Q2,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_065,"Q2,Q1,Q4,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q4"", ""Q3""]
+}
+```",1277,1795,"Q3,Q2,Q1,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_066,"Q1,Q3,Q2,Q4","{""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]}",2184,1864,"Q1,Q3,Q2,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_067,"Q1,Q3,Q2,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]
+}
+```",1699,3610,"Q3,Q1,Q2,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_068,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",1560,3890,"Q2,Q1,Q3,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_069,"Q1,Q2,Q4,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]
+}
+```",1397,4638,"Q2,Q4,Q1,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_070,"Q2,Q1,Q4,Q3","{""ranking"": [""Q2"", ""Q1"", ""Q4"", ""Q3""]}",2942,15509,"Q2,Q1,Q4,Q3",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_071,"Q2,Q3,Q1,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]
+}
+```",4057,3074,"Q2,Q1,Q4,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_072,"Q2,Q4,Q1,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]
+}
+```",986,3894,"Q4,Q2,Q1,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_073,"Q2,Q4,Q1,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]
+}
+```",1525,1743,"Q1,Q4,Q3,Q2",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_074,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",1593,3411,"Q3,Q1,Q4,Q2",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_075,"Q1,Q3,Q2,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]
+}
+```",1945,3166,"Q2,Q1,Q3,Q4",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_076,"Q1,Q3,Q4,Q2","{""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]}",2711,6904,"Q4,Q2,Q3,Q1",0.16666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_077,"Q3,Q4,Q2,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q2"", ""Q1""]
+}
+```",1883,5380,"Q3,Q4,Q2,Q1",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_078,"Q4,Q3,Q2,Q1","{""ranking"": [""Q4"", ""Q3"", ""Q2"", ""Q1""]}",2544,2249,"Q4,Q3,Q2,Q1",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_079,"Q2,Q3,Q1,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]
+}
+```",1701,3973,"Q3,Q2,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_080,"Q3,Q4,Q1,Q2","{""ranking"": [""Q3"", ""Q4"", ""Q1"", ""Q2""]}",1183,2999,"Q4,Q3,Q2,Q1",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_081,"Q1,Q3,Q4,Q2","{""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]}",3948,2488,"Q2,Q1,Q3,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_082,"Q2,Q3,Q1,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]
+}
+```",2323,3890,"Q2,Q3,Q4,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_083,"Q3,Q4,Q2,Q1","{
+  ""ranking"": [""Q3"", ""Q4"", ""Q2"", ""Q1""]
+}",1950,2099,"Q4,Q2,Q1,Q3",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_084,"Q2,Q3,Q1,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]
+}
+```",1830,2756,"Q4,Q1,Q3,Q2",0.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_085,"Q3,Q4,Q2,Q1","{""ranking"": [""Q3"", ""Q4"", ""Q2"", ""Q1""]}",1888,2805,"Q1,Q3,Q4,Q2",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_086,"Q1,Q2,Q4,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]
+}
+```",2037,1836,"Q1,Q4,Q2,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_087,"Q3,Q4,Q1,Q2","{""ranking"": [""Q3"", ""Q4"", ""Q1"", ""Q2""]}",2189,2409,"Q1,Q3,Q2,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_088,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",1216,3007,"Q2,Q3,Q4,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_089,"Q2,Q4,Q1,Q3","{""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]}",5834,3573,"Q4,Q1,Q2,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_090,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",1789,2445,"Q2,Q1,Q3,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_091,"Q1,Q4,Q2,Q3","{""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]}",1589,3128,"Q4,Q1,Q2,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_092,"Q4,Q2,Q1,Q3","```json
+{
+  ""ranking"": [""Q4"", ""Q2"", ""Q1"", ""Q3""]
+}
+```",1052,3720,"Q4,Q2,Q3,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_093,"Q2,Q4,Q1,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]
+}
+```",2395,1206,"Q4,Q1,Q2,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_094,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",1923,3101,"Q2,Q1,Q4,Q3",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_095,"Q1,Q4,Q2,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]
+}
+```",1841,5685,"Q4,Q1,Q2,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_096,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",2296,2241,"Q2,Q1,Q3,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_097,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",2134,3029,"Q1,Q3,Q2,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_098,"Q4,Q3,Q2,Q1","{""ranking"": [""Q4"", ""Q3"", ""Q2"", ""Q1""]}",2110,1602,"Q4,Q1,Q3,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_099,"Q2,Q4,Q1,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]
+}
+```",721,2991,"Q1,Q2,Q4,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_100,"Q1,Q2,Q4,Q3","{""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]}",2469,2849,"Q4,Q2,Q3,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_101,"Q2,Q3,Q4,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]
+}
+```",1471,4526,"Q2,Q3,Q4,Q1",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_102,"Q2,Q4,Q3,Q1","{
+  ""ranking"": [""Q2"", ""Q4"", ""Q3"", ""Q1""]
+}",1037,2358,"Q2,Q1,Q4,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_103,"Q1,Q4,Q2,Q3","{""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]}",1461,3317,"Q1,Q4,Q2,Q3",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_104,"Q2,Q1,Q3,Q4","{
+  ""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]
+}",2897,6578,"Q2,Q1,Q3,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_105,"Q3,Q2,Q1,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q1"", ""Q4""]
+}
+```",837,1849,"Q3,Q2,Q1,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_106,"Q2,Q4,Q3,Q1","{""ranking"": [""Q2"", ""Q4"", ""Q3"", ""Q1""]}",1451,3511,"Q2,Q3,Q4,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_107,"Q2,Q1,Q3,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]
+}
+```",3179,1726,"Q4,Q2,Q3,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_108,"Q1,Q4,Q3,Q2","```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]
+}
+```",3273,1868,"Q4,Q3,Q1,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_109,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",1090,2058,"Q3,Q1,Q2,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_110,"Q2,Q4,Q3,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q3"", ""Q1""]
+}
+```",1586,2216,"Q2,Q4,Q1,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_111,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",968,2793,"Q1,Q3,Q2,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_112,"Q1,Q2,Q3,Q4","{""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]}",993,2876,"Q2,Q1,Q4,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_113,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",675,2027,"Q1,Q3,Q4,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_114,"Q2,Q3,Q4,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]
+}
+```",695,2325,"Q2,Q4,Q3,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_115,"Q4,Q1,Q3,Q2","```json
+{
+  ""ranking"": [""Q4"", ""Q1"", ""Q3"", ""Q2""]
+}
+```",1006,7622,"Q4,Q1,Q3,Q2",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_116,"Q2,Q4,Q1,Q3","{""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]}",898,2431,"Q2,Q4,Q3,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_117,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",876,3330,"Q3,Q4,Q2,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_118,"Q3,Q2,Q4,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]
+}
+```",2582,2008,"Q1,Q2,Q3,Q4",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_119,"Q1,Q2,Q4,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]
+}
+```",1709,1887,"Q1,Q2,Q3,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_120,"Q2,Q3,Q4,Q1","{""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]}",4069,2425,"Q2,Q3,Q4,Q1",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_121,"Q1,Q4,Q2,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]
+}
+```",2180,3817,"Q1,Q4,Q2,Q3",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_122,"Q4,Q3,Q2,Q1","{""ranking"": [""Q4"", ""Q3"", ""Q2"", ""Q1""]}",4013,4204,"Q3,Q4,Q2,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_123,"Q1,Q3,Q2,Q4","{""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]}",3070,2042,"Q2,Q3,Q1,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_124,"Q3,Q2,Q4,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]
+}
+```",1741,27277,"Q3,Q2,Q4,Q1",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_125,"Q1,Q3,Q2,Q4","{""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]}",1855,2717,"Q1,Q4,Q2,Q3",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_126,"Q1,Q4,Q3,Q2","```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]
+}
+```",2470,5898,"Q1,Q2,Q4,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_127,"Q3,Q2,Q4,Q1","{""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]}",1528,3942,"Q2,Q3,Q1,Q4",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_128,"Q3,Q2,Q1,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q1"", ""Q4""]
+}
+```",2065,1649,"Q3,Q2,Q1,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_129,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",1168,7637,"Q3,Q1,Q2,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_130,"Q3,Q2,Q4,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]
+}
+```",1104,2263,"Q3,Q2,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_131,"Q1,Q4,Q2,Q3","{""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]}",1407,3332,"Q1,Q4,Q3,Q2",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_132,"Q4,Q1,Q2,Q3","```json
+{
+  ""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]
+}
+```",963,3155,"Q1,Q2,Q4,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_133,"Q1,Q4,Q3,Q2","{""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]}",823,2168,"Q1,Q4,Q2,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_134,"Q3,Q4,Q1,Q2","{""ranking"": [""Q3"", ""Q4"", ""Q1"", ""Q2""]}",2748,3630,"Q3,Q4,Q2,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_135,"Q3,Q2,Q4,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]
+}
+```",2530,2297,"Q2,Q3,Q4,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_136,"Q4,Q2,Q1,Q3","{""ranking"": [""Q4"", ""Q2"", ""Q1"", ""Q3""]}",2063,4721,"Q2,Q1,Q3,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_137,"Q1,Q3,Q4,Q2","```json
+{
+  ""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]
+}
+```",1645,2817,"Q4,Q3,Q2,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_138,"Q1,Q4,Q3,Q2","{""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]}",1619,3842,"Q4,Q1,Q2,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_139,"Q1,Q3,Q4,Q2","```json
+{
+  ""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]
+}
+```",1258,3765,"Q1,Q4,Q2,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_140,"Q1,Q3,Q4,Q2","```json
+{
+  ""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]
+}
+```",1615,1921,"Q3,Q4,Q2,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_141,"Q2,Q1,Q3,Q4","{""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]}",1653,1272,"Q2,Q3,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_142,"Q3,Q4,Q1,Q2","```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q1"", ""Q2""]
+}
+```",3010,2054,"Q1,Q3,Q2,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_143,"Q2,Q3,Q4,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]
+}
+```",1591,4452,"Q4,Q3,Q2,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_144,"Q1,Q4,Q2,Q3","{
+  ""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]
+}",1776,2282,"Q1,Q2,Q4,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_145,"Q2,Q4,Q3,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q3"", ""Q1""]
+}
+```",896,2444,"Q1,Q2,Q4,Q3",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_146,"Q2,Q3,Q1,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]
+}
+```",2443,3470,"Q2,Q3,Q1,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_147,"Q2,Q3,Q1,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]
+}
+```",2277,2806,"Q2,Q3,Q1,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_148,"Q1,Q4,Q2,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]
+}
+```",1082,1454,"Q1,Q2,Q4,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_149,"Q1,Q4,Q2,Q3","{
+  ""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]
+}",3428,9864,"Q1,Q4,Q2,Q3",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_150,"Q3,Q4,Q2,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q2"", ""Q1""]
+}
+```",1414,5507,"Q4,Q2,Q3,Q1",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_151,"Q1,Q4,Q2,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]
+}
+```",875,1662,"Q4,Q1,Q2,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_152,"Q4,Q2,Q3,Q1","{""ranking"": [""Q4"", ""Q2"", ""Q3"", ""Q1""]}",1322,1946,"Q4,Q2,Q3,Q1",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_153,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",2149,2533,"Q3,Q2,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_154,"Q1,Q2,Q3,Q4","{""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]}",1626,3520,"Q1,Q3,Q4,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_155,"Q2,Q1,Q3,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]
+}
+```",1383,2551,"Q2,Q1,Q3,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_156,"Q3,Q2,Q1,Q4","**Answer**
+```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q1"", ""Q4""]
+}
+```",2921,2580,"Q2,Q3,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_157,"Q2,Q1,Q3,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]
+}
+```",902,1719,"Q3,Q1,Q2,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_158,"Q4,Q1,Q2,Q3","```json
+{
+  ""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]
+}
+```",1294,2159,"Q1,Q4,Q2,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_159,"Q2,Q4,Q3,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q3"", ""Q1""]
+}
+```",2508,3947,"Q2,Q3,Q4,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_160,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",854,2399,"Q1,Q2,Q4,Q3",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_161,"Q2,Q3,Q4,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]
+}
+```",1973,2983,"Q2,Q4,Q3,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_162,"Q2,Q3,Q1,Q4","{""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]}",2943,4254,"Q2,Q3,Q1,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_163,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",1060,2950,"Q3,Q4,Q2,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_164,"Q1,Q3,Q2,Q4","{""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]}",3440,4110,"Q2,Q1,Q4,Q3",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_165,"Q3,Q2,Q1,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q1"", ""Q4""]
+}
+```",2172,3906,"Q3,Q1,Q2,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_166,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",991,3682,"Q3,Q1,Q2,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_167,"Q1,Q3,Q4,Q2","{""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]}",1972,5030,"Q3,Q1,Q2,Q4",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_168,"Q3,Q4,Q2,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q2"", ""Q1""]
+}
+```",1736,2048,"Q3,Q1,Q4,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_169,"Q4,Q2,Q3,Q1","```json
+{
+  ""ranking"": [""Q4"", ""Q2"", ""Q3"", ""Q1""]
+}
+```",1798,3738,"Q4,Q3,Q2,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_170,"Q3,Q1,Q4,Q2","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q4"", ""Q2""]
+}
+```",1760,1266,"Q4,Q1,Q2,Q3",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_171,"Q1,Q2,Q3,Q4","{""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]}",889,2283,"Q3,Q1,Q4,Q2",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_172,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",3555,1691,"Q3,Q2,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_173,"Q4,Q1,Q2,Q3","```json
+{
+  ""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]
+}
+```",692,2230,"Q2,Q3,Q1,Q4",0.16666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_174,"Q1,Q4,Q3,Q2","**Ranking Rationale:**
+1. **Q1** requires a straightforward recall of corporate governance principles, leading to a concise explanation.
+2. **Q4** involves a fill-in-the-blank structure but can be answered succinctly by linking share options to managerial incentives.
+3. **Q3** demands a legal explanation about maritime zones, which is slightly more detailed than Q4.
+4. **Q2** involves a mathematical formula and calculation, necessitating a step-by-step explanation, thus using the most tokens.
+
+```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]
+}
+```",3382,3065,"Q4,Q2,Q3,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_175,"Q4,Q1,Q2,Q3","```json
+{
+  ""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]
+}
+```",728,2447,"Q2,Q4,Q3,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_176,"Q1,Q2,Q3,Q4","{""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]}",1529,3161,"Q4,Q3,Q2,Q1",0.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_177,"Q4,Q1,Q3,Q2","{""ranking"": [""Q4"", ""Q1"", ""Q3"", ""Q2""]}",1084,3586,"Q1,Q4,Q2,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_178,"Q4,Q3,Q2,Q1","```json
+{
+  ""ranking"": [""Q4"", ""Q3"", ""Q2"", ""Q1""]
+}
+```",1790,8384,"Q4,Q3,Q1,Q2",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_179,"Q1,Q3,Q4,Q2","{""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]}",2557,4545,"Q4,Q1,Q3,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_180,"Q3,Q1,Q4,Q2","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q4"", ""Q2""]
+}
+```",2322,1252,"Q3,Q1,Q4,Q2",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_181,"Q2,Q3,Q4,Q1","{""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]}",2620,6045,"Q2,Q1,Q4,Q3",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_182,"Q1,Q2,Q4,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]
+}
+```",976,7707,"Q1,Q2,Q4,Q3",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_183,"Q1,Q3,Q4,Q2","{""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]}",1894,2912,"Q4,Q1,Q3,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_184,"Q1,Q4,Q3,Q2","```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]
+}
+```",976,1625,"Q4,Q1,Q3,Q2",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_185,"Q3,Q2,Q1,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q1"", ""Q4""]
+}
+```",1301,2863,"Q2,Q3,Q1,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_186,"Q2,Q1,Q4,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q4"", ""Q3""]
+}
+```",4153,2086,"Q1,Q4,Q2,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_187,"Q1,Q2,Q4,Q3","{""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]}",1923,3146,"Q2,Q4,Q1,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_188,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",2054,1934,"Q1,Q3,Q4,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_189,"Q1,Q2,Q4,Q3","{""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]}",1298,3089,"Q1,Q3,Q4,Q2",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_190,"Q4,Q2,Q1,Q3","{""ranking"": [""Q4"", ""Q2"", ""Q1"", ""Q3""]}",2513,5001,"Q2,Q3,Q4,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_191,"Q1,Q3,Q2,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]
+}
+```",3202,2680,"Q1,Q2,Q4,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_192,"Q3,Q1,Q4,Q2","{""ranking"": [""Q3"", ""Q1"", ""Q4"", ""Q2""]}",2306,1613,"Q2,Q4,Q3,Q1",0.16666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_193,"Q4,Q1,Q3,Q2","{""ranking"": [""Q4"", ""Q1"", ""Q3"", ""Q2""]}",1170,2815,"Q4,Q3,Q1,Q2",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_194,"Q1,Q4,Q2,Q3","{""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]}",1542,1826,"Q1,Q4,Q3,Q2",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_195,"Q1,Q3,Q2,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]
+}
+```",2019,3211,"Q2,Q3,Q1,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_196,"Q2,Q1,Q3,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]
+}
+```",1849,1451,"Q2,Q3,Q4,Q1",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_197,"Q3,Q2,Q1,Q4","{""ranking"": [""Q3"", ""Q2"", ""Q1"", ""Q4""]}",3196,3181,"Q3,Q1,Q4,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_198,"Q4,Q1,Q2,Q3","{""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]}",1758,6296,"Q4,Q2,Q1,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_199,"Q4,Q2,Q3,Q1","{""ranking"": [""Q4"", ""Q2"", ""Q3"", ""Q1""]}",3538,3390,"Q3,Q4,Q2,Q1",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_200,"Q2,Q4,Q1,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]
+}
+```",1337,2609,"Q2,Q1,Q4,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_201,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",1715,2968,"Q3,Q4,Q1,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_202,"Q1,Q4,Q3,Q2","{""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]}",1357,3610,"Q3,Q4,Q2,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_203,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",1621,3794,"Q3,Q1,Q2,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_204,"Q4,Q1,Q3,Q2","```json
+{
+  ""ranking"": [""Q4"", ""Q1"", ""Q3"", ""Q2""]
+}
+```",684,1593,"Q2,Q3,Q4,Q1",0.16666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_205,"Q1,Q3,Q2,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q3"", ""Q2"", ""Q4""]
+}
+```",1026,2458,"Q2,Q3,Q4,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_206,"Q3,Q1,Q4,Q2","{""ranking"": [""Q3"", ""Q1"", ""Q4"", ""Q2""]}",1304,1667,"Q3,Q1,Q4,Q2",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_207,"Q1,Q2,Q4,Q3","{""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]}",2187,4529,"Q2,Q4,Q3,Q1",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_208,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",1403,3327,"Q1,Q3,Q2,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_209,"Q3,Q2,Q4,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]
+}
+```",2499,5695,"Q2,Q1,Q4,Q3",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_210,"Q3,Q4,Q2,Q1","{""ranking"": [""Q3"", ""Q4"", ""Q2"", ""Q1""]}",1175,6110,"Q2,Q1,Q3,Q4",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_211,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",1142,3522,"Q3,Q1,Q2,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_212,"Q3,Q1,Q2,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]
+}
+```",3518,1685,"Q3,Q4,Q1,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_213,"Q1,Q4,Q3,Q2","```json
+{
+  ""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]
+}
+```",2266,1994,"Q4,Q2,Q3,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_214,"Q2,Q4,Q3,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q3"", ""Q1""]
+}
+```",1521,2495,"Q3,Q2,Q4,Q1",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_215,"Q4,Q1,Q2,Q3","```json
+{
+  ""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]
+}
+```",2327,1803,"Q2,Q4,Q1,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_216,"Q1,Q3,Q4,Q2","{""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]}",3964,2701,"Q4,Q1,Q2,Q3",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_217,"Q2,Q1,Q4,Q3","{""ranking"": [""Q2"", ""Q1"", ""Q4"", ""Q3""]}",1482,3953,"Q2,Q4,Q1,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_218,"Q4,Q3,Q1,Q2","```json
+{
+  ""ranking"": [""Q4"", ""Q3"", ""Q1"", ""Q2""]
+}
+```",3217,1463,"Q4,Q1,Q2,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_219,"Q3,Q4,Q1,Q2","```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q1"", ""Q2""]
+}
+```",3127,4152,"Q2,Q3,Q1,Q4",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_220,"Q4,Q2,Q3,Q1","```json
+{
+  ""ranking"": [""Q4"", ""Q2"", ""Q3"", ""Q1""]
+}
+```",2283,5801,"Q2,Q4,Q3,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_221,"Q2,Q1,Q3,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]
+}
+```",3296,1942,"Q3,Q1,Q2,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_222,"Q3,Q2,Q1,Q4","{""ranking"": [""Q3"", ""Q2"", ""Q1"", ""Q4""]}",1974,2498,"Q3,Q1,Q4,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_223,"Q3,Q2,Q1,Q4","```json
+{
+  ""ranking"": [""Q3"", ""Q2"", ""Q1"", ""Q4""]
+}
+```",1562,3964,"Q3,Q2,Q1,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_224,"Q2,Q3,Q1,Q4","{""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]}",3798,1442,"Q2,Q3,Q1,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_225,"Q1,Q3,Q4,Q2","{
+  ""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]
+}",1266,3438,"Q4,Q3,Q2,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_226,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",3964,9949,"Q3,Q1,Q2,Q4",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_227,"Q2,Q1,Q4,Q3","{""ranking"": [""Q2"", ""Q1"", ""Q4"", ""Q3""]}",5029,1854,"Q2,Q4,Q3,Q1",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_228,"Q4,Q3,Q1,Q2","{""ranking"": [""Q4"", ""Q3"", ""Q1"", ""Q2""]}",1929,1562,"Q4,Q3,Q2,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_229,"Q2,Q1,Q3,Q4","{""ranking"": [""Q2"", ""Q1"", ""Q3"", ""Q4""]}",1670,5994,"Q4,Q2,Q3,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_230,"Q2,Q4,Q1,Q3","```json
+{
+  ""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]
+}
+```",1529,2488,"Q2,Q1,Q4,Q3",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_231,"Q2,Q3,Q1,Q4","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q1"", ""Q4""]
+}
+```",4637,2447,"Q3,Q1,Q2,Q4",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_232,"Q1,Q2,Q4,Q3","{""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]}",2118,5664,"Q1,Q2,Q3,Q4",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_233,"Q1,Q4,Q2,Q3","{""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]}",3168,6752,"Q2,Q1,Q3,Q4",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_234,"Q4,Q2,Q1,Q3","```json
+{
+  ""ranking"": [""Q4"", ""Q2"", ""Q1"", ""Q3""]
+}
+```",2720,3334,"Q2,Q1,Q4,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_235,"Q1,Q2,Q3,Q4","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]
+}
+```",1224,2850,"Q3,Q1,Q4,Q2",0.5,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_236,"Q3,Q2,Q4,Q1","{""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]}",2290,4971,"Q3,Q1,Q2,Q4",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_237,"Q4,Q3,Q1,Q2","```json
+{
+  ""ranking"": [""Q4"", ""Q3"", ""Q1"", ""Q2""]
+}
+```",2722,1913,"Q4,Q3,Q2,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_238,"Q4,Q1,Q2,Q3","{""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]}",1632,2808,"Q3,Q4,Q2,Q1",0.3333333333333333,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_239,"Q1,Q2,Q4,Q3","```json
+{
+  ""ranking"": [""Q1"", ""Q2"", ""Q4"", ""Q3""]
+}
+```",1314,2448,"Q4,Q1,Q2,Q3",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_240,"Q2,Q3,Q4,Q1","```json
+{
+  ""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]
+}
+```",2870,2662,"Q2,Q4,Q3,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_241,"Q1,Q3,Q4,Q2","```json
+{
+  ""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]
+}
+```",1194,2260,"Q1,Q3,Q4,Q2",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_242,"Q3,Q2,Q4,Q1","{""ranking"": [""Q3"", ""Q2"", ""Q4"", ""Q1""]}",1801,3050,"Q3,Q2,Q4,Q1",1.0,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_243,"Q3,Q1,Q4,Q2","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q4"", ""Q2""]
+}
+```",1212,6054,"Q3,Q4,Q2,Q1",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_244,"Q2,Q3,Q4,Q1","{""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]}",2124,1257,"Q3,Q2,Q4,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_245,"Q2,Q3,Q4,Q1","{""ranking"": [""Q2"", ""Q3"", ""Q4"", ""Q1""]}",1207,2242,"Q3,Q2,Q4,Q1",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_246,"Q3,Q4,Q2,Q1","```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q2"", ""Q1""]
+}
+```",2283,1541,"Q3,Q4,Q1,Q2",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_247,"Q3,Q1,Q4,Q2","```json
+{
+  ""ranking"": [""Q3"", ""Q1"", ""Q4"", ""Q2""]
+}
+```",1417,1649,"Q3,Q4,Q1,Q2",0.8333333333333334,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_248,"Q3,Q1,Q2,Q4","{""ranking"": [""Q3"", ""Q1"", ""Q2"", ""Q4""]}",1475,2655,"Q1,Q3,Q4,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_249,"Q1,Q3,Q4,Q2","{""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]}",1949,1291,"Q3,Q4,Q1,Q2",0.6666666666666666,deepseek/deepseek-r1
+MMLU_ARRANGED_GROUP_250,"Q2,Q4,Q1,Q3","{""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]}",2674,2874,"Q2,Q3,Q4,Q1",0.6666666666666666,deepseek/deepseek-r1

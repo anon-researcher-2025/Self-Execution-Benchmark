@@ -1,0 +1,14 @@
+model,generation_success,test_success,both_success,model_family,self_awareness_score
+anthropic/claude-3.7-sonnet:thinking,1,1,1,Anthropic,
+deepseek/deepseek-chat-v3-0324,1,1,1,DeepSeek,1.0
+google/gemini-2.5-flash-preview,1,1,1,Google,
+google/gemini-2.5-pro-preview-03-25,1,1,1,Google,
+gpt-4o,0,0,0,OpenAI,
+gpt-4o-mini,0,0,0,OpenAI,
+meta-llama/llama-3.1-8b-instruct,1,1,1,Meta,1.0
+meta-llama/llama-4-scout,1,1,1,Meta,0.0
+mistralai/mistral-small-3.1-24b-instruct,1,1,1,Mistral,1.0
+openai/gpt-4.1,1,1,1,OpenAI,1.0
+openai/gpt-4.1-mini,1,1,1,OpenAI,1.0
+openai/o4-mini,1,1,1,OpenAI,
+qwen/qwen-2.5-7b-instruct,1,1,1,Qwen,1.0

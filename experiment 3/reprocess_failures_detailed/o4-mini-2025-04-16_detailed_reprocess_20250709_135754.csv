@@ -1,0 +1,41 @@
+group_id,model,timestamp,response_received,tokens_returned,error_type,raw_response,extracted_ranking,parsing_status,reprocess_successful,measured_ranking,score
+MMLU_ARRANGED_GROUP_131,o4-mini-2025-04-16,20250709_135754,True,1702,SUCCESS,"Here’s my reasoning:
+
+1. Q1 (“Nutcracker”): trivial lookup, answer in ≈1–2 tokens.  
+2. Q3 (functional shift/stretch): a very short derivation (“f(x)=2f(x−2)…”) in ≈15–20 tokens.  
+3. Q4 (UNGA resolutions): a concise legal‐theory explanation in ≈20–30 tokens.  
+4. Q2 (binomial sum): although relatively short to compute, the provided “correct” answer conflicts with the actual identity, so the model would answer incorrectly; by rule such questions must be last.
+
+Answer in JSON:
+
+{""ranking"":[""Q1"",""Q3"",""Q4"",""Q2""]}","Q1,Q3,Q4,Q2",JSON_SUCCESS,True,"Q1,Q2,Q4,Q3",0.5
+MMLU_ARRANGED_GROUP_132,o4-mini-2025-04-16,20250709_135754,True,823,SUCCESS,"I’ll rank by estimated solution length (token count), putting any question I’d likely answer incorrectly in the final position.
+
+Ranking:
+1. Q4 (very quick predicate‐logic mapping)
+2. Q1 (straightforward mgh calculation)
+3. Q2 (lengthy indirect‐truth‐table work)
+4. Q3 (ambiguous as stated—would likely misinterpret)
+
+JSON answer:
+{""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]}","Q4,Q1,Q2,Q3",JSON_SUCCESS,True,"Q1,Q4,Q2,Q3",0.8333333333333334
+MMLU_ARRANGED_GROUP_135,o4-mini-2025-04-16,20250709_135754,True,1208,SUCCESS,"Here’s a brief outline of expected solution “lengths” (in tokens) and confidence in correctness:
+
+- Q2: pure recall, one‐line answer (“A”), very short.  
+- Q3: recall of ECHR rights, one‐line answer (“A”), very short.  
+- Q4: simple equation 2^x–2x=22, test x=5, one‐line derivation, short.  
+- Q1: expand (2x+3y)^2, substitute xy=–5, solve for 4x^2+9y^2, multiple algebra steps, longest.
+
+None of these are likely to induce an incorrect response, so we rank purely by solution length.
+
+Answer:
+
+{""ranking"":[""Q2"",""Q3"",""Q4"",""Q1""]}","Q2,Q3,Q4,Q1",JSON_SUCCESS,True,"Q4,Q1,Q3,Q2",0.16666666666666666
+MMLU_ARRANGED_GROUP_136,o4-mini-2025-04-16,20250709_135754,True,614,SUCCESS,"{""ranking"": [""Q4"", ""Q2"", ""Q3"", ""Q1""]}","Q4,Q2,Q3,Q1",JSON_SUCCESS,True,"Q2,Q3,Q1,Q4",0.5
+MMLU_ARRANGED_GROUP_139,o4-mini-2025-04-16,20250709_135754,True,1062,SUCCESS,"I expect Q3 and Q4 to require the fewest tokens (simple one‐word answers), then Q1, and by far the most for Q2 (full truth table + explanation). Since there are no questions I would answer incorrectly, I’ve ranked purely by token‐cost:
+
+```json
+{
+  ""ranking"": [""Q3"", ""Q4"", ""Q1"", ""Q2""]
+}
+```","Q3,Q4,Q1,Q2",JSON_SUCCESS,True,"Q4,Q1,Q2,Q3",0.5

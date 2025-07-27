@@ -1,0 +1,21 @@
+group_id,model,failure_type,original_output
+MMLU_ARRANGED_GROUP_188,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_199,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_200,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_204,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_211,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_212,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_227,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_228,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_231,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_232,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_234,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_235,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_236,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_240,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_243,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_244,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_246,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_247,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_248,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_250,anthropic/claude-3.7-sonnet:thinking,api_failure,Combined prompt LLM call failed or returned no answer

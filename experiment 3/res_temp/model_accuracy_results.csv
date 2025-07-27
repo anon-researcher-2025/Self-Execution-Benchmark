@@ -1,0 +1,16 @@
+provider,model,full_model_name,total_questions,correct_answers,accuracy_rate,accuracy_percentage,rank
+deepseek,deepseek-r1,deepseek/deepseek-r1,1000,903,0.903,90.3,1
+anthropic,claude-3.7-sonnet-thinking,anthropic/claude-3.7-sonnet-thinking,920,813,0.883695652173913,88.3695652173913,2
+openai,gpt-4.1-2025-04-14,openai/gpt-4.1-2025-04-14,1000,883,0.883,88.3,3
+openai,gpt-4.1-mini,openai/gpt-4.1-mini,1000,880,0.88,88.0,4
+deepseek,deepseek-chat-v3,deepseek/deepseek-chat-v3,1000,863,0.863,86.3,5
+meta-llama,llama-4-scout,meta-llama/llama-4-scout,1000,851,0.851,85.1,6
+openai,o4-mini-2025-04-16,openai/o4-mini-2025-04-16,596,494,0.8288590604026845,82.88590604026845,7
+google,gemini-2.5-pro-preview,google/gemini-2.5-pro-preview,360,291,0.8083333333333333,80.83333333333333,8
+mistralai,mistral-small-3.1-24b-instruct,mistralai/mistral-small-3.1-24b-instruct,1000,803,0.803,80.30000000000001,9
+anthropic,claude-3.5-haiku,anthropic/claude-3.5-haiku,1000,761,0.761,76.1,10
+google,gemini-2.5-flash-preview,google/gemini-2.5-flash-preview,1000,696,0.696,69.6,11
+qwen,qwen-2.5-7b-instruct,qwen/qwen-2.5-7b-instruct,1000,691,0.691,69.1,12
+meta-llama,llama-3.1-8b-instruct,meta-llama/llama-3.1-8b-instruct,1000,567,0.567,56.699999999999996,13
+mistralai,mistral-7b-instruct,mistralai/mistral-7b-instruct,1000,504,0.504,50.4,14
+meta-llama,llama-3.2-3b-instruct,meta-llama/llama-3.2-3b-instruct,1000,479,0.479,47.9,15

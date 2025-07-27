@@ -1,0 +1,7 @@
+openai
+requests
+matplotlib
+pandas
+seaborn
+numpy
+scipy

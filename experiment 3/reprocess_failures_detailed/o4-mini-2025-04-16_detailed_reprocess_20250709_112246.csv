@@ -1,0 +1,6 @@
+group_id,model,timestamp,response_received,tokens_returned,error_type,raw_response,extracted_ranking,parsing_status,reprocess_successful
+MMLU_ARRANGED_GROUP_131,o4-mini-2025-04-16,20250709_112246,True,550,SUCCESS,"{""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]}","Q1,Q2,Q3,Q4",JSON_SUCCESS,True
+MMLU_ARRANGED_GROUP_132,o4-mini-2025-04-16,20250709_112246,True,614,SUCCESS,"{""ranking"": [""Q4"", ""Q1"", ""Q2"", ""Q3""]}","Q4,Q1,Q2,Q3",JSON_SUCCESS,True
+MMLU_ARRANGED_GROUP_135,o4-mini-2025-04-16,20250709_112246,True,486,SUCCESS,"{""ranking"": [""Q1"", ""Q4"", ""Q2"", ""Q3""]}","Q1,Q4,Q2,Q3",JSON_SUCCESS,True
+MMLU_ARRANGED_GROUP_136,o4-mini-2025-04-16,20250709_112246,True,678,SUCCESS,"{""ranking"": [""Q1"", ""Q2"", ""Q3"", ""Q4""]}","Q1,Q2,Q3,Q4",JSON_SUCCESS,True
+MMLU_ARRANGED_GROUP_139,o4-mini-2025-04-16,20250709_112246,True,486,SUCCESS,"{""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]}","Q1,Q4,Q3,Q2",JSON_SUCCESS,True

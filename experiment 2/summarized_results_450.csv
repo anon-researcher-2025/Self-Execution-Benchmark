@@ -1,0 +1,165 @@
+0
+"The current model is: meta-llama/llama-3-8b-instruct
+"
+"Number of consistent answers: 249
+"
+"Consistency rate: 0.5533333333333333
+"
+"Number of over cuteness: 40
+"
+"Over cuteness rate: 0.7547169811320755
+"
+"Number of provision failure: 148
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: meta-llama/llama-3-70b-instruct
+"
+"Number of consistent answers: 231
+"
+"Consistency rate: 0.5133333333333333
+"
+"Number of over cuteness: 62
+"
+"Over cuteness rate: 0.96875
+"
+"Number of provision failure: 155
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: meta-llama/llama-3.2-3b-instruct
+"
+"Number of consistent answers: 214
+"
+"Consistency rate: 0.47555555555555556
+"
+"Number of over cuteness: 68
+"
+"Over cuteness rate: 0.7472527472527473
+"
+"Number of provision failure: 114
+"
+"Number of verification failure: 31
+"
+0
+"The current model is: qwen/qwen2.5-32b-instruct
+"
+"Number of consistent answers: 332
+"
+"Consistency rate: 0.7377777777777778
+"
+"Number of over cuteness: 117
+"
+"Over cuteness rate: 0.9915254237288136
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: mistralai/mixtral-8x22b-instruct
+"
+"Number of consistent answers: 302
+"
+"Consistency rate: 0.6711111111111111
+"
+"Number of over cuteness: 147
+"
+"Over cuteness rate: 0.9932432432432432
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: mistralai/mistral-7b-instruct
+"
+"Number of consistent answers: 271
+"
+"Consistency rate: 0.6022222222222222
+"
+"Number of over cuteness: 58
+"
+"Over cuteness rate: 0.3240223463687151
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: openai/gpt-4.1-mini
+"
+"Number of consistent answers: 391
+"
+"Consistency rate: 0.8688888888888889
+"
+"Number of over cuteness: 55
+"
+"Over cuteness rate: 0.9322033898305084
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: meta-llama/llama-3.1-8b-instruct
+"
+"Number of consistent answers: 1
+"
+"Consistency rate: 0.0022222222222222222
+"
+"Number of over cuteness: 0
+"
+"Over cuteness rate: 0.0
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: meta-llama/llama-3.1-8b-instruct
+"
+"Number of consistent answers: 0
+"
+"Consistency rate: 0.0
+"
+"Number of over cuteness: 0
+"
+"Over cuteness rate: 0.0
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 1
+"
+0
+"The current model is: meta-llama/llama-3.1-8b-instruct
+"
+"Number of consistent answers: 2
+"
+"Consistency rate: 0.0044444444444444444
+"
+"Number of over cuteness: 0
+"
+"Over cuteness rate: 0.0
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: meta-llama/llama-3.1-8b-instruct
+"
+"Number of consistent answers: 1
+"
+"Consistency rate: 0.002197802197802198
+"
+"Number of over cuteness: 0
+"
+"Over cuteness rate: 0.0
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"

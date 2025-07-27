@@ -1,0 +1,32 @@
+group_id,model,timestamp,response_received,tokens_returned,error_type,raw_response,extracted_ranking,parsing_status,reprocess_successful
+MMLU_ARRANGED_GROUP_131,o4-mini-2025-04-16,20250709_132604,True,952,SUCCESS,"Here’s my reasoning:  
+- Q1 is trivial and requires almost no computation.  
+- Q3 needs a brief recurrence argument (f(x)=2f(x–2)) repeated 5 times.  
+- Q4 requires a short explanation of legal theory.  
+- Q2’s “correct” answer as given is wrong, so if asked I’d answer differently and thus it must go last.
+
+Answer in JSON:  
+{""ranking"":[""Q1"",""Q3"",""Q4"",""Q2""]}","Q1,Q3,Q4,Q2",JSON_SUCCESS,True
+MMLU_ARRANGED_GROUP_132,o4-mini-2025-04-16,20250709_132604,True,1463,SUCCESS,"Here’s my reasoning on expected solution lengths and potential for error:
+
+- Q4 (predicate‐logic translation) is very brief—just a one‐step mapping of terms—so it takes the fewest tokens.  
+- Q1 (energy calculation) is also short but slightly longer than Q4 (a quick mgh computation).  
+- Q2 (indirect truth‐table consistency) requires multi‐step propositional logic work, so it’s the most token‐intensive among the correctly solvable items.  
+- Q3 is underspecified (no statements 1–4 are given), so the model would have to guess and likely err; per instructions, it goes last regardless of token count.  
+
+Answer in JSON:  
+{""ranking"":[""Q4"",""Q1"",""Q2"",""Q3""]}","Q4,Q1,Q2,Q3",JSON_SUCCESS,True
+MMLU_ARRANGED_GROUP_135,o4-mini-2025-04-16,20250709_132604,True,692,SUCCESS,"Here’s the estimated ranking from least to most tokens needed to solve (none will be answered incorrectly, so no re-ordering for wrong answers):
+
+1. Q4 (simple plug-in and trial)  
+2. Q3 (straightforward recall)  
+3. Q2 (requires citing the general rule)  
+4. Q1 (algebraic expansion and substitution)  
+
+Answer in JSON:  
+{""ranking"":[""Q4"",""Q3"",""Q2"",""Q1""]}","Q4,Q3,Q2,Q1",JSON_SUCCESS,True
+MMLU_ARRANGED_GROUP_136,o4-mini-2025-04-16,20250709_132604,True,920,SUCCESS,"I would expect to use the fewest tokens on Q4, then Q3, then Q2, and the most on Q1. Since I don’t anticipate getting any of them wrong, none get bumped to the end.  
+
+Answer:  
+{""ranking"": [""Q4"", ""Q3"", ""Q2"", ""Q1""]}","Q4,Q3,Q2,Q1",JSON_SUCCESS,True
+MMLU_ARRANGED_GROUP_139,o4-mini-2025-04-16,20250709_132604,True,1058,SUCCESS,"{""ranking"":[""Q4"",""Q3"",""Q1"",""Q2""]}","Q4,Q3,Q1,Q2",JSON_SUCCESS,True

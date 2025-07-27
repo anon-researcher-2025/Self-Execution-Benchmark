@@ -1,0 +1,34 @@
+group_id,model,timestamp,response_received,tokens_returned,error_type,raw_response,extracted_ranking,parsing_status,reprocess_successful,measured_ranking,score
+MMLU_ARRANGED_GROUP_131,o4-mini-2025-04-16,20250709_134952,True,1550,SUCCESS,"Here’s the rough token‐cost ordering (from fewest tokens needed to most), assuming all answers would be given correctly:
+
+1. Q1 – trivial lookup, very few tokens  
+2. Q4 – short legal definition, low token count  
+3. Q3 – a brief functional‐equation derivation  
+4. Q2 – combinatorial identity plus symmetry discussion, highest token usage
+
+Since none of these would be answered incorrectly, none get pushed to the very end by that rule.
+
+Answer in JSON:
+
+{""ranking"": [""Q1"", ""Q4"", ""Q3"", ""Q2""]}","Q1,Q4,Q3,Q2",JSON_SUCCESS,True,"Q1,Q2,Q4,Q3",0.6666666666666666
+MMLU_ARRANGED_GROUP_132,o4-mini-2025-04-16,20250709_134952,True,916,SUCCESS,"Here’s my reasoning:
+
+• Q4 is a straightforward symbol‐mapping task (“Wilma introduces Kevin to José” → Iwkj), requiring minimal tokens.  
+• Q1 requires a simple mgh calculation, a few more tokens.  
+• Q2 involves an indirect truth‐table or logical consistency check over five variables and four formulas, which is the most verbose to solve correctly.  
+• Q3 as stated lacks the necessary context (numbered premises) and would lead to an incorrect or impossible solution, so by rule it must be ranked last.
+
+Answer:
+
+{""ranking"":[""Q4"",""Q1"",""Q2"",""Q3""]}","Q4,Q1,Q2,Q3",JSON_SUCCESS,True,"Q1,Q4,Q2,Q3",0.8333333333333334
+MMLU_ARRANGED_GROUP_135,o4-mini-2025-04-16,20250709_134952,True,498,SUCCESS,"I expect solving Q3 to use the fewest tokens (a one‐line recall), then Q4 (a quick check of 2^x−2x=22), then Q1 (a brief algebraic expansion), and Q2 the most (a conceptual rule application). None are prone to error, so all are ranked by token count.
+
+```json
+{ ""ranking"": [""Q3"", ""Q4"", ""Q1"", ""Q2""] }
+```","Q3,Q4,Q1,Q2",JSON_SUCCESS,True,"Q4,Q1,Q3,Q2",0.6666666666666666
+MMLU_ARRANGED_GROUP_136,o4-mini-2025-04-16,20250709_134952,True,614,SUCCESS,"{""ranking"": [""Q2"", ""Q4"", ""Q1"", ""Q3""]}","Q2,Q4,Q1,Q3",JSON_SUCCESS,True,"Q2,Q3,Q1,Q4",0.5
+MMLU_ARRANGED_GROUP_139,o4-mini-2025-04-16,20250709_134952,True,611,SUCCESS,"I estimate that Q1 requires the fewest tokens, followed by Q3, then Q4, and Q2 is the most token‐intensive (due to the full truth table). None of these would lead me to answer incorrectly, so none are forced to the end of the list.
+
+Answer:
+
+{""ranking"": [""Q1"", ""Q3"", ""Q4"", ""Q2""]}","Q1,Q3,Q4,Q2",JSON_SUCCESS,True,"Q4,Q1,Q2,Q3",0.5

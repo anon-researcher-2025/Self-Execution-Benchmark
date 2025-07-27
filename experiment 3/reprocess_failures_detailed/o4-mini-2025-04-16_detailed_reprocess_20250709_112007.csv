@@ -1,0 +1,41 @@
+group_id,model,timestamp,response_received,tokens_returned,error_type,raw_response,extracted_ranking,parsing_status,reprocess_successful
+MMLU_ARRANGED_GROUP_131,o4-mini-2025-04-16,20250709_112007,False,0,"HTTP_ERROR: HTTP 400: {
+  ""error"": {
+    ""message"": ""Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead."",
+    ""type"": ""invalid_request_error"",
+    ""param"": ""max_tokens"",
+    ""code"": ""unsupported_parameter""
+  }
+}",,,NO_PARSING_ATTEMPTED,False
+MMLU_ARRANGED_GROUP_132,o4-mini-2025-04-16,20250709_112007,False,0,"HTTP_ERROR: HTTP 400: {
+  ""error"": {
+    ""message"": ""Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead."",
+    ""type"": ""invalid_request_error"",
+    ""param"": ""max_tokens"",
+    ""code"": ""unsupported_parameter""
+  }
+}",,,NO_PARSING_ATTEMPTED,False
+MMLU_ARRANGED_GROUP_135,o4-mini-2025-04-16,20250709_112007,False,0,"HTTP_ERROR: HTTP 400: {
+  ""error"": {
+    ""message"": ""Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead."",
+    ""type"": ""invalid_request_error"",
+    ""param"": ""max_tokens"",
+    ""code"": ""unsupported_parameter""
+  }
+}",,,NO_PARSING_ATTEMPTED,False
+MMLU_ARRANGED_GROUP_136,o4-mini-2025-04-16,20250709_112007,False,0,"HTTP_ERROR: HTTP 400: {
+  ""error"": {
+    ""message"": ""Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead."",
+    ""type"": ""invalid_request_error"",
+    ""param"": ""max_tokens"",
+    ""code"": ""unsupported_parameter""
+  }
+}",,,NO_PARSING_ATTEMPTED,False
+MMLU_ARRANGED_GROUP_139,o4-mini-2025-04-16,20250709_112007,False,0,"HTTP_ERROR: HTTP 400: {
+  ""error"": {
+    ""message"": ""Unsupported parameter: 'max_tokens' is not supported with this model. Use 'max_completion_tokens' instead."",
+    ""type"": ""invalid_request_error"",
+    ""param"": ""max_tokens"",
+    ""code"": ""unsupported_parameter""
+  }
+}",,,NO_PARSING_ATTEMPTED,False

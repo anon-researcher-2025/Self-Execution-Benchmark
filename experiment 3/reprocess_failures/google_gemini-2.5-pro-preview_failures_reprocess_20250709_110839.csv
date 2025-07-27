@@ -1,0 +1,15 @@
+group_id,model,failure_type,original_output
+MMLU_ARRANGED_GROUP_160,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_164,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_168,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_187,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_188,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_191,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_192,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_210,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_211,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_222,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_224,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_225,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_236,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer
+MMLU_ARRANGED_GROUP_248,google/gemini-2.5-pro-preview,api_failure,Combined prompt LLM call failed or returned no answer

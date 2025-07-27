@@ -1,0 +1,240 @@
+0
+"The current model is: openai/gpt-4.1-mini
+"
+"Number of consistent answers: 395
+"
+"Consistency rate: 0.8777777777777778
+"
+"Number of over cuteness: 52
+"
+"Over cuteness rate: 0.9454545454545454
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: openai/o4-mini
+"
+"Number of consistent answers: 403
+"
+"Consistency rate: 0.8955555555555555
+"
+"Number of over cuteness: 30
+"
+"Over cuteness rate: 0.9090909090909091
+"
+"Number of provision failure: 1
+"
+"Number of verification failure: 13
+"
+0
+"The current model is: deepseek/deepseek-r1
+"
+"Number of consistent answers: 316
+"
+"Consistency rate: 0.7022222222222222
+"
+"Number of over cuteness: 133
+"
+"Over cuteness rate: 0.9925373134328358
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: deepseek/deepseek-chat-v3
+"
+"Number of consistent answers: 362
+"
+"Consistency rate: 0.8044444444444444
+"
+"Number of over cuteness: 85
+"
+"Over cuteness rate: 0.9770114942528736
+"
+"Number of provision failure: 1
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: google/gemini-2.5-pro-preview
+"
+"Number of consistent answers: 145
+"
+"Consistency rate: 0.32222222222222224
+"
+"Number of over cuteness: 10
+"
+"Over cuteness rate: 0.5882352941176471
+"
+"Number of provision failure: 282
+"
+"Number of verification failure: 6
+"
+0
+"The current model is: google/gemini-2.5-flash-preview
+"
+"Number of consistent answers: 309
+"
+"Consistency rate: 0.6866666666666666
+"
+"Number of over cuteness: 116
+"
+"Over cuteness rate: 0.9830508474576272
+"
+"Number of provision failure: 6
+"
+"Number of verification failure: 17
+"
+0
+"The current model is: meta-llama/llama-4-scout
+"
+"Number of consistent answers: 368
+"
+"Consistency rate: 0.8177777777777778
+"
+"Number of over cuteness: 64
+"
+"Over cuteness rate: 0.9411764705882353
+"
+"Number of provision failure: 11
+"
+"Number of verification failure: 3
+"
+0
+"The current model is: meta-llama/llama-3.1-8b-instruct
+"
+"Number of consistent answers: 143
+"
+"Consistency rate: 0.31777777777777777
+"
+"Number of over cuteness: 18
+"
+"Over cuteness rate: 0.32727272727272727
+"
+"Number of provision failure: 239
+"
+"Number of verification failure: 13
+"
+0
+"The current model is: mistralai/mistral-small-3.1-24b-instruct
+"
+"Number of consistent answers: 340
+"
+"Consistency rate: 0.7555555555555555
+"
+"Number of over cuteness: 105
+"
+"Over cuteness rate: 0.9545454545454546
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: anthropic/claude-3.7-sonnet-thinking
+"
+"Number of consistent answers: 0
+"
+"Consistency rate: 0.0
+"
+"Number of over cuteness: 0
+"
+"Over cuteness rate: 0
+"
+"Number of provision failure: 450
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: anthropic/claude-3.7-sonnet:thinking
+"
+"Number of consistent answers: 328
+"
+"Consistency rate: 0.7288888888888889
+"
+"Number of over cuteness: 48
+"
+"Over cuteness rate: 0.8421052631578947
+"
+"Number of provision failure: 62
+"
+"Number of verification failure: 3
+"
+0
+"The current model is: anthropic/claude-3.5-haiku
+"
+"Number of consistent answers: 92
+"
+"Consistency rate: 0.20444444444444446
+"
+"Number of over cuteness: 18
+"
+"Over cuteness rate: 0.75
+"
+"Number of provision failure: 325
+"
+"Number of verification failure: 9
+"
+0
+"The current model is: anthropic/claude-3.5-haiku
+"
+"Number of consistent answers: 323
+"
+"Consistency rate: 0.7177777777777777
+"
+"Number of over cuteness: 115
+"
+"Over cuteness rate: 0.92
+"
+"Number of provision failure: 1
+"
+"Number of verification failure: 1
+"
+0
+"The current model is: qwen/qwen2.5-7b-instruct
+"
+"Number of consistent answers: 0
+"
+"Consistency rate: 0.0
+"
+"Number of over cuteness: 0
+"
+"Over cuteness rate: 0
+"
+"Number of provision failure: 450
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: qwen/qwen-2.5-7b-instruct
+"
+"Number of consistent answers: 348
+"
+"Consistency rate: 0.7733333333333333
+"
+"Number of over cuteness: 99
+"
+"Over cuteness rate: 0.9801980198019802
+"
+"Number of provision failure: 1
+"
+"Number of verification failure: 0
+"
+0
+"The current model is: openai/gpt-4.1
+"
+"Number of consistent answers: 380
+"
+"Consistency rate: 0.8444444444444444
+"
+"Number of over cuteness: 68
+"
+"Over cuteness rate: 0.9714285714285714
+"
+"Number of provision failure: 0
+"
+"Number of verification failure: 0
+"
