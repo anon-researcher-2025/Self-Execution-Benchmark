@@ -1,0 +1,56 @@
+Model Name, Benchmark Name, Score
+GPT-4.1, MMLU-Pro (knowledge),80.50%
+GPT-4.1, MGSM (math reasoning/GSM8K),87.20%
+GPT-4.1, Math500 (math problems),87.20%
+GPT-4.1, AIME (math competition),39.80%
+GPT-4.1, LegalBench (legal reasoning),81.90%
+GPT-4.1, MedQA (medical exam),91.20%
+GPT-4.1, GPQA (general QA),64.60%
+GPT-4.1, MMMU (multilingual multi-task),72.60%
+GPT-4.1, FinanceAgent (analyst tasks),24.60%
+GPT-4.1, SWE-bench Verified (coding),54.60%
+GPT-4.1, MultiChallenge (instruction following),38.30%
+GPT-4.1, Video-MME (long video understanding),72.00%
+GPT-4.1 Mini, MMLU-Pro,77.20%
+GPT-4.1 Mini, MGSM (GSM8K math),93.40%
+GPT-4.1 Mini, Math500,88.80%
+GPT-4.1 Mini, Average Accuracy (all benchmarks),75.10%
+DeepSeek R1, MMLU (5-shot),90.80%
+DeepSeek R1, MATH-500,97.30%
+DeepSeek R1, AIME 2024,79.80%
+DeepSeek R1, SWE-bench Verified (coding),49.20%
+DeepSeek V3, MMLU,88.50%
+DeepSeek V3, MMLU-Pro,75.90%
+DeepSeek V3, GPQA,59.10%
+DeepSeek V3, Polyglot Code (multilingual coding),48.50%
+Gemini 2.5 Pro, MMLU-Pro,84.10%
+Gemini 2.5 Pro, Math500,95.20%
+Gemini 2.5 Pro, LegalBench,83.60%
+Gemini 2.5 Pro, SWE-bench Verified,63.80%
+Gemini 2.5 Flash, MMLU-Pro,77.40%
+Gemini 2.5 Flash, Latency (tokens/sec), 293.3 TPS
+LLaMA 4 Scout, MMLU (5-shot),69.60%
+LLaMA 4 Scout, AIME,28.30%
+LLaMA 4 Scout, MATH-500,84.40%
+LLaMA 4 Scout, GPQA,58.70%
+LLaMA 3.1 8B, MMLU (5-shot),46.40%
+LLaMA 3.1 8B, GSM8K, 0% (no solve)
+LLaMA 3.2 3B, MMLU (5-shot), ~20.0%
+LLaMA 3.2 3B, GSM8K, ~0%
+Mistral-7B, MMLU-Pro,69.70%
+Mistral-7B, MGSM (GSM8K),88.20%
+Mistral-7B, HumanEval (coding),67.90%
+Mistral-Small-3.1, MMLU-Pro,66.00%
+Mistral-Small-3.1, MGSM,85.40%
+Claude 3.7 Sonnet (Thinking), MMLU-Pro,82.70%
+Claude 3.7 Sonnet (Thinking), MGSM (GSM8K),92.80%
+Claude 3.7 Sonnet (Thinking), MATH-500,96.20%
+Claude 3.7 Sonnet (Thinking), AIME,61.30%
+Claude 3.7 Sonnet (Thinking), SWE-bench Verified,62.30%
+Claude 3.5 Haiku, MMLU-Pro,64.10%
+Claude 3.5 Haiku, MGSM (GSM8K),85.90%
+Claude 3.5 Haiku, MATH (5-shot),80.40%
+Qwen 2.5 7B, MMLU, ~74.2%
+Qwen 2.5 7B, HumanEval (coding), ~60%
+Qwen 2.5 7B, MATH, ~75.0%
+Qwen 2.5 7B, Long Context (tokens), 131k tokens context

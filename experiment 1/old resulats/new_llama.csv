@@ -1,0 +1,10 @@
+Word,Predictions,Generated Words,Final Score,Count Words,If Olnly False Predictions,Predicted True Count,Success Out of True,Success Out of False
+Alpaca,"{'south america': True, 'camel': False, 'llama': True, 'wool': True}","['fiber', 'south america', 'soft', 'herding', 'himalayas']",50.00 %,4,75.00 %,60.00 %,33.33 %,100.00 %
+Anemonefish,"{'shark': False, 'sea': True, 'coral': True}","['sea', 'anemone', 'fish', 'marine', 'colorful']",66.67 %,3,66.67 %,40.00 %,50.00 %,100.00 %
+Anteater,"{'forest': True, 'tongue': True, 'long': False}","['snout', 'claws', 'tongue', 'digging', 'nocturnal']",66.67 %,3,66.67 %,40.00 %,50.00 %,100.00 %
+Antelope,"{'hop': False, 'safari': True, 'lion': False}","['safari', 'savannah', 'resilient', 'agile', 'grazing']",100.00 %,3,66.67 %,20.00 %,100.00 %,100.00 %
+Bat,"{'ultrasonic': False, 'vampire': False, 'night': True, 'fly': True, 'cave': True}","['fang', 'night', 'cave', 'airplane', 'vampire']",40.00 %,5,40.00 %,60.00 %,33.33 %,50.00 %
+Bear,"{'grizzly': True, 'teddy': True, 'ted': False, 'honey': True, 'pooh': True}","['fur', 'forest', 'hibernation', 'claws', 'paw']",20.00 %,5,100.00 %,80.00 %,0.00 %,100.00 %
+Bison,"{'cattle': False, 'bison': True, 'steppe': True, 'america': False}","['wildlife', 'herd', 'native', 'herbivore', 'agriculture']",50.00 %,4,100.00 %,40.00 %,0.00 %,100.00 %
+Bonobo,"{'monkey': True, 'chimpanzee': True, 'baboon': False, 'primate': True}","['primate', 'gorilla', 'african', 'intelligent', 'conservation']",50.00 %,4,75.00 %,60.00 %,33.33 %,100.00 %
+Butterfly,"{'wings': True, 'flowers': True, 'colorful': True, 'meadow': False}","['colorful', 'transformation', 'delicate', 'circus', 'beauty']",50.00 %,4,75.00 %,60.00 %,33.33 %,100.00 %

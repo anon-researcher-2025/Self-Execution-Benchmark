@@ -1,0 +1,6 @@
+openai
+requests
+matplotlib
+pandas
+dataframe_image
+seaborn

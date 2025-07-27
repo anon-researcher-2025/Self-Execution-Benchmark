@@ -1,0 +1,476 @@
+Word,Predictions,Generated Words,Final Score (association detection accuracy),Count Words,If Only False Predictions,Predicted True Count,Success Out of True,Success Out of False
+Anemonefish,"{'shark': False, 'sea': True, 'coral': True}","['reef', 'ocean', 'coral', 'clownfish', 'parasitic']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Butterfly,"{'wings': True, 'flowers': True, 'colorful': True, 'meadow': True}","['colorful', 'delicate', 'beautiful', 'migratory', 'metamorphosis']",25.00 %,4,75.00 %,4,25.00 %,
+Cat,"{'pet': True, 'dog': False, 'meow': True, 'scratch': True, 'claws': True}","['whiskers', 'purr', 'claws', 'fur', 'lap']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Badger,"{'forest': False, 'marten': False, 'carnivore': True, 'predator': True}","['feral', 'european', 'sett', 'forest', 'tenacious']",25.00 %,4,75.00 %,2,0.00 %,50.00 %
+Bison,"{'cattle': False, 'bison': True, 'steppe': True, 'america': True}","['wild', 'american', 'herd', 'mammal', 'plains']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Bonobo,"{'monkey': True, 'chimpanzee': True, 'baboon': False, 'primate': True}","['ape', 'primate', 'intelligent', 'social', 'playful']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Chimpanzee,"{'monkey': True, 'human': False, 'intelligent': True, 'primate': True, 'orangutan': False}","['ape', 'primate', 'intelligent', 'agile', 'social']",80.00 %,5,60.00 %,3,66.67 %,100.00 %
+Chinchilla,"{'small': True, 'mouse': True, 'rat': False, 'america': False}","['furry', 'small', 'rodent', 'cute', 'soft']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Coati,"{'tree': False, 'climbing': True, 'america': True}","['mammal', 'primate', 'south', 'america', 'furry']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Cow,"{'stable': False, 'milk': True, 'udder': True, 'milking': True, 'straw': True}","['milk', 'farm', 'moos', 'hay', 'pasture']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Bear,"{'grizzly': False, 'teddy': True, 'ted': False, 'honey': True, 'pooh': True}","['grizzly', 'furry', 'honey', 'mountain', 'fierce']",40.00 %,5,60.00 %,3,33.33 %,50.00 %
+Cheetah,"{'fast': True, 'mp/h': False, 'lion': False, 'africa': True, 'savannah': True}","['speed', 'africa', 'wild', 'fastest', 'animal']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Anteater,"{'forest': False, 'tongue': True, 'long': True}","['mammal', 'nocturnal', 'tongue', 'snout', 'south']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Bat,"{'ultrasonic': False, 'vampire': True, 'night': True, 'fly': True}","['flying', 'animal', 'cave', 'insectivorous', 'nocturnal']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Ferret,"{'marten': True, 'car': False, 'cable': False, 'lltis': False}","['playful', 'mischievous', 'furry', 'curious', 'cute']",75.00 %,4,100.00 %,1,0.00 %,100.00 %
+Emu,"{'bird': True, 'ostrich': False, 'australia': True}","['australia', 'bird', 'flightless', 'large', 'ostrich-like']",100.00 %,3,33.33 %,2,100.00 %,100.00 %
+Chicken,"{'fox': False, 'bird': True, 'swan': True, 'eggs': True}","['nuggets', 'fried', 'egg', 'soup', 'wings']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Dolphin,"{'whale': False, 'sea': True, 'intelligent': True, 'porpoise': True}","['ocean', 'intelligent', 'playful', 'swimming', 'marine']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Dog,"{'shepherd': False, 'friend': True, 'pet': True, 'bark': True, 'cat': False}","['faithful', 'loyal', 'playful', 'furry', 'cuddly']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Fish,"{'water': True, 'swim': True, 'gills': True, 'whale': False, 'salmon': False}","['aquatic', 'scaly', 'swim', 'fin', 'school']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Fox,"{'red': True, 'fur': True, 'city': False, 'goose': False}","['cunning', 'red', 'swift', 'sly', 'furry']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Chihuahua,"{'paris hilton': False, 'dog': True, 'small': True, 'foot horn': False}","['small', 'dog', 'mexico', 'teacup', 'yappy']",100.00 %,4,50.00 %,2,100.00 %,100.00 %
+Giraffe,"{'neck': True, 'long': True, 'elephant': False, 'savannah': True, 'africa': True}","['tall', 'neck', 'savannah', 'africa', 'mammal']",80.00 %,5,40.00 %,4,75.00 %,100.00 %
+Elephant,"{'africa': False, 'india': False, 'trunk': True, 'grey': False, 'huge': True}","['large', 'gray', 'tusks', 'memory', 'herd']",60.00 %,5,100.00 %,2,0.00 %,100.00 %
+Alpaca,"{'south america': True, 'camel': False, 'llama': True, 'wool': True}","['fuzzy', 'south america', 'sheep', 'soft', 'fiber']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Gorilla,"{'monkey': False, 'chimpanzee': False, 'gray': True, 'roar': True, 'chest': True}","['strong', 'aggressive', 'intelligent', 'wild', 'majestic']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Jaguar,"{'england': False, 'land rover': False, 'luxury': True, 'sports car': True}","['animal', 'car', 'luxury', 'power', 'wild']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Hyena,"{'africa': True, 'savannah': True, 'sneaky': True}","['laughter', 'predator', 'africa', 'carnivore', 'mischief']",33.33 %,3,66.67 %,3,33.33 %,
+Jellyfish,"{'transparent': False, 'water': True, 'sea': True, 'nettles': True}","['ocean', 'sting', 'gelatinous', 'bioluminescent', 'venomous']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Horse,"{'riding': True, 'saddle': True, 'cow': False, 'trotting race': True}","['stable', 'saddle', 'gallop', 'mane', 'stall']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Goat,"{'milk': True, 'stable': True, 'mountain': False, 'horns': True}","['mountain', 'horn', 'farm', 'sheep', 'capricorn']",0.00 %,4,75.00 %,3,0.00 %,0.00 %
+Kangaroo,"{'hopping': True, 'boxing': False, 'australia': True, 'pouch': True}","['australia', 'hopping', 'joey', 'pouch', 'wildlife']",100.00 %,4,25.00 %,3,100.00 %,100.00 %
+Leopard,"{'cheetah': False, 'cat': True, 'predator': True}","['africa', 'wild', 'spotted', 'fierce', 'exotic']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Frog,"{'croak': True, 'water': True, 'toad': True}","['green', 'amphibian', 'pond', 'jumping', 'ribbit']",0.00 %,3,100.00 %,3,0.00 %,
+Lion,"{'king': False, 'tiger': False, 'cheetah': False, 'africa': True, 'savannah': True}","['mane', 'roar', 'savannah', 'king', 'africa']",80.00 %,5,40.00 %,2,100.00 %,66.67 %
+Llama,"{'spitting': True, 'south america': True, 'guanaco': True}","['andean', 'south america', 'fuzzy', 'cute', 'alpaca']",33.33 %,3,66.67 %,3,33.33 %,
+Mandrill,"{'primate': True, 'monkey': True, 'butt': True, 'gorilla': False}","['primate', 'monkey', 'aggressive', 'colorful', 'intelligent']",75.00 %,4,50.00 %,3,66.67 %,100.00 %
+Hippopotamus,"{'hippopotamus': False, 'water': True, 'giant': True, 'rhino': True}","['river', 'africa', 'muddy', 'large', 'aggressive']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Hedgehog,"{'spines': True, 'small': True, 'city': False}","['prickly', 'spiny', 'quill', 'wild', 'cute']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Parrot,"{'colorful': True, 'red': False, 'bird': True, 'beak': True}","['colorful', 'intelligent', 'talkative', 'feathered', 'exotic']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Penguin,"{'south pole': True, 'arctic': False, 'yellow': False, 'black': True, 'white': True}","['antarctica', 'fish', 'flipper', 'tuxedo', 'swim']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Orangutan,"{'orange': False, 'monkey': True, 'primate': True, 'chimpanzee': False}","['primate', 'rainforest', 'indonesia', 'tree', 'endangered']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Rabbit,"{'pet': True, 'bunny': True, 'lout': False}","['fluffy', 'hopper', 'burrow', 'carrot', 'cute']",50.00 %,3,100.00 %,2,0.00 %,100.00 %
+Panda,"{'black': False, 'white': True, 'clumsy': True, 'china': True, 'bear': True}","['china', 'bamboo', 'black', 'white', 'cute']",40.00 %,5,40.00 %,4,50.00 %,0.00 %
+Ox,"{'cow': True, 'bull': True, 'ring': False, 'nose': False}","['farm', 'strength', 'plow', 'bull', 'labor']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Meerkat,"{'burrows': True, 'ground': True, 'dig': True, 'stand': True}","['desert', 'africa', 'mammal', 'social', 'alert']",0.00 %,4,100.00 %,4,0.00 %,
+Raccoon,"{'teddy': False, 'grizzly': False, 'garbage can': True}","['mask', 'bandit', 'trash', 'clever', 'mischief']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Shark,"{'water': True, 'teeth': True, 'surfer': True, 'tornado': False}","['fin', 'tooth', 'ocean', 'attack', 'jaws']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Otter,"{'water': True, 'dam': True, 'wood': False}","['river', 'playful', 'furry', 'swimming', 'aquatic']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Sheepdog,"{'police': False, 'friend': True, 'pet': True, 'bark': True, 'cat': False}","['herding', 'loyal', 'intelligent', 'protective', 'collie']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Squirrel,"{'forest': False, 'tree': True, 'nuts': True, 'hibernate': False, 'brown': True}","['nut', 'tree', 'bushy', 'tail', 'acorn']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Snail,"{'slime': True, 'house': False, 'small': True, 'slow': True}","['slow', 'shell', 'garden', 'slime', 'mucus']",75.00 %,4,50.00 %,3,66.67 %,100.00 %
+Rhino,"{'hippopotamus': False, 'elephant': True, 'africa': True, 'savannah': True}","['africa', 'wildlife', 'horn', 'conservation', 'endangered']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Seahorse,"{'water': True, 'sea': True, 'small': True, 'saddle': False}","['ocean', 'fish', 'marine', 'aquatic', 'delicate']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Seal,"{'tricks': False, 'balancing': False, 'water': True, 'sea': True, 'cat': False}","['marine', 'mammal', 'penguin', 'flippers', 'arctic']",60.00 %,5,100.00 %,2,0.00 %,100.00 %
+Reindeer,"{'santa claus': False, 'rudolf': True, 'nose': True, 'red': True, 'deer': True}","['antlers', 'sleigh', 'arctic', 'horn', 'christmas']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Yak,"{'cow': False, 'horns': True, 'asia': True}","['himalayas', 'tibet', 'mongolia', 'mountain', 'fur']",50.00 %,3,100.00 %,2,0.00 %,100.00 %
+Wasp,"{'bee': False, 'honey': True, 'sting': True, 'black': True, 'yellow': True}","['sting', 'yellow', 'insect', 'hive', 'pain']",60.00 %,5,60.00 %,4,50.00 %,100.00 %
+Walrus,"{'water': True, 'horse': False, 'sea': True, 'tusks': True}","['arctic', 'tusks', 'whiskers', 'blubber', 'marine']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Zebra,"{'strip': True, 'elephant': False, 'giraffe': False, 'black': True, 'white': True}","['stripes', 'africa', 'black', 'white', 'wildlife']",80.00 %,5,60.00 %,3,66.67 %,100.00 %
+Buick,"{'america': False, 'united states': True, 'general motors': True}","['luxury', 'sedan', 'crossover', 'electric', 'general motors']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Bentley,"{'luxury': True, 'england': True, 'rolls-royce': True}","['luxury', 'car', 'british', 'exotic', 'expensive']",33.33 %,3,66.67 %,3,33.33 %,
+Wolf,"{'wild': True, 'dog': True, 'howl': True, 'moon': False, 'pack': True}","['wild', 'fierce', 'pack', 'moon', 'hunt']",40.00 %,5,40.00 %,4,50.00 %,0.00 %
+Bugatti,"{'luxury': True, 'sports car': True, 'volkswagen': False, 'france': True}","['luxury', 'exotic', 'supercar', 'veyron', 'hypercar']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+DAF,"{'trucks': True, 'big rig': True, 'netherlands': True, 'cargo': True}","['dutch', 'airbus', 'airliner', 'aviation', 'transport']",0.00 %,4,100.00 %,4,0.00 %,
+Citroën,"{'france': False, 'peugeot': True, 'small cars': True}","['french', 'car', 'automotive', 'innovative', 'design']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Corvette,"{'america': False, 'united states': True, 'sports car': True}","['sports', 'car', 'american', 'muscle', 'exotic']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Daewoo,"{'south korea': True, 'small cars': True, 'general motors': False}","['korean', 'automotive', 'manufacturing', 'south', 'defunct']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Dacia,"{'romania': True, 'small cars': True, 'cheap': True, 'duster': True}","['romania', 'car', 'automotive', 'moldova', 'duster']",50.00 %,4,50.00 %,4,50.00 %,
+Audi,"{'germany': False, 'ingolstadt': True, 'rings': False, 'volkswagen': True}","['luxury', 'german', 'automotive', 'v8', 'quattro']",50.00 %,4,100.00 %,2,0.00 %,100.00 %
+Dodge,"{'viper': False, 'america': False, 'united states': False, 'general motors': False}","['charger', 'ram', 'viper', 'jeep', 'durango']",75.00 %,4,75.00 %,0,,75.00 %
+Daihatsu,"{'japan': False, 'toyota': True, 'small cars': True}","['japanese', 'automobile', 'kei', 'car', 'mini']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Chrysler,"{'america': False, 'united states': True, 'dodge': True}","['car', 'automotive', 'dodge', 'jeep', 'town']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Ferrari,"{'italy': True, 'red': True, 'sports car': True, 'luxury': True, 'michael schumacher': False}","['speed', 'luxury', 'racing', 'italian', 'exotic']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Honda,"{'japan': True, 'mitsubishi': False, 'civic': True}","['motorcycle', 'civic', 'accord', 'cr-v', 'engine']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Cadillac,"{'america': False, 'united states': True, 'general motors': True}","['luxury', 'american', 'classic', 'performance', 'elegance']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Ford,"{'america': False, 'united states': True, 'henry': True, 'f-150': True, 'assembly line': True}","['mustang', 'f-150', 'truck', 'automotive', 'lincoln']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Chevrolet,"{'america': False, 'united states': False, 'general motors': True, 'camaro': True, 'transformers': False}","['truck', 'corvette', 'impala', 'silverado', 'bowtie']",60.00 %,5,100.00 %,2,0.00 %,100.00 %
+GMC,"{'general motors': True, 'united states': True, 'multicorporate enterprise': False}","['truck', 'suv', 'chevrolet', 'cadillac', 'hummer']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Isuzu,"{'japan': True, 'trucks': True, 'big rig': True, 'cargo': True}","['truck', 'diesel', '4x4', 'ranger', 'pup']",0.00 %,4,100.00 %,4,0.00 %,
+Jeep,"{'chrysler': False, 'army': True, 'america': True, 'united states': True}","['off-road', 'adventure', '4x4', 'rugged', 'trail']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Lexus,"{'toyota': False, 'luxury': True, 'japan': True}","['luxury', 'performance', 'reliability', 'hybrid', 'japanese']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Maserati,"{'italy': True, 'fiat': False, 'sports car': True, 'luxury': True}","['italian', 'luxury', 'sports', 'exotic', 'high-performance']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Iveco,"{'italy': False, 'trucks': True, 'big rig': True, 'cargo': True}","['trucks', 'buses', 'construction', 'military', 'commercial']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Maybach,"{'germany': True, 'mercedes': False, 'luxury': True}","['luxury', 'exclusivity', 'high-end', 'german', 'automotive']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Hummer,"{'army': False, 'united states': True, 'america': True}","['suv', 'military', 'off-road', 'luxury', 'gas-guzzler']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Infiniti,"{'nissan': False, 'japan': True, 'luxury': True}","['luxury', 'japanese', 'nissan', 'performance', 'exotic']",33.33 %,3,33.33 %,2,50.00 %,0.00 %
+McLaren,"{'england': False, 'luxury': True, 'sports car': True}","['formula', 'one', 'racing', 'luxury', 'exotic']",75.00 %,3,66.67 %,2,100.00 %,100.00 %
+Königsegg,"{'luxury': True, 'sports car': True, 'sweden': False, 'speed': True, 'exotic': True}","['swiss', 'luxury', 'automobile', 'high-performance', 'exotic']",66.67 %,5,60.00 %,4,25.00 %,100.00 %
+Mercedes-AMG,"{'germany': True, 'luxury': True, 'tuning': True}","['performance', 'luxury', 'speed', 'exclusivity', 'power']",33.33 %,3,66.67 %,3,33.33 %,
+Mini,"{'germany': False, 'england': False, 'bmw': True, 'small': True, 'mr bean': True}","['car', 'skirt', 'dress', 'skirt', 'chihuahua']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Mitsubishi,"{'japan': True, 'lancer': True, 'rally': True}","['japanese', 'automotive', 'electric', 'outlander', 'pajero']",0.00 %,3,100.00 %,3,0.00 %,
+Lincoln,"{'america': True, 'united states': True, 'ford': True, 'luxury': False}","['honest', 'tall', 'president', 'emancipation', 'gettysburg']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Mercedes-Benz,"{'germany': True, 'daimler': True, 'chrysler': False}","['luxury', 'performance', 'german', 'sedan', 'prestige']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Nissan,"{'japan': True, 'skyline': True, 'datsun': True}","['altima', 'gt-r', 'leaf', 'sentra', 'xterra']",0.00 %,3,100.00 %,3,0.00 %,
+Pagani,"{'italy': True, 'sports car': True, 'luxury': True, 'expensive': True}","['exotic', 'luxury', 'italian', 'supercar', 'handcrafted']",25.00 %,4,75.00 %,4,25.00 %,
+Peugeot,"{'france': False, 'bicycles': False, 'motorcycle': True}","['french', 'automotive', 'cars', 'suv', 'motorsport']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Lamborghini,"{'italy': True, 'sports car': True, 'luxury': True, 'volkswagen': False}","['luxury', 'italian', 'supercar', 'exotic', 'speed']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Polaris,"{'america': False, 'united states': True, 'quads': False, 'snow mobile': False}","['north', 'star', 'navigation', 'constellation', 'ursa']",75.00 %,4,100.00 %,1,0.00 %,100.00 %
+Piaggio,"{'italy': False, 'motorcycles': True, 'moped': True, 'vespa': True}","['vespa', 'scooter', 'italy', 'motorcycle', 'retro']",25.00 %,4,50.00 %,3,33.33 %,0.00 %
+Opel,"{'germany': True, 'rüsselsheim': True, 'vauxhall': False}","['germany', 'vauxhall', 'insignia', 'astra', 'corsa']",33.33 %,3,33.33 %,2,50.00 %,0.00 %
+Pontiac,"{'general motors': True, 'united states': True, 'america': True}","['car', 'muscle', 'gto', 'gm', 'michigan']",0.00 %,3,100.00 %,3,0.00 %,
+Porsche,"{'germany': True, 'stuttgart': True, '911': True, 'volkswagen': False}","['luxury', 'performance', 'speed', 'germany', 'exotic']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Renault,"{'france': True, 'small cars': True, 'nissan': False}","['france', 'automotive', 'cars', 'electric', 'nissan']",33.33 %,3,33.33 %,2,50.00 %,0.00 %
+Saab,"{'sweden': True, 'scania': False, 'stockholm': False}","['scandinavian', 'design', 'performance', 'safety', 'nordic']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Moskwitsch,"{'russia': True, 'sowjet': False, 'ddr': False}","['russian', 'jewish', 'surnames', 'eastern', 'european']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Seat,"{'spanien': False, 'small cars': True, 'volkswagen': True}","['chair', 'cushion', 'bench', 'stool', 'couch']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Oldsmobile,"{'america': False, 'united states': True, 'general motors': True}","['american', 'muscle', 'classic', 'retro', 'vintage']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Smart,"{'germany': False, 'small': True, 'parking space': False, 'mercedes': True, 'daimler': True}","['innovative', 'intelligent', 'clever', 'genius', 'intellectual']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Skoda,"{'tschechien': False, 'volkswagen': True, 'small cars': True}","['czech', 'slovak', 'affordable', 'european', 'octavia']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Scania,"{'sweden': False, 'trucks': True, 'big rig': True, 'cargo': True}","['truck', 'bus', 'sweden', 'transport', 'heavyduty']",0.00 %,4,75.00 %,3,0.00 %,0.00 %
+Subaru,"{'japan': True, 'impreza': True, 'rally': True}","['outback', 'forester', 'impreza', 'legacy', 'symmetrical']",33.33 %,3,66.67 %,3,0.00 %,
+Toyota,"{'multicorporate enterprise': False, 'japan': True, 'yaris': True, 'avensis': True}","['corolla', 'camry', 'landcruiser', 'prius', 'rav4']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Rover,"{'england': False, 'tata': True, 'small cars': True, 'bmw': True}","['space', 'dog', 'car', 'exploration', 'nasa']",50.00 %,4,100.00 %,3,0.00 %,100.00 %
+Tesla,"{'elon musk': False, 'united states': False, 'electric': True, 'sexy': True}","['electric', 'sustainable', 'autonomous', 'innovative', 'luxury']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Suzuki,"{'japan': True, 'motorbikes': True, 'honda': False}","['motorcycle', 'car', 'japan', 'maruti', 'hayabusa']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Volvo,"{'sweden': True, 'trucks': True, 'big rig': True, 'ford': False, 'cargo': True}","['swedish', 'safest', 'luxury', 'wagon', 'scandinavian']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Andorra,"{'europe': True, 'southern europe': True, 'andorra la vella': True}","['mountainous', 'principality', 'pyrenees', 'tax-free', 'winter sports']",0.00 %,3,100.00 %,3,0.00 %,
+Angola,"{'africa': True, 'middle africa': True, 'luanda': True}","['oil', 'diamonds', 'portuguese', 'colonial', 'independence']",0.00 %,3,100.00 %,3,0.00 %,
+Wartburg,"{'lada': False, 'ddr': True, 'russia': True, 'trabbi': False, 'germany': True}","['castle', 'germany', 'medieval', 'architecture', 'eisenach']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Anguilla,"{'americas': False, 'caribbean': True, 'the valley': True}","['caribbean', 'island', 'beach', 'turquoise', 'paradise']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+UAZ,"{'russia': True, 'soviet union': True, 'trucks': True, 'big rig': False, 'cargo': True}","['soviet', 'jeep', '4x4', 'offroad', 'russia']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Afghanistan,"{'asia': True, 'southern asia': True, 'kabul': True}","['war', 'taliban', 'desert', 'opium', 'refugee']",0.00 %,3,100.00 %,3,0.00 %,
+Trabant,"{'trabbi': False, 'ddr': True, 'veb': True, 'germany': True, 'zwickau': True}","['east', 'germany', 'communist', 'retro', 'car']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Volkswagen,"{'germany': False, 'golf': True, 'passat': True, 'audi': False, 'wolfsburg': True}","['golf', 'beetle', 'porsche', 'germany', 'suv']",40.00 %,5,60.00 %,3,33.33 %,50.00 %
+Argentina,"{'americas': True, 'south america': True, 'buenos aires': True}","['tango', 'gaucho', 'asado', 'buenos aires', 'fútbol']",33.33 %,3,66.67 %,3,33.33 %,
+Australia,"{'oceania': True, 'australia and new zealand': True, 'canberra': True}","['kangaroo', 'sydney', 'beach', 'outback', 'surfing']",0.00 %,3,100.00 %,3,0.00 %,
+Albania,"{'europe': True, 'southern europe': True, 'tirana': True}","['mediterranean', 'mountainous', 'tirana', 'balkans', 'eagle']",33.33 %,3,66.67 %,3,33.33 %,
+Algeria,"{'africa': True, 'northern africa': True, 'algiers': True}","['desert', 'cuisine', 'casbah', 'berber', 'mediterranean']",0.00 %,3,100.00 %,3,0.00 %,
+Austria,"{'europe': True, 'western europe': True, 'vienna': True}","['vienna', 'music', 'mountains', 'cafes', 'palaces']",33.33 %,3,66.67 %,3,33.33 %,
+Bahamas,"{'americas': False, 'caribbean': True, 'nassau': True}","['island', 'beach', 'paradise', 'turquoise', 'vacation']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Aruba,"{'americas': True, 'caribbean': True, 'oranjestad': True}","['beach', 'island', 'caribbean', 'dutch', 'desert']",33.33 %,3,66.67 %,3,33.33 %,
+Bahrain,"{'asia': True, 'western asia': True, 'manama': True}","['desert', 'oil', 'pearl', 'f1', 'manama']",33.33 %,3,66.67 %,3,33.33 %,
+Azerbaijan,"{'asia': True, 'western asia': True, 'baku': True}","['baku', 'caspian', 'oil', 'mountain', 'gobustan']",33.33 %,3,66.67 %,3,33.33 %,
+Barbados,"{'americas': False, 'caribbean': True, 'bridgetown': True}","['beach', 'rum', 'cricket', 'seafood', 'island']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Belarus,"{'europe': True, 'eastern europe': True, 'minsk': True}","['minsk', 'nuclear', 'chernobyl', 'folk', 'orthodox']",33.33 %,3,66.67 %,3,33.33 %,
+Bermuda,"{'americas': True, 'northern america': True, 'hamilton': True}","['paradise', 'pink', 'sand', 'golf', 'shipwreck']",0.00 %,3,100.00 %,3,0.00 %,
+Brazil,"{'americas': True, 'south america': True, 'brasília': True}","['samba', 'beach', 'amazon', 'carnival', 'football']",0.00 %,3,100.00 %,3,0.00 %,
+Bhutan,"{'asia': True, 'southern asia': True, 'thimphu': True}","['tibetan', 'buddhism', 'himalayas', 'paro', 'monastery']",0.00 %,3,100.00 %,3,0.00 %,
+Botswana,"{'africa': True, 'southern africa': True, 'gaborone': True}","['safari', 'elephants', 'okavango', 'desert', 'wildlife']",0.00 %,3,100.00 %,3,0.00 %,
+Bulgaria,"{'europe': True, 'eastern europe': True, 'sofia': True}","['mountains', 'history', 'balkans', 'orthodox', 'rila']",0.00 %,3,100.00 %,3,0.00 %,
+Benin,"{'africa': True, 'western africa': True, 'porto-novo': True}","['african', 'country', 'west', 'cotonou', 'vodun']",0.00 %,3,100.00 %,3,0.00 %,
+Bangladesh,"{'asia': True, 'southern asia': True, 'dhaka': True}","['dhaka', 'rice', 'mango', 'sari', 'durga puja']",33.33 %,3,66.67 %,3,33.33 %,
+Burundi,"{'africa': True, 'eastern africa': True, 'bujumbura': True}","['lake tanganyika', 'coffee', 'mountainous', 'civilians', 'genocide']",0.00 %,3,100.00 %,3,0.00 %,
+Canada,"{'americas': True, 'northern america': True, 'ottawa': True}","['maple', 'mounties', 'mountie', 'poutine', 'hockey']",0.00 %,3,100.00 %,3,0.00 %,
+Belgium,"{'europe': True, 'western europe': True, 'brussels': True, 'chocolate': True, 'beer': True}","['chocolate', 'beer', 'waffles', 'fries', 'brussels']",33.33 %,5,40.00 %,5,20.00 %,
+Cambodia,"{'asia': True, 'south-eastern asia': True, 'phnom penh': True}","['angkor', 'temples', 'siem', 'reap', 'khmer']",0.00 %,3,100.00 %,3,0.00 %,
+Chile,"{'americas': True, 'south america': True, 'santiago': True}","['santiago', 'easterisland', 'wine', 'andes', 'patagonia']",33.33 %,3,66.67 %,3,33.33 %,
+Chad,"{'africa': True, 'middle africa': True, ""n'djamena"": True}","['africa', 'lake', 'chadian', 'sahara', 'desert']",33.33 %,3,66.67 %,3,33.33 %,
+Belize,"{'americas': True, 'central america': True, 'belmopan': True}","['caribbean', 'beach', 'caye', 'maya', 'rainforest']",0.00 %,3,100.00 %,3,0.00 %,
+Colombia,"{'americas': True, 'south america': True, 'bogotá': True}","['coffee', 'coca', 'andes', 'bogota', 'salsa']",0.00 %,3,100.00 %,3,0.00 %,
+Cameroon,"{'africa': True, 'middle africa': True, 'yaoundé': True}","['mountains', 'rainforest', 'coffee', 'bakassi', 'waza']",0.00 %,3,100.00 %,3,0.00 %,
+Comoros,"{'africa': True, 'eastern africa': True, 'moroni': True}","['island', 'africa', 'tropical', 'archipelago', 'uninhabited']",33.33 %,3,66.67 %,3,33.33 %,
+Croatia,"{'europe': True, 'southern europe': True, 'zagreb': True}","['dubrovnik', 'plitvice', 'peljesac', 'hvar', 'dalmatian']",0.00 %,3,100.00 %,3,0.00 %,
+Curaçao,"{'americas': False, 'caribbean': True, 'willemstad': True}","['island', 'caribbean', 'beach', 'dutch', 'coral']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Cyprus,"{'europe': True, 'southern europe': True, 'nicosia': True}","['beaches', 'mediterranean', 'history', 'cypriot', 'olive']",0.00 %,3,100.00 %,3,0.00 %,
+Ecuador,"{'americas': True, 'south america': True, 'quito': True}","['galapagos', 'amazon', 'quito', 'volcanoes', 'coffee']",33.33 %,3,66.67 %,3,33.33 %,
+Denmark,"{'europe': True, 'northern europe': True, 'copenhagen': True, 'lego': True}","['hans christian andersen', 'copenhagen', 'tivoli gardens', 'lego', 'smørrebrød']",50.00 %,4,50.00 %,4,50.00 %,
+Egypt,"{'africa': True, 'northern africa': True, 'cairo': True}","['pyramids', 'pharaohs', 'sphinx', 'desert', 'mummies']",0.00 %,3,100.00 %,3,0.00 %,
+Estonia,"{'europe': True, 'northern europe': True, 'tallinn': True}","['tallinn', 'estonian', 'baltic', 'lapland', 'silkroad']",33.33 %,3,66.67 %,3,33.33 %,
+Ethiopia,"{'africa': True, 'eastern africa': True, 'addis ababa': True}","['coffee', 'tribes', 'mountains', 'abyssinia', 'famine']",0.00 %,3,100.00 %,3,0.00 %,
+Eritrea,"{'africa': True, 'eastern africa': True, 'asmara': True}","['asmara', 'war', 'africa', 'portuguese', 'colonial']",66.67 %,3,33.33 %,3,66.67 %,
+Congo,"{'africa': True, 'middle africa': True, 'brazzaville': True}","['africa', 'river', 'gorillas', 'diamonds', 'civilwar']",33.33 %,3,66.67 %,3,33.33 %,
+China,"{'asia': True, 'eastern asia': True, 'beijing': True, 'hong kong': True}","['dragon', 'panda', 'greatwall', 'kungfu', 'mandarin']",0.00 %,4,100.00 %,4,0.00 %,
+Cuba,"{'americas': True, 'caribbean': True, 'havana': True}","['havana', 'cigars', 'rum', 'che', 'beach']",33.33 %,3,66.67 %,3,33.33 %,
+Fiji,"{'oceania': True, 'melanesia': True, 'suva': True}","['island', 'beach', 'tropical', 'paradise', 'bula']",0.00 %,3,100.00 %,3,0.00 %,
+Gambia,"{'africa': True, 'western africa': True, 'banjul': True}","['beach', 'tourism', 'monkey', 'river', 'mango']",0.00 %,3,100.00 %,3,0.00 %,
+Djibouti,"{'africa': True, 'eastern africa': True, 'djibouti': True}","['desert', 'port', 'africa', 'arabian', 'strait']",33.33 %,3,66.67 %,3,33.33 %,
+France,"{'europe': True, 'western europe': True, 'paris': True, 'eiffel tower': True}","['eiffel', 'baguette', 'cheese', 'paris', 'bordeaux']",25.00 %,4,75.00 %,4,25.00 %,
+Finland,"{'europe': True, 'northern europe': True, 'helsinki': True}","['lapland', 'sauna', 'design', 'nature', 'nordic']",0.00 %,3,100.00 %,3,0.00 %,
+Dominica,"{'americas': False, 'caribbean': True, 'roseau': True}","['island', 'rainforest', 'waterfalls', 'boiling_springs', 'caribbean']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Georgia,"{'asia': False, 'western asia': False, 'tbilisi': True}","['peaches', 'atlanta', 'okefenokee', 'civil rights', 'savannah']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Gabon,"{'africa': True, 'middle africa': True, 'libreville': True}","['equatorial', 'rainforest', 'oil', 'bongo', 'elephant']",0.00 %,3,100.00 %,3,0.00 %,
+Greenland,"{'americas': False, 'northern america': False, 'nuuk': True}","['ice', 'arctic', 'inuit', 'glacier', 'polar']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Germany,"{'europe': True, 'western europe': True, 'berlin': True, 'munich': True, 'hamburg': True}","['beer', 'bavaria', 'autobahn', 'bread', 'munich']",20.00 %,5,80.00 %,5,20.00 %,
+Gibraltar,"{'europe': True, 'southern europe': True, 'gibraltar': True}","['rock', 'monkeys', 'strait', 'british', 'overseas']",0.00 %,3,100.00 %,3,0.00 %,
+Guadeloupe,"{'americas': True, 'caribbean': True, 'basse-terre': True}","['caribbean', 'island', 'beach', 'sugar', 'cane']",33.33 %,3,66.67 %,3,33.33 %,
+Guinea,"{'africa': True, 'western africa': True, 'conakry': True}","['pigs', 'bissau', 'conakry', 'west', 'africa']",66.67 %,3,33.33 %,3,66.67 %,
+Guernsey,"{'europe': True, 'northern europe': True, 'st. peter port': True}","['island', 'channel', 'jersey', 'cow', 'cream']",0.00 %,3,100.00 %,3,0.00 %,
+Guyana,"{'americas': False, 'south america': True, 'georgetown': True}","['rainforest', 'caiman', 'kaieteur', 'sugar', 'indigenous']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Guinea-Bissau,"{'africa': True, 'western africa': True, 'bissau': True}","['west africa', 'coastal', 'portuguese', 'cape verde', 'colonial']",0.00 %,3,100.00 %,3,0.00 %,
+Iceland,"{'europe': True, 'northern europe': True, 'reykjavík': True}","['volcanoes', 'northern lights', 'glaciers', 'hot springs', 'fjords']",0.00 %,3,100.00 %,3,0.00 %,
+Haiti,"{'americas': True, 'caribbean': True, 'port-au-prince': True}","['earthquake', 'voodoo', 'carnival', 'poverty', 'resilience']",0.00 %,3,100.00 %,3,0.00 %,
+Honduras,"{'americas': True, 'central america': True, 'tegucigalpa': True}","['tropical', 'coffee', 'bay islands', 'mayan', 'volcanoes']",0.00 %,3,100.00 %,3,0.00 %,
+Greece,"{'europe': False, 'southern europe': False, 'athens': True}","['olympics', 'feta', 'islands', 'philosophy', 'mythology']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Grenada,"{'americas': False, 'caribbean': True, ""st. george's"": True}","['island', 'caribbean', 'spice', 'nutmeg', 'beach']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Hungary,"{'europe': True, 'eastern europe': True, 'budapest': True}","['paprika', 'goulash', 'budapest', 'sziget', 'puszta']",33.33 %,3,66.67 %,3,33.33 %,
+Guam,"{'oceania': True, 'micronesia': True, 'hagåtña': True}","['island', 'beach', 'chamorro', 'war', 'paradise']",0.00 %,3,100.00 %,3,0.00 %,
+India,"{'asia': True, 'southern asia': True, 'new delhi': True}","['taj', 'spice', 'ganges', 'bollywood', 'curry']",0.00 %,3,100.00 %,3,0.00 %,
+Ireland,"{'europe': True, 'northern europe': True, 'dublin': True}","['emerald', 'shamrock', 'guinness', 'celtic', 'leprechaun']",0.00 %,3,100.00 %,3,0.00 %,
+Indonesia,"{'asia': True, 'south-eastern asia': True, 'jakarta': True}","['bali', 'volcano', 'temple', 'orangutan', 'batik']",0.00 %,3,100.00 %,3,0.00 %,
+Italy,"{'europe': True, 'southern europe': True, 'rome': True}","['pasta', 'rome', 'gondola', 'vespa', 'tiramisu']",33.33 %,3,66.67 %,3,33.33 %,
+Iraq,"{'asia': True, 'western asia': True, 'baghdad': True}","['baghdad', 'saddam', 'war', 'oil', 'desert']",33.33 %,3,66.67 %,3,33.33 %,
+Jersey,"{'europe': True, 'northern europe': True, 'saint helier': False}","['island', 'shore', 'beach', 'taxi', 'wet']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Jamaica,"{'americas': False, 'caribbean': True, 'kingston': True}","['reggae', 'beach', 'rum', 'jerk', 'bobmarley']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Israel,"{'asia': True, 'western asia': True, 'jerusalem': True}","['jerusalem', 'tel aviv', 'galilee', 'dead sea', 'kibbutz']",33.33 %,3,66.67 %,3,33.33 %,
+Jordan,"{'asia': True, 'western asia': True, 'amman': True}","['michael', 'river', 'bike', 'petra', 'basketball']",0.00 %,3,100.00 %,3,0.00 %,
+Japan,"{'asia': True, 'eastern asia': True, 'tokyo': True}","['sushi', 'tokyo', 'samurai', 'mount fuji', 'geisha']",33.33 %,3,66.67 %,3,33.33 %,
+Kazakhstan,"{'asia': True, 'central asia': True, 'astana': True}","['steppe', 'astana', 'caspian', 'nomad', 'siberia']",33.33 %,3,66.67 %,3,33.33 %,
+Kenya,"{'africa': True, 'eastern africa': True, 'nairobi': True}","['safari', 'maasai', 'wildlife', 'tanzanite', 'mountkenya']",0.00 %,3,100.00 %,3,0.00 %,
+Lesotho,"{'africa': True, 'southern africa': True, 'maseru': True}","['mountainous', 'kingdom', 'african', 'sheep', 'waterfall']",0.00 %,3,100.00 %,3,0.00 %,
+Liberia,"{'africa': True, 'western africa': True, 'monrovia': True}","['africa', 'ebola', 'civil', 'war', 'diamonds']",33.33 %,3,66.67 %,3,33.33 %,
+Liechtenstein,"{'europe': True, 'western europe': True, 'vaduz': True}","['principality', 'alps', 'vaduz', 'monarchy', 'banking']",33.33 %,3,66.67 %,3,33.33 %,
+Lebanon,"{'asia': True, 'western asia': True, 'beirut': True}","['beirut', 'cedars', 'falafel', 'rafic hariri', 'byblos']",33.33 %,3,66.67 %,3,33.33 %,
+Kuwait,"{'asia': True, 'western asia': True, 'kuwait city': True}","['oil', 'desert', 'sheikh', 'dhow', 'bahrain']",0.00 %,3,100.00 %,3,0.00 %,
+Kiribati,"{'oceania': True, 'micronesia': False, 'south tarawa': True}","['pacific', 'islands', 'paradise', 'tropical', 'coconut']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Libya,"{'africa': True, 'northern africa': True, 'tripoli': True}","['desert', 'gaddafi', 'oil', 'revolution', 'tribes']",0.00 %,3,100.00 %,3,0.00 %,
+Kyrgyzstan,"{'asia': True, 'central asia': True, 'bishkek': True}","['mountains', 'nomads', 'lake', 'trekking', 'yurt']",0.00 %,3,100.00 %,3,0.00 %,
+Luxembourg,"{'europe': True, 'western europe': True, 'luxembourg': True}","['castle', 'wine', 'cathedral', 'village', 'bastogne']",0.00 %,3,100.00 %,3,0.00 %,
+Lithuania,"{'europe': True, 'northern europe': True, 'vilnius': True}","['vilnius', 'baltic', 'castles', 'cultural', 'nature']",33.33 %,3,66.67 %,3,33.33 %,
+Malaysia,"{'asia': True, 'south-eastern asia': True, 'kuala lumpur': True}","['kuala lumpur', 'tropical', 'rainforest', 'street food', 'borneo']",33.33 %,3,66.67 %,3,33.33 %,
+Malawi,"{'africa': True, 'eastern africa': True, 'lilongwe': True}","['lake', 'nyasa', 'tilapia', 'victoria', 'chichewa']",0.00 %,3,100.00 %,3,0.00 %,
+Latvia,"{'europe': True, 'northern europe': True, 'riga': True}","['riga', 'baltic', 'lithuania', 'estonia', 'songfest']",33.33 %,3,66.67 %,3,33.33 %,
+Mali,"{'africa': True, 'western africa': True, 'bamako': True}","['sahara', 'timbuktu', 'desert', 'mandinka', 'african']",0.00 %,3,100.00 %,3,0.00 %,
+Martinique,"{'americas': False, 'caribbean': True, 'fort-de-france': True}","['caribbean', 'island', 'volcanic', 'french', 'tropical']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Mauritania,"{'africa': True, 'western africa': True, 'nouakchott': True}","['sahara', 'desert', 'arab', 'islam', 'nomad']",0.00 %,3,100.00 %,3,0.00 %,
+Mexico,"{'americas': True, 'central america': True, 'mexico city': True}","['tacos', 'tequila', 'pyramids', 'sombreros', 'cacti']",0.00 %,3,100.00 %,3,0.00 %,
+Mayotte,"{'africa': True, 'eastern africa': True, 'mamoudzou': True}","['comoros', 'france', 'indian ocean', 'island', 'tropical']",0.00 %,3,100.00 %,3,0.00 %,
+Mongolia,"{'asia': True, 'eastern asia': True, 'ulan bator': True}","['genghis', 'khan', 'nomadic', 'steppes', 'yak']",0.00 %,3,100.00 %,3,0.00 %,
+Monaco,"{'europe': True, 'western europe': True, 'monaco': True}","['luxury', 'casino', 'yacht', 'formula1', 'princess']",0.00 %,3,100.00 %,3,0.00 %,
+Montserrat,"{'americas': True, 'caribbean': True, 'plymouth': False}","['volcano', 'island', 'caribbean', 'pitons', 'hiking']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Malta,"{'europe': True, 'southern europe': True, 'valletta': True}","['island', 'mediterranean', 'history', 'catholic', 'valletta']",33.33 %,3,66.67 %,3,33.33 %,
+Myanmar,"{'asia': True, 'south-eastern asia': True, 'naypyidaw': True}","['buddhism', 'military', 'aungsansuukyi', 'shwedagon', 'rohingya']",0.00 %,3,100.00 %,3,0.00 %,
+Montenegro,"{'europe': True, 'southern europe': True, 'podgorica': True}","['boka', 'bay', 'kotor', 'beach', 'medieval']",0.00 %,3,100.00 %,3,0.00 %,
+Morocco,"{'africa': True, 'northern africa': True, 'rabat': True}","['marrakech', 'couscous', 'desert', 'spice', 'casablanca']",0.00 %,3,100.00 %,3,0.00 %,
+Maldives,"{'asia': True, 'southern asia': True, 'malé': True}","['beach', 'paradise', 'coral', 'snorkel', 'luxury']",0.00 %,3,100.00 %,3,0.00 %,
+Namibia,"{'africa': True, 'southern africa': True, 'windhoek': True}","['desert', 'elephants', 'etosha', 'savannah', 'skeleton']",0.00 %,3,100.00 %,3,0.00 %,
+Mauritius,"{'africa': True, 'eastern africa': False, 'port louis': True}","['beach', 'paradise', 'island', 'tropical', 'sugar']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Mozambique,"{'africa': True, 'eastern africa': True, 'maputo': True}","['beaches', 'cannons', 'maputo', 'coconut', 'independence']",33.33 %,3,66.67 %,3,33.33 %,
+Netherlands,"{'europe': True, 'western europe': True, 'amsterdam': True, 'windmills': True, 'canals': True}","['windmills', 'canals', 'cheese', 'bicycles', 'liberal']",0.00 %,5,60.00 %,5,0.00 %,
+Nauru,"{'oceania': True, 'micronesia': True, 'yaren': False}","['pacific', 'island', 'nation', 'remote', 'chlorinated']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Nepal,"{'asia': True, 'southern asia': True, 'kathmandu': True}","['mount everest', 'tibetan', 'himalayas', 'yoga', 'buddhism']",0.00 %,3,100.00 %,3,0.00 %,
+Norway,"{'europe': True, 'northern europe': True, 'oslo': True}","['fjords', 'vikings', 'skiing', 'midnightsun', 'lapland']",0.00 %,3,100.00 %,3,0.00 %,
+Nicaragua,"{'americas': True, 'central america': True, 'managua': True}","['volcanoes', 'coffee', 'colonial', 'surfing', 'revolution']",0.00 %,3,100.00 %,3,0.00 %,
+Niger,"{'africa': True, 'western africa': True, 'niamey': True}","['river', 'africa', 'country', 'desert', 'water']",33.33 %,3,66.67 %,3,33.33 %,
+Nigeria,"{'africa': True, 'western africa': True, 'abuja': True}","['africa', 'oil', 'culture', 'music', 'diversity']",33.33 %,3,66.67 %,3,33.33 %,
+Pakistan,"{'asia': True, 'southern asia': True, 'islamabad': True}","['islam', 'mountains', 'karachi', 'taliban', 'mughal']",0.00 %,3,100.00 %,3,0.00 %,
+Niue,"{'oceania': True, 'polynesia': True, 'alofi': True}","['pacific', 'island', 'tropical', 'coconut', 'paradise']",0.00 %,3,100.00 %,3,0.00 %,
+Peru,"{'americas': True, 'south america': True, 'lima': True}","['inca', 'machu picchu', 'lima', 'cusco', 'potatoes']",33.33 %,3,66.67 %,3,33.33 %,
+Philippines,"{'asia': True, 'south-eastern asia': True, 'manila': True}","['jeepney', 'lechon', 'tinikling', 'mayon', 'banaue']",0.00 %,3,100.00 %,3,0.00 %,
+Poland,"{'europe': True, 'eastern europe': True, 'warsaw': True}","['warsaw', 'pope', 'solidarity', 'krakow', 'sopot']",33.33 %,3,66.67 %,3,33.33 %,
+Paraguay,"{'americas': True, 'south america': True, 'asunción': True}","['guarani', 'chaco', 'asunción', 'iguazu', 'estadio']",33.33 %,3,66.67 %,3,33.33 %,
+Qatar,"{'asia': True, 'western asia': True, 'doha': True}","['oil', 'fifa', 'doha', 'desert', 'luxury']",33.33 %,3,66.67 %,3,33.33 %,
+Portugal,"{'europe': True, 'southern europe': True, 'lisbon': True}","['lisbon', 'porto', 'fado', 'cork', 'algarve']",33.33 %,3,66.67 %,3,33.33 %,
+Réunion,"{'africa': True, 'eastern africa': False, 'saint-denis': True}","['island', 'france', 'volcano', 'tropical', 'indian ocean']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Pitcairn,"{'oceania': True, 'polynesia': True, 'adamstown': True}","['island', 'nautical', 'famous', 'mutiny', 'hms']",0.00 %,3,100.00 %,3,0.00 %,
+Senegal,"{'africa': True, 'western africa': True, 'dakar': True}","['dakar', 'wolof', 'desert', 'cape verde', 'teranga']",33.33 %,3,66.67 %,3,33.33 %,
+Romania,"{'europe': True, 'eastern europe': True, 'bucharest': True}","['transylvania', 'bucharest', 'dracula', 'carpathian', 'sighisoara']",33.33 %,3,66.67 %,3,33.33 %,
+Samoa,"{'oceania': True, 'polynesia': True, 'apia': True}","['island', 'coconuts', 'tropical', 'beach', 'paradise']",0.00 %,3,100.00 %,3,0.00 %,
+Panama,"{'americas': True, 'central america': True, 'panama city': True}","['canal', 'hat', 'rainforest', 'isthmus', 'rain']",0.00 %,3,100.00 %,3,0.00 %,
+Serbia,"{'europe': True, 'southern europe': True, 'belgrade': True}","['belgrade', 'nikola tesla', 'vojvodina', 'kalemegdan', 'novak djokovic']",33.33 %,3,66.67 %,3,33.33 %,
+Singapore,"{'asia': True, 'south-eastern asia': True, 'singapore': True}","['merlion', 'chilli', 'kaya', 'hawker', ' gardens']",0.00 %,3,100.00 %,3,0.00 %,
+Palau,"{'oceania': True, 'micronesia': True, 'ngerulmud': True}","['island', 'beaches', 'snorkeling', 'diving', 'rock islands']",0.00 %,3,100.00 %,3,0.00 %,
+Slovakia,"{'europe': True, 'eastern europe': True, 'bratislava': True}","['tatras', 'bratislava', 'slovakia', 'high tatras', 'slovakian']",33.33 %,3,66.67 %,3,33.33 %,
+Rwanda,"{'africa': True, 'eastern africa': True, 'kigali': True}","['genocide', 'mountain', 'kigali', 'gorillas', 'hutu']",33.33 %,3,66.67 %,3,33.33 %,
+Somalia,"{'africa': True, 'eastern africa': True, 'mogadishu': True}","['horn of africa', 'piracy', 'drought', 'refugees', 'al-shabaab']",0.00 %,3,100.00 %,3,0.00 %,
+Seychelles,"{'africa': True, 'eastern africa': True, 'victoria': True}","['island', 'beach', 'tortoise', 'coral', 'paradise']",0.00 %,3,100.00 %,3,0.00 %,
+Swaziland,"{'africa': True, 'southern africa': True, 'lobamba': True}","['kingdom', 'african', 'wildlife', 'safari', 'traditional']",0.00 %,3,100.00 %,3,0.00 %,
+Sweden,"{'europe': True, 'northern europe': True, 'stockholm': True}","['viking', 'design', 'nature', 'midsummer', 'abba']",0.00 %,3,100.00 %,3,0.00 %,
+Switzerland,"{'europe': True, 'western europe': True, 'bern': True}","['chocolate', 'mountains', 'cheese', 'clocks', 'banking']",0.00 %,3,100.00 %,3,0.00 %,
+Taiwan,"{'asia': True, 'eastern asia': True, 'taipei': True}","['taipei', 'bubbletea', 'nightmarket', 'gourmetfood', 'sunmoonlake']",33.33 %,3,66.67 %,3,33.33 %,
+Thailand,"{'asia': True, 'south-eastern asia': True, 'bangkok': True}","['bangkok', 'temple', 'beach', 'streetfood', 'elephant']",33.33 %,3,66.67 %,3,33.33 %,
+Tajikistan,"{'asia': True, 'central asia': True, 'dushanbe': True}","['mountainous', 'central asia', 'pamir', 'fergana', 'bukhara']",33.33 %,3,66.67 %,3,33.33 %,
+Slovenia,"{'europe': True, 'southern europe': True, 'ljubljana': True}","['alpine', 'lake', 'bled', 'mountains', 'postojna']",0.00 %,3,100.00 %,3,0.00 %,
+Spain,"{'europe': True, 'southern europe': True, 'madrid': True}","['tapas', 'guitar', 'fiesta', 'paella', 'flamenco']",0.00 %,3,100.00 %,3,0.00 %,
+Sudan,"{'africa': True, 'northern africa': True, 'khartoum': True}","['sahara', 'pyramids', 'desert', 'nile', 'conflict']",0.00 %,3,100.00 %,3,0.00 %,
+Togo,"{'africa': True, 'western africa': True, 'lomé': True}","['africa', 'beach', 'safari', 'desert', 'kente']",33.33 %,3,66.67 %,3,33.33 %,
+Tokelau,"{'oceania': True, 'polynesia': True, 'fakaofo': True}","['pacific', 'island', 'nuclear-free', 'polynesian', 'un-trust territory']",0.00 %,3,100.00 %,3,0.00 %,
+Timor-Leste,"{'asia': True, 'south-eastern asia': True, 'dili': True}","['indonesia', 'portuguese', 'colonial', 'independence', 'dili']",33.33 %,3,66.67 %,3,33.33 %,
+Turkey,"{'asia': True, 'western asia': True, 'ankara': True}","['pilgrims', 'stuffing', 'hammock', 'bosphorus', 'sultan']",0.00 %,3,100.00 %,3,0.00 %,
+Tonga,"{'oceania': True, 'polynesia': True, ""nuku'alofa"": True}","['pacific', 'island', 'kingdom', 'polynesia', 'fale']",33.33 %,3,66.67 %,3,33.33 %,
+Suriname,"{'americas': False, 'south america': True, 'paramaribo': True}","['rainforest', 'dutch', 'caribbean', 'jungle', 'indigenous']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Tunisia,"{'africa': True, 'northern africa': True, 'tunis': True}","['carthage', 'hammamet', 'sahara', 'medina', 'djerba']",0.00 %,3,100.00 %,3,0.00 %,
+Oman,"{'asia': True, 'western asia': True, 'muscat': True}","['desert', 'dhow', 'frankincense', 'mountains', 'muscat']",33.33 %,3,66.67 %,3,33.33 %,
+Turkmenistan,"{'asia': True, 'central asia': True, 'ashgabat': True}","['desert', 'ashgabat', 'caspian', 'oil', 'genghis']",33.33 %,3,66.67 %,3,33.33 %,
+Tuvalu,"{'oceania': True, 'polynesia': True, 'funafuti': True}","['pacific', 'island', 'small', 'remote', 'eligible']",0.00 %,3,100.00 %,3,0.00 %,
+Zimbabwe,"{'africa': True, 'eastern africa': True, 'harare': True}","['victoria', 'falls', 'hwange', 'elephants', 'mugabe']",0.00 %,3,100.00 %,3,0.00 %,
+Yemen,"{'asia': True, 'western asia': True, ""sana'a"": True}","['desert', 'war', 'coffee', 'ancient', 'architecture']",0.00 %,3,100.00 %,3,0.00 %,
+Zambia,"{'africa': True, 'eastern africa': False, 'lusaka': True}","['victoriafalls', 'safari', 'wildlife', 'african', 'bush']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Vanuatu,"{'oceania': True, 'melanesia': True, 'port vila': True}","['island', 'pacific', 'tropical', 'beach', 'paradise']",0.00 %,3,100.00 %,3,0.00 %,
+Bratwurst,"{'currywurst': True, 'thüringer': True, 'barbecue': False}","['german', 'sausage', 'beer', 'grill', 'bavaria']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Applesauce,"{'fruit': True, 'tree': True, 'glass': False, 'preserving': True}","['fruit', 'smoothie', 'baby', 'cinnamon', 'snack']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Beer,"{'drink': True, 'bottle': True, 'toast': False}","['pint', 'brewery', 'hops', 'pub', 'tap']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Butter,"{'margarine': False, 'fat': True, 'roast': False, 'bread': True}","['toast', 'baking', 'milk', 'cream', 'sauce']",50.00 %,4,100.00 %,2,0.00 %,100.00 %
+Cola,"{'drink': True, 'fanta': False, 'sprite': False, 'brown': True, 'coca': True}","['fizzy', 'sweet', 'bubbly', 'caffeine', 'classic']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Ukraine,"{'europe': True, 'eastern europe': True, 'kiev': True, 'chernobyl': True}","['kyiv', 'chernobyl', 'cossacks', 'orthodox', 'borscht']",25.00 %,4,75.00 %,4,25.00 %,
+Uganda,"{'africa': True, 'eastern africa': True, 'kampala': True}","['gorillas', 'mountains', 'lake', 'coffee', 'kampala']",33.33 %,3,66.67 %,3,33.33 %,
+Uruguay,"{'americas': True, 'south america': True, 'montevideo': True}","['montevideo', 'beach', 'gaucho', 'tango', 'asado']",33.33 %,3,66.67 %,3,33.33 %,
+Camembert,"{'cheese': True, 'white': True, 'cranberries': False}","['france', 'cheese', 'brie', 'soft', 'rind']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Chocolate,"{'cocoa': True, 'nutella': True, 'ritter sport': True}","['sweet', 'decadent', 'rich', 'delicious', 'indulgent']",0.00 %,3,100.00 %,3,0.00 %,
+Ciabatta,"{'bread': True, 'baked': True, 'italy': True}","['italian', 'bread', 'crusty', 'airy', 'fresh']",33.33 %,3,66.67 %,3,33.33 %,
+Cornflakes,"{'breakfast': True, 'milk': True, 'kellogs': True, 'cereal': True}","['breakfast', 'cereal', 'milk', 'sweet', ""kellogg's""]",75.00 %,4,25.00 %,4,75.00 %,
+Uzbekistan,"{'asia': True, 'central asia': True, 'tashkent': True}","['samarkand', 'bukhara', 'silk', 'mosque', 'cotton']",0.00 %,3,100.00 %,3,0.00 %,
+Currywurst,"{'barbecue': False, 'berlin': True, 'thüringer': True}","['german', 'sausage', 'ketchup', 'fries', 'berlin']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Donut,"{'round': True, 'sweet': True, 'glaze': True, 'coffee': False}","['sugar', 'glaze', 'sprinkles', 'coffee', 'pastry']",25.00 %,4,50.00 %,3,33.33 %,0.00 %
+Crispbread,"{'dry': False, 'hard': True, 'bread': True, 'baked': True}","['swedish', 'rye', 'crunchy', 'butter', 'toast']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Eggs,"{'chicken': True, 'round': True, 'white': True, 'mirror': False, 'pan': True}","['scrambled', 'breakfast', 'omelette', 'fried', 'deviled']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Frikadelle,"{'boulette': False, 'meatball': True, 'meat': True}","['meatball', 'german', 'beef', 'breaded', 'fried']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Duck,"{'pond': True, 'christmas': False, 'drake': True, 'goose': False}","['quack', 'feathers', 'swim', 'pond', 'waterfowl']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Fruit,"{'vegetable': False, 'apple': True, 'banana': True, 'strawberry': True}","['juicy', 'sweet', 'tropical', 'vitamin', 'salad']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Cream,"{'butter': True, 'milk': True, 'cake': True, 'sundae': True}","['dairy', 'whipped', 'butter', 'milk', 'rich']",50.00 %,4,50.00 %,4,50.00 %,
+Gouda,"{'cheese': True, 'emmental': False, 'maßdamer': False}","['dutch', 'cheese', 'netherlands', 'smoked', 'semi-soft']",100.00 %,3,66.67 %,1,100.00 %,100.00 %
+Fruitcake,"{'baking': True, 'apple': True, 'plum': True, 'granny': True, 'vegetable': False}","['christmas', 'dense', 'nuts', 'spices', 'traditional']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Croissant,"{'breakfast': False, 'bent': False, 'baked': True, 'sweet': True, 'jam': True}","['french', 'buttery', 'flaky', 'pastry', 'breakfast']",20.00 %,5,80.00 %,3,0.00 %,50.00 %
+Croquettes,"{'potatoes': True, 'fries': True, 'wedges': False}","['spanish', 'deepfried', 'bite-sized', 'meatball', 'tapas']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Hamburger,"{'mcdonalds': False, 'burger king': False, 'bread': True, 'pattie': True, 'salad': False}","['bun', 'beef', 'cheese', 'lettuce', 'ketchup']",60.00 %,5,100.00 %,2,0.00 %,100.00 %
+Dürüm,"{'kebab': True, 'falafel': False, 'batter': False, 'salad': False}","['turkish', 'lamb', 'wrap', 'meat', 'gyros']",75.00 %,4,100.00 %,1,0.00 %,100.00 %
+Jello,"{'green': False, 'woodruff': True, 'trembling': False, 'sweet': True, 'dessert': True}","['wiggly', 'gelatinous', 'fruit', 'colorful', 'party']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Honey,"{'bees': True, 'beekeeper': True, 'sweet': True, 'breakfast': False, 'bear': False}","['sweet', 'golden', 'bees', 'floral', 'delicious']",80.00 %,5,60.00 %,3,66.67 %,100.00 %
+KFC,"{'chicken wings': True, 'fat': True, 'usa': True, 'bucket': True}","['chicken', 'fries', 'bucket', 'secret', 'recipe']",25.00 %,4,75.00 %,4,25.00 %,
+Lemonade,"{'drink': True, 'cola': False, 'fanta': False, 'sprite': False}","['summer', 'refreshing', 'citrus', 'drink', 'picnic']",100.00 %,4,75.00 %,1,100.00 %,100.00 %
+Licorice,"{'sweet': True, 'black': True, 'snacking': True}","['whip', 'allsorts', 'flavor', 'candy', 'twist']",0.00 %,3,100.00 %,3,0.00 %,
+Marmalade,"{'breakfast': False, 'spread': True, 'bread': True, 'strawberries': True}","['orange', 'jam', 'breakfast', 'toast', 'preserves']",0.00 %,4,75.00 %,3,0.00 %,0.00 %
+Goose,"{'duck': False, 'christmas': False, 'turkey': True}","['honk', 'migration', 'feathers', 'wild', 'fowl']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Milk,"{'cow': True, 'white': True, 'drink': True, 'cereal': True, 'breakfast': True}","['cow', 'dairy', 'nourishment', 'white', 'yogurt']",40.00 %,5,60.00 %,5,40.00 %,
+Mousse,"{'chocolate': True, 'airy': True, 'brown': False, 'foam': True}","['chocolate', 'whipped', 'creamy', 'light', 'dessert']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Marzipan,"{'cake': True, 'sweet': True, 'decoration': True, 'white': True}","['almond', 'confectionery', 'christmas', 'cake', 'decorating']",25.00 %,4,75.00 %,4,25.00 %,
+Mozzarella,"{'pizza': True, 'tomato': True, 'italy': True, 'cheese': True}","['cheese', 'pizza', 'italian', 'italy', 'melts']",75.00 %,4,25.00 %,4,75.00 %,
+Muesli,"{'breakfast': True, 'cornflakes': False, 'milk': True, 'bowl': True}","['oats', 'fruit', 'granola', 'nuts', 'yogurt']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Margarine,"{'butter': False, 'spread': True, 'bread': True}","['butter', 'vegetable', 'spread', 'dairy', 'alternative']",33.33 %,3,33.33 %,2,50.00 %,0.00 %
+Mackerel,"{'fish': True, 'sea': True, 'fishing': True, 'food': True, 'saltwater': True}","['fish', 'sushi', 'salmon', 'seafood', 'omega-3']",33.33 %,5,80.00 %,5,20.00 %,
+Mascarpone,"{'tiramisu': True, 'sweet': True, 'heavy': True, 'italy': True}","['italian', 'cheese', 'creamy', 'tiramisu', 'dessert']",25.00 %,4,75.00 %,4,25.00 %,
+Nutella,"{'nut': False, 'nougat': False, 'cream': True, 'chocolate': True, 'breakfast': False, 'spread': True}","['chocolate', 'hazelnut', 'spread', 'breakfast', 'italy']",75.00 %,6,50.00 %,3,66.67 %,33.33 %
+Nuts,"{'macadamia': False, 'fruit': True, 'bowl': True, 'trail mix': True}","['crunchy', 'tree', 'butter', 'pecan', 'walnut']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Olives,"{'oil': True, 'green': True, 'black': False, 'bitter': True}","['greece', 'tapenade', 'salad', 'mediterranean', 'pasta']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Oranges,"{'tangerine': True, 'fruit': True, 'christmas': False}","['juicy', 'vitamin c', 'peel', 'juice', 'segregated']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+McDonalds,"{'burger king': False, 'hamburger': True, 'fries': True, 'yellow': True, 'bow': True}","['fries', 'burgers', 'mcflurry', 'bigmac', 'goldenarches']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Mayonnaise,"{'ketchup': False, 'sausage': True, 'fries': True, 'white': True}","['sandwich', 'egg', 'tartar', 'salad', 'dressing']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Pasta,"{'spaghetti': True, 'pasta': False, 'tomato sauce': True, 'italy': True}","['italian', 'spaghetti', 'tomato', 'sauce', 'garlic']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Rice,"{'asia': True, 'china': True, 'white': True, 'grain': True, 'chopsticks': True}","['asian', 'grain', 'staple', 'cuisine', 'sushi']",20.00 %,5,80.00 %,5,20.00 %,
+Pudding,"{'chocolate': True, 'vanilla': True, 'sweet': True, 'dessert': True}","['chocolate', 'vanilla', 'creamy', 'sweet', 'dessert']",100.00 %,4,0.00 %,4,100.00 %,
+Pancakes,"{'baking': True, 'sweet': True, 'jam': True, 'dessert': True, 'pie': False}","['fluffy', 'butter', 'syrup', 'maple', 'sunday']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Popcorn,"{'corn': True, 'movie theater': True, 'salt': True, 'butter': True, 'sugar': False}","['movie', 'cinema', 'snack', 'butter', 'caramel']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Salmon,"{'fish': True, 'sea': True, 'fishing': True, 'tuna fish': False}","['fish', 'pink', 'grill', 'omega3', 'pacific']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Shrimp,"{'sea': True, 'fruit': False, 'sushi': True}","['seafood', 'crab', 'salad', 'garlic', 'asian']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Pesto,"{'pasta': True, 'spaghetti': True, 'herbs': True, 'paste': True}","['italian', 'sauce', 'herbs', 'garlic', 'pasta']",50.00 %,4,50.00 %,4,50.00 %,
+Salami,"{'sausage': True, 'pork': True, 'mince': False, 'topping': False}","['italian', 'meat', 'cured', 'spicy', 'sandwich']",50.00 %,4,100.00 %,2,0.00 %,100.00 %
+Potatoes,"{'earth': False, 'apple': False, 'brown': True, 'cooking': True, 'fries': True}","['fries', 'mash', 'baked', 'chips', 'hashbrowns']",50.00 %,5,80.00 %,3,33.33 %,50.00 %
+Pollock,"{'fish': False, 'sea': False, 'fishing': False}","['jackson', 'abstract', 'expressionism', 'drip', 'action']",100.00 %,3,100.00 %,0,,100.00 %
+Rollmops,"{'fish': False, 'bread': True, 'herring': True}","['pickled', 'herring', 'fish', 'german', 'cured']",33.33 %,3,33.33 %,2,50.00 %,0.00 %
+Speisequark,"{'potatoes': False, 'herbs': False, 'yogurt': False, 'cream': True}","['quark', 'cheese', 'dessert', 'german', 'sweet']",75.00 %,4,100.00 %,1,0.00 %,100.00 %
+Saltines,"{'brown': False, 'pretzels': True, 'nibbles': True}","['cracker', 'snack', 'butter', 'tea', 'dip']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Starbucks,"{'coffee': True, 'expensive': True, 'cup': True, 'green': False, 'usa': False}","['coffee', 'latte', 'barista', 'frappuccino', 'wifi']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Soup,"{'liquid': True, 'water': True, 'herbs': True, 'broth': True}","['noodle', 'broth', 'vegetable', 'spicy', 'comfort']",25.00 %,4,75.00 %,4,25.00 %,
+Spätzle,"{'noodles': True, 'dough': True, 'austria': True}","['austrian', 'german', 'noodle', 'homemade', 'sausage']",0.00 %,3,100.00 %,3,0.00 %,
+Steak,"{'meat': True, 'cutlet': False, 'fries': False, 't-bone': True, 'filet': True}","['grill', 'meat', 'rare', 'savory', 'ribeye']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Subway,"{'sandwich': True, 'salad': True, 'meat': True, 'usa': True, 'fast food': True}","['sandwich', 'tunnel', 'newyork', 'food', 'underground']",20.00 %,5,80.00 %,5,20.00 %,
+Vegetables,"{'fruit': False, 'salad': True, 'tomato': True}","['carrot', 'broccoli', 'tomato', 'cucumber', 'spinach']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Trout,"{'fish': True, 'sea': False, 'fishing': True}","['fish', 'river', 'freshwater', 'flyfishing', 'stream']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Toast,"{'bread': True, 'baking': True, 'white': True, 'light': False}","['bread', 'breakfast', 'butter', 'crunchy', 'break']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Rolls,"{'schrippe': False, 'semmel': True, 'baked': True, 'bakers': True}","['bread', 'dice', 'sushi', 'cylindrical', 'poker']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Eminem,"{'rapper': True, 'slim shady': True, 'detroit': True, 'without me': True}","['rap', 'detroit', 'controversy', 'dr. dre', 'slam']",25.00 %,4,75.00 %,4,25.00 %,
+Rembrandt,"{'artist': True, 'painter': True, 'dutch': True, 'netherlands': True, 'portraits': True}","['painter', 'dutch', 'baroque', 'light', 'masterpiece']",40.00 %,5,60.00 %,5,40.00 %,
+Michelangelo,"{'painter': True, 'artist': True, 'italy': True, 'sistine chapel': True, 'renaissance': True}","['art', 'renaissance', 'sculpture', 'david', 'moses']",20.00 %,5,80.00 %,5,20.00 %,
+Bono,"{'singer': True, 'u2': True, 'rock': True, 'england': False}","['u2', 'ireland', 'activism', 'charity', 'guitar']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Airship,"{'hindenburg': False, 'helium': True, 'balloon': True}","['zeppelin', 'blimp', 'rigged', 'luxurious', 'vintage']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Sushi,"{'fish': True, 'seaweed': True, 'rice': True, 'asia': True, 'china': False}","['rice', 'raw', 'fish', 'japan', 'delicious']",60.00 %,5,60.00 %,4,50.00 %,100.00 %
+Whiskey,"{'drink': True, 'spirit': True, 'scotland': True, 'brown': True}","['scotch', 'barrel', 'smoky', 'oak', 'spirits']",0.00 %,4,100.00 %,4,0.00 %,
+Tiramisu,"{'mascarpone': False, 'coffee': True, 'biscuit': True, 'cake': True, 'italy': True}","['coffee', 'ladyfingers', 'mascarpone', 'cream', 'italian']",20.00 %,5,60.00 %,4,25.00 %,0.00 %
+Bedding,"{'pillow': True, 'blanket': True, 'cover': True}","['sheets', 'blankets', 'comforter', 'pillow', 'mattress']",33.33 %,3,66.67 %,3,33.33 %,
+Wine,"{'drink': True, 'red': True, 'white': True, 'adult': True}","['grape', 'vineyard', 'bottle', 'glasses', 'tasting']",0.00 %,4,100.00 %,4,0.00 %,
+Backpack,"{'carry': True, 'bag': True, 'school': True, 'transport': True}","['travel', 'adventure', 'school', 'hiking', 'luggage']",25.00 %,4,75.00 %,4,25.00 %,
+BluRay,"{'dvd': False, 'cd': False, 'movie': True, 'gigabyte': True}","['highdefinition', 'movie', 'disc', 'player', '1080p']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Cable,"{'electricity': True, 'long': True, 'plug': True, 'television': True}","['internet', 'tv', 'wire', 'network', 'connection']",0.00 %,4,100.00 %,4,0.00 %,
+Antenna,"{'tv': True, 'internet': True, 'wlan': True}","['radio', 'communication', 'satellite', 'tv', 'reception']",33.33 %,3,66.67 %,3,33.33 %,
+Broom,"{'cleaning': True, 'sweeping': True}","['sweep', 'clean', 'dustpan', 'mop', 'vacuum']",0.00 %,2,100.00 %,2,0.00 %,
+Carpet,"{'laminate': False, 'carpeting': True, 'floor': True}","['floor', 'furniture', 'home', 'decor', 'soft']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Wiener,"{'hot dog': True, 'bread': False, 'austria': True}","['sausage', 'frankfurter', 'hotdog', 'bun', 'condiments']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Dustpan,"{'cleaning': True, 'broom': True, 'dirt': True}","['broom', 'sweeping', 'cleaning', 'vacuum', 'floor']",66.67 %,3,33.33 %,3,66.67 %,
+Dishwasher,"{'hand wash': False, 'plate': True, 'cutlery': True}","['appliance', 'kitchen', 'cleaning', 'water', 'sanitizer']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+DVD,"{'movie': True, 'player': True, 'television': False, 'cd': False}","['movie', 'player', 'rental', 'store', 'collection']",100.00 %,4,50.00 %,2,100.00 %,100.00 %
+Clothespin,"{'clothes': True, 'line': True, 'dry': False, 'hang up': True}","['spring', 'hanger', 'linen', 'summer', 'outdoor']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Chopsticks,"{'wood': True, 'china': False, 'two': True, 'rice': True}","['asian', 'food', 'china', 'japan', 'stir-fry']",0.00 %,4,75.00 %,3,0.00 %,0.00 %
+Clothesline,"{'dry': True, 'hang': True, 'clips': True}","['laundry', 'outdoor', 'rope', 'fresh', 'air']",0.00 %,3,100.00 %,3,0.00 %,
+Computer,"{'pc': True, 'laptop': True, 'notebook': False, 'internet': True}","['keyboard', 'monitor', 'mouse', 'processor', 'software']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Dishes,"{'cutlery': False, 'plate': True, 'knife': True, 'fork': True}","['plate', 'fork', 'knife', 'spoon', 'ceramic']",100.00 %,4,25.00 %,3,100.00 %,100.00 %
+Flag,"{'flag': True, 'hoist': True, 'mast': True, 'flap': True}","['national', 'patriotism', 'symbol', 'country', 'bunting']",0.00 %,4,100.00 %,4,0.00 %,
+Fan,"{'wind': True, 'air': True, 'cool': True}","['blade', 'air', 'sports', 'movie', 'breeze']",33.33 %,3,66.67 %,3,33.33 %,
+Cutlery,"{'knife': True, 'spoon': True, 'fork': True, 'food': False}","['fork', 'knife', 'spoon', 'plate', 'table']",100.00 %,4,25.00 %,3,100.00 %,100.00 %
+Corkscrew,"{'wine': True, 'food': True, 'restaurant': True, 'waiter': True}","['wine', 'bottle', 'twist', 'screw', 'bar']",25.00 %,4,75.00 %,4,25.00 %,
+Flashlight,"{'dark': False, 'light': True, 'batteries': True}","['battery', 'shine', 'darkness', 'light', 'portable']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Dynamo,"{'bicycle': False, 'lamp': False, 'electricity': True}","['electric', 'energy', 'power', 'generator', 'magician']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Freezer,"{'refrigerator': True, 'ice': True, 'cold': True}","['ice', 'frozen', 'food', 'storage', 'frost']",33.33 %,3,66.67 %,3,33.33 %,
+Hammer,"{'nail': True, 'wall': True, 'tool': True}","['nail', 'construction', 'tool', 'heavy', 'mallet']",66.67 %,3,33.33 %,3,66.67 %,
+Helicopter,"{'rotor': True, 'fly': True, 'airplane': False}","['rotor', 'pilot', 'airborne', 'whirlybird', 'emergency']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Keyboard,"{'computer': True, 'keys': True, 'input': True}","['computer', 'typing', 'mouse', 'laptop', 'keys']",66.67 %,3,33.33 %,3,66.67 %,
+Iron,"{'shirts': True, 'hot': True, 'smooth': False}","['metal', 'strength', 'forge', 'ore', 'steel']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Railroad,"{'steam': True, 'rails': True, 'locomotive': True}","['train', 'tracks', 'station', 'conductor', 'locomotive']",33.33 %,3,66.67 %,3,33.33 %,
+Pot,"{'tea': False, 'coffee': False, 'transport': False, 'glass': True}","['kitchen', 'cooking', 'garden', 'flower', 'herb']",75.00 %,4,100.00 %,1,0.00 %,100.00 %
+Refrigerator,"{'freeze': True, 'food': True, 'cold': True}","['food', 'cold', 'kitchen', 'appliance', 'fridge']",66.67 %,3,33.33 %,3,66.67 %,
+Humidifier,"{'dry': False, 'wet': True, 'wind': False, 'climate': True}","['misty', 'moisture', 'relief', 'cooler', 'mist']",50.00 %,4,100.00 %,2,0.00 %,100.00 %
+Kettle,"{'heat': True, 'tea': True, 'coffee': True}","['whistle', 'tea', 'boil', 'water', 'stovetop']",33.33 %,3,66.67 %,3,33.33 %,
+Mop,"{'mopping': True, 'bucket': True, 'water': True}","['clean', 'floor', 'broom', 'sweep', 'janitor']",0.00 %,3,100.00 %,3,0.00 %,
+Smartphone,"{'mobile': True, 'apple': True, 'samsung': True}","['screen', 'camera', 'internet', 'app', 'touchscreen']",0.00 %,3,100.00 %,3,0.00 %,
+Phone,"{'long distance': False, 'cell phone': True, 'smart phone': True}","['call', 'text', 'screen', 'battery', 'charger']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Padlock,"{'key': True, 'lock': True, 'cellar': False}","['security', 'lock', 'key', 'safety', 'protection']",100.00 %,3,33.33 %,2,100.00 %,100.00 %
+Streetcar,"{'train': False, 'streetcar': True, 'transportation': True, 'public transportation': True}","['tram', 'bus', 'transportation', 'new orleans', 'avenue']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Plunger,"{'toilet': True, 'loo': True, 'blockage': True}","['clogged', 'drain', 'unclog', 'toilet', 'clogged']",33.33 %,3,66.67 %,3,33.33 %,
+Sunbed,"{'solarium': True, 'tan': True, 'tanning': True}","['tanning', 'beach', 'vitamin', 'skin', 'cancer']",33.33 %,3,66.67 %,3,33.33 %,
+Toaster,"{'bread': True, 'hot': True, 'reheat': True}","['bread', 'breakfast', 'kitchen', 'electric', 'crumbs']",33.33 %,3,66.67 %,3,33.33 %,
+Tray,"{'food': True, 'transport': False, 'bring': True, 'waiter': True}","['table', 'platter', 'dish', 'plate', 'server']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+TV,"{'boob tube': True, 'tv': True, 'rtl': False, 'prosieben': False}","['remote', 'channel', 'broadcaster', 'screen', 'program']",50.00 %,4,100.00 %,2,0.00 %,100.00 %
+Touchpad,"{'ipad': False, 'smartphone': False, 'display': True, 'touch': True}","['laptop', 'mouse', 'gesture', 'trackpad', 'click']",50.00 %,4,100.00 %,2,0.00 %,100.00 %
+Scrubber,"{'mop': True, 'cleaning': True}","['broom', 'cleaning', 'toilet', 'brush', 'mop']",100.00 %,2,0.00 %,2,150.00 %,
+Typewriter,"{'obsolete': True, 'keys': True, 'paper': True}","['keys', 'ink', 'paper', 'write', 'rattle']",66.67 %,3,33.33 %,3,66.67 %,
+Waterbed,"{'sleep': True, 'night': True, 'pillow': False, 'comforter': False}","['soft', 'flexible', 'bouncy', 'relaxing', 'luxurious']",50.00 %,4,100.00 %,2,0.00 %,100.00 %
+Casino,"{'drama': False, 'robert de niro': False, 'martin scorsese': False, 'mafia': True, 'gambling': True}","['gaming', 'luck', 'vegas', 'jackpot', 'poker']",60.00 %,5,100.00 %,2,0.00 %,100.00 %
+Downfall,"{'drama': False, 'adolf hitler': True, 'world war ii': True, 'berlin bunker': True}","['collapse', 'defeat', 'demise', 'decline', 'disaster']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Deadpool,"{'action': True, 'ryan reynolds': True, 'red suit': True, 'mercenary': True}","['merc', 'regenerating', 'wolverine', 'antihero', 'humor']",0.00 %,4,100.00 %,4,0.00 %,
+Gladiator,"{'action': True, 'roman general': True, 'russell crowe': True, 'slavery': True, 'colosseum': True}","['sword', 'arena', 'rome', 'glory', 'spartacus']",0.00 %,5,100.00 %,5,0.00 %,
+Wardrobe,"{'clothes': True, 'hang': True, 'closet': True}","['clothing', 'closet', 'fashion', 'dresser', 'hanger']",33.33 %,3,66.67 %,3,33.33 %,
+Whisk,"{'egg': False, 'beat': True, 'metal': True}","['bake', 'mix', 'kitchen', 'cook', 'egg']",0.00 %,3,66.67 %,2,0.00 %,0.00 %
+Amélie,"{'drama': False, 'romance': True, 'paris': True, 'france': True}","['paris', 'quirky', 'romantic', 'whimsical', 'french']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Inception,"{'action': False, 'christopher nolan': True, 'leonardo dicaprio': True, 'lucid dreaming': True, 'thoughts': True}","['dream', 'heist', 'cobb', 'subconscious', 'reality']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Casablanca,"{'drama': True, 'humphrey bogart': True, 'nazis': True, 'french morocco': True}","['morocco', ""rick's cafe"", 'humphrey bogart', 'ingrid bergman', 'classic']",25.00 %,4,75.00 %,4,25.00 %,
+Alien,"{'sigourney weaver': False, 'ufo': True, 'space': True, 'horror': True}","['space', 'ufo', 'e.t.', 'galaxy', 'intergalactic']",75.00 %,4,50.00 %,3,66.67 %,100.00 %
+Platoon,"{'action': True, 'vietnam war': True, 'charlie sheen': True, 'chris taylor': True}","['war', 'combat', 'soldiers', 'vietnam', 'honor']",0.00 %,4,100.00 %,4,0.00 %,
+Goodfellas,"{'drama': True, 'robert de niro': False, 'mafia': True, 'henry hill': True}","['mob', 'gangster', 'hollywood', 'lufthansa', 'henry']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Interstellar,"{'sci fi': False, 'matthew mcconaughey': False, 'space': True, 'wormhole': True, 'black hole': True}","['space', 'wormhole', 'blackhole', 'gravity', 'nasa']",80.00 %,5,60.00 %,3,66.67 %,100.00 %
+Jaws,"{'thriller': True, 'shark': True, 'beach': True, 'surfing': False}","['shark', 'beach', 'thriller', 'amity', 'bruce']",100.00 %,4,25.00 %,3,100.00 %,100.00 %
+Se7en,"{'thriller': True, 'morgan freeman': True, 'brad pitt': True, 'serial killer': True, 'deadly sins': True}","['gritty', 'dark', 'violent', 'moral', 'unsettling']",0.00 %,5,100.00 %,5,0.00 %,
+WALL·E,"{'disney': False, 'pixar': True, 'robots': True, 'eve': False, 'space': True}","['robot', 'space', 'trash', 'love', 'eco-friendly']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Zootopia,"{'disney': False, 'pixar': True, 'animals': True, 'rabbit': True, 'police': True}","['savannah', 'judy', 'fox', 'police', 'anthropomorphic']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Amazon,"{'jeff bezos': False, 'prime video': True, 'books': True, 'online shop': True, 'shopping': True}","['rainforest', 'e-commerce', 'bezos', 'prime', 'alexa']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Avatar,"{'image': True, 'photo': True, 'profile': False, 'user picture': False}","['pandora', ""na'vi"", 'jake', 'sully', '3d']",50.00 %,4,100.00 %,2,0.00 %,100.00 %
+Bitcoin,"{'ethereum': False, 'blockchain': True, 'crypto': True, 'currency': True, 'money': True}","['cryptocurrency', 'blockchain', 'mining', 'digital', 'investment']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Psycho,"{'alfred hitchcock': True, 'thriller': True, 'bathroom': False, 'knife': True}","['hitchcock', 'hannibal', 'slasher', 'thriller', 'murder']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Browser,"{'chrome': True, 'firefox': True, 'internet explorer': True, 'safari': True, 'websites': True}","['internet', 'search', 'web', 'navigation', 'online']",0.00 %,5,100.00 %,5,0.00 %,
+Memento,"{'christopher nolan': False, 'short-term memory': True, 'murderer': False, 'leonard': False}","['memory', 'photograph', 'tattoo', 'token', 'souvenir']",75.00 %,4,100.00 %,1,0.00 %,100.00 %
+Scarface,"{'action': True, 'tony montana': True, 'drug dealer': True, 'miami': True, 'drug cartel': True}","['miami', 'gangster', 'violence', 'power', 'tonymontana']",20.00 %,5,80.00 %,5,20.00 %,
+Rocky,"{'sylvester stallone': False, 'heavyweight boxing champion': True, 'eye of the tiger': True}","['philadelphia', 'boxing', 'underdog', 'training', 'inspiration']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Blog,"{'wordpress': False, 'articles': True, 'reading': True, 'writing': True}","['writing', 'online', 'journal', 'content', 'publish']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Cloud,"{'dropbox': False, 'google drive': False, 'file sharing': True, 'icloud': True, 'online': True}","['sky', 'rain', 'fog', 'storm', 'weather']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Coinbase,"{'crypto': True, 'ethereum': True, 'blockchain': True, 'currencies': True, 'exchange': True}","['cryptocurrency', 'exchange', 'bitcoin', 'blockchain', 'wallet']",40.00 %,5,60.00 %,5,40.00 %,
+Up,"{'disney': False, 'pixar': False, 'carl fredricksen': False, 'house': True, 'balloons': True}","['high', 'rise', 'elevate', 'ascend', 'climb']",60.00 %,5,100.00 %,2,0.00 %,100.00 %
+Download,"{'browser': True, 'computer': True, 'files': True, 'images': True, 'videos': True}","['file', 'speed', 'internet', 'software', 'cloud']",0.00 %,5,100.00 %,5,0.00 %,
+Emoticon,"{'emotion': True, 'feelings': False, 'smiley': True, 'symbol': True}","['smiley', 'facial', 'expression', 'emoji', 'symbol']",75.00 %,4,50.00 %,3,66.67 %,100.00 %
+Facebook,"{'instagram': False, 'mark zuckerberg': False, 'whatsapp': False, 'blue': True, 'social network': True}","['social media', 'online', 'friends', 'networking', 'profile']",60.00 %,5,100.00 %,2,0.00 %,100.00 %
+eBook,"{'amazon': False, 'kindle': True, 'books': True, 'digital': True, 'reading': True}","['digital', 'reading', 'tablet', 'download', 'library']",60.00 %,5,60.00 %,4,50.00 %,100.00 %
+eBay,"{'auctions': True, 'bidding': True, 'buy': True, 'sell': True}","['auction', 'online', 'shopping', 'bidding', 'retail']",25.00 %,4,75.00 %,4,25.00 %,
+Google,"{'gmail': False, 'maps': True, 'youtube': True, 'advertisement': False, 'web search': True}","['search', 'alphabet', 'android', 'chrome', 'maps']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Shining,"{'thriller': False, 'stanley kubrick': True, 'jack nicholson': True, 'hotel': True, 'axe': True}","['bright', 'radiant', 'glowing', 'luminous', 'sparkling']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Login,"{'accounts': True, 'password': True, 'profile': False, 'username': True}","['password', 'account', 'username', 'security', 'authentication']",75.00 %,4,50.00 %,3,66.67 %,100.00 %
+Instagram,"{'facebook': False, 'images': True, 'sharing': True, 'social network': True, 'videos': True}","['social', 'media', 'photography', 'influencer', 'filter']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Influencer,"{'vip': False, 'famous': True, 'followers': True, 'impact': True, 'likes': False}","['social', 'media', 'marketing', 'celebrity', 'endorsement']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Hype,"{'fans': True, 'hashtag': True, 'new': True, 'social network': False, 'topic': True}","['excitement', 'enthusiasm', 'mania', 'mania', 'buzz']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Netflix,"{'binge watching': True, 'movies': True, 'online': True, 'series': True, 'streaming': True}","['streaming', 'movies', 'tv', 'binge-watching', 'originals']",40.00 %,5,60.00 %,5,40.00 %,
+Logout,"{'login': True, 'profile': False, 'sign out': True}","['session', 'account', 'disconnect', 'exit', 'signout']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Password,"{'pin': False, 'login': True, 'private': True, 'registration': False, 'secret': True}","['security', 'login', 'authentication', 'encryption', 'access']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Nerd,"{'clever': False, 'computers': True, 'glasses': True, 'internet': True, 'pizza': False}","['glasses', 'computer', 'science', 'math', 'comicbook']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Pinterest,"{'boards': True, 'images': True, 'quotes': False, 'recipes': False, 'sharing': True}","['diy', 'crafting', 'homedecor', 'fashion', 'inspiration']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+PayPal,"{'account': True, 'online shopping': True, 'paying': True, 'sending money': True}","['online', 'payment', 'banking', 'transfer', 'transaction']",0.00 %,4,100.00 %,4,0.00 %,
+Newsletter,"{'advertisement': False, 'email': True, 'information': True, 'regular': True, 'scheduled': False}","['email', 'publication', 'subscription', 'update', 'magazine']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Hacker,"{'black hoodie': False, 'fraud': True, 'password': True, 'robbery': True}","['computer', 'cybersecurity', 'code', 'network', 'malware']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Privacy,"{'nsa': False, 'snowden': True, 'data': True, 'details': False, 'personal': True}","['confidential', 'secure', 'secret', 'anonymity', 'encryption']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Signal,"{'edward snowden': False, 'whatsapp': True, 'chat': True, 'messages': True, 'messenger': True}","['communication', 'warning', 'direction', 'indication', 'transmission']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Spam,"{'advertisement': False, 'annoying': True, 'email': True, 'fraud': False, 'newsletter': True}","['canned', 'meat', 'hawaiian', 'ham', 'email']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Reddit,"{'frontpage': False, 'postings': True, 'social network': True, 'subs': True, 'upvote': True}","['community', 'ama', 'meme', 'subreddit', 'upvote']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Malware,"{'dangerous': False, 'ransomware': True, 'rootkit': True, 'trojan': True, 'virus': True}","['virus', 'trojan', 'ransomware', 'spyware', 'phishing']",80.00 %,5,40.00 %,4,75.00 %,100.00 %
+Mention,"{'@': False, 'reference': True, 'social networks': False, 'username': True}","['reference', 'citation', 'remark', 'comment', 'acknowledgment']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Tidal,"{'hifi': False, 'listening': False, 'music': True, 'playlists': False, 'radio': True}","['ocean', 'wave', 'current', 'surge', 'ebb']",60.00 %,5,100.00 %,2,0.00 %,100.00 %
+Spotify,"{'listening': True, 'music': True, 'playlists': True, 'radio': False, 'streaming': True}","['music', 'streaming', 'playlist', 'artist', 'podcast']",60.00 %,5,60.00 %,4,50.00 %,100.00 %
+Snapchat,"{'instagram': False, 'images': True, 'social network': True, 'videos': True}","['ephemeral', 'filter', 'story', 'selfie', 'disappearing']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Update,"{'application': False, 'downloads': False, 'new version': True, 'software': True}","['software', 'news', 'patch', 'revision', 'refresh']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Telegram,"{'signal': True, 'whatsapp': False, 'chat': True, 'green': False, 'messages': True}","['messaging', 'app', 'secure', 'end-to-end', 'encryption']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+WhatsApp,"{'chat': True, 'facebook': False, 'signal': False, 'green': True, 'messages': True}","['messaging', 'app', 'social', 'communication', 'mobile']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Wikipedia,"{'google': False, 'encyclopedia': True, 'knowledge': True, 'non profit': False, 'research': True}","['encyclopedia', 'online', 'information', 'encyclopedic', 'knowledge']",80.00 %,5,60.00 %,3,66.67 %,100.00 %
+YouTube,"{'google': False, 'streamer': True, 'streaming': True, 'uploads': True, 'videos': True}","['videos', 'streaming', 'advertising', 'influencers', 'vlogging']",60.00 %,5,60.00 %,4,50.00 %,100.00 %
+Tweet,"{'twitter': False, 'posting': True, 'short': True, 'threads': False}","['bird', 'social', 'media', 'short', 'message']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Tinder,"{'app': True, 'dating': True, 'one night stand': True, 'singles': False, 'swipe': True}","['dating', 'app', 'swipe', 'relationship', 'hookup']",80.00 %,5,40.00 %,4,75.00 %,100.00 %
+Twitter,"{'facebook': False, 'bird': True, 'blue': False, 'short': True, 'social network': True}","['microblogging', 'socialmedia', '140characters', 'hashtag', 'tweet']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+viral,"{'clicks': True, 'famous': True, 'likes': True, 'social network': True, 'views': True}","['trend', 'infection', 'outbreak', 'contagious', 'meme']",0.00 %,5,100.00 %,5,0.00 %,
+Webcam,"{'skype': False, 'zoom': False, 'camera': True, 'streaming': True, 'video': True}","['internet', 'security', 'streaming', 'video', 'online']",80.00 %,5,60.00 %,3,66.67 %,100.00 %
+VPN,"{'ip address': False, 'anonymous': True, 'connection': True, 'networks': True}","['security', 'encryption', 'anonymity', 'proxy', 'private']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Virus,"{'computer': False, 'dangerous': True, 'malware': True, 'trojan': True}","['infection', 'computer', 'pandemic', 'symptoms', 'antibody']",0.00 %,4,75.00 %,3,0.00 %,0.00 %

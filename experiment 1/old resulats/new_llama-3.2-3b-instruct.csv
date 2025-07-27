@@ -1,0 +1,11 @@
+Word,Predictions,Generated Words,True Words Found,False Words Not Found,Final Score,Number of Words,Success (%)
+Alpaca,"{'South America': False, 'Camel': False, 'Llama': True, 'Wool': True}","['fiber', 'south', 'andes', 'soft', 'fuzzy']",0,4,4,4,100.0
+Anemonefish,"{'shark': False, 'sea': True, 'coral': True}",[],0,1,1,3,33.33333333333333
+Anteater,"{'forest': False, 'tongue': True, 'long': True}","['nocturnal', 'longsnout', 'tongue', 'claws', 'digging']",1,1,2,3,66.66666666666666
+Antelope,"{'hop': False, 'safari': True, 'lion': False}","['african', 'africa', 'pronghorn', 'grazing', 'speed']",0,2,2,3,66.66666666666666
+Badger,"{'forest': True, 'marten': True, 'carnivore': True, 'predator': True}","['fierce', 'tenacious', 'burrowing', 'nocturnal', 'furry']",0,0,0,4,0.0
+Bat,"{'ultrasonic': False, 'vampire': False, 'night': True, 'fly': True}","['flying', 'cave', 'vampire', 'gotham', 'nocturnal']",0,1,1,4,25.0
+Bear,"{'grizzly': True, 'teddy': True, 'ted': False, 'honey': False, 'pooh': True}","['forest', 'honey', 'claws', 'fur', 'hibernation']",0,1,1,5,20.0
+Bison,"{'cattle': False, 'bison': True, 'steppe': True, 'America': True}","['wild', 'herd', 'native', 'horned', 'american']",0,2,2,4,50.0
+Bonobo,"{'monkey': True, 'chimpanzee': False, 'baboon': False, 'primate': True}","['primate', 'gorilla', 'african', 'intelligent', 'conservation']",1,2,3,4,75.0
+Butterfly,"{'wings': True, 'flowers': False, 'colorful': True, 'meadow': True}","['colorful', 'delicate', 'transformation', 'wings', 'beauty']",2,1,3,4,75.0

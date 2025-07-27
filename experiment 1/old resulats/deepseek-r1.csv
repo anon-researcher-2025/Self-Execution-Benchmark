@@ -1,0 +1,77 @@
+Word,Predictions,Generated Words,True Words Found,False Words Not Found,Final Score,Missing Predictions Count
+Bear,"{'grizzly': True, 'teddy': True, 'ted': False, 'honey': True, 'pooh': True}","['grizzly', 'hibernate', 'honey', 'cub', 'furry']",2,1,3,3
+Cat,"{'pet': True, 'dog': False, 'meow': True, 'scratch': True, 'claws': True}","['whiskers', 'purr', 'feline', 'paws', 'claws']",1,1,2,4
+Cheetah,"{'fast': True, 'mp/h': False, 'lion': False, 'africa': True, 'savannah': True}","['speed', 'spots', 'savannah', 'predator', 'agile']",1,2,3,4
+Chimpanzee,"{'monkey': False, 'human': True, 'intelligent': True, 'primate': True, 'orangutan': False}","['primate', 'jungle', 'intelligent', 'troop', 'social']",2,2,4,3
+Cow,"{'stable': False, 'milk': True, 'udder': True, 'milking': True, 'straw': True}","['mammal', 'milk', 'farm', 'moo', 'herd']",1,1,2,4
+Dog,"{'shepherd': True, 'friend': True, 'pet': True, 'bark': True, 'cat': False}","['loyal', 'bark', 'puppy', 'leash', 'fur']",1,1,2,4
+Giraffe,"{'neck': True, 'long': True, 'elephant': False, 'savannah': True, 'africa': True}","['neck', 'spots', 'africa', 'leaves', 'tall']",2,1,3,3
+Gorilla,"{'monkey': False, 'chimpanzee': False, 'gray': True, 'roar': False, 'chest': True}","['primate', 'troop', 'jungle', 'strength', 'conservation']",0,3,3,5
+Jaguar,"{'car brand': True, 'cheetah': False, 'lion': False, 'savannah': False, 'africa': False}","['predator', 'jungle', 'spots', 'luxury', 'automobile']",0,4,4,5
+Lion,"{'king': True, 'tiger': False, 'cheetah': False, 'africa': True, 'savannah': True}","['king', 'mane', 'pride', 'roar', 'savanna']",1,2,3,4
+Panda,"{'black': True, 'white': True, 'clumsy': True, 'china': True, 'bear': True}","['bamboo', 'black-and-white', 'endangered', 'china', 'cuddly']",1,0,1,4
+Penguin,"{'south pole': True, 'arctic': False, 'yellow': True, 'black': True, 'white': True}","['flightless', 'antarctica', 'tuxedo', 'colony', 'waddle']",0,1,1,5
+Reindeer,"{'santa claus': True, 'rudolf': True, 'nose': True, 'red': True, 'deer': True}","['antlers', 'arctic', 'sleigh', 'hooves', 'caribou']",0,0,0,5
+Seal,"{'tricks': True, 'balancing': True, 'water': True, 'sea': True, 'cat': False}","['ocean', 'wax', 'mammal', 'emblem', 'flippers']",0,1,1,5
+Sheepdog,"{'police': False, 'friend': True, 'pet': True, 'bark': True, 'cat': False}","['herding', 'loyal', 'flock', 'intelligent', 'protective']",0,2,2,5
+Squirrel,"{'forest': True, 'tree': True, 'nuts': True, 'hibernate': False, 'brown': True}","['tail', 'nuts', 'tree', 'scurry', 'cheeks']",2,1,3,3
+Wasp,"{'bee': True, 'honey': False, 'sting': True, 'black': True, 'yellow': True}","['insect', 'stinger', 'nest', 'yellow', 'aggressive']",1,1,2,4
+Wolf,"{'wild': True, 'dog': True, 'howl': True, 'moon': True, 'pack': True}","['pack', 'howl', 'predator', 'wild', 'moon']",4,0,4,1
+Chevrolet,"{'america': True, 'united states': False, 'general motors': True, 'camaro': True, 'transformers': True}","['camaro', 'corvette', 'silverado', 'american', 'bowtie']",1,1,2,4
+Ford,"{'america': True, 'united states': False, 'henry': True, 'f-150': True, 'assembly line': True}","['automobile', 'henry', 'assembly', 'truck', 'legacy']",1,1,2,4
+Mini,"{'germany': True, 'england': True, 'bmw': True, 'small': True, 'mr bean': True}","['car', 'small', 'version', 'skirt', 'golf']",1,0,1,4
+Smart,"{'germany': True, 'small': True, 'parking space': True, 'mercedes': True, 'daimler': True}","['intelligent', 'analytical', 'innovative', 'resourceful', 'astute']",0,0,0,5
+Trabant,"{'trabbi': True, 'ddr': True, 'veb': True, 'germany': False, 'zwickau': True}","['gdr', 'duroplast', 'trabi', 'two-stroke', 'icon']",0,1,1,5
+UAZ,"{'russia': True, 'soviet union': True, 'trucks': True, 'big rig': False, 'cargo': True}","['off-road', 'russian', 'uaz-469', 'military', 'rugged']",0,1,1,5
+Volvo,"{'sweden': True, 'trucks': True, 'big rig': False, 'ford': False, 'cargo': False}","['safety', 'swedish', 'durability', 'innovation', 'electric']",0,3,3,5
+Wartburg,"{'lada': False, 'ddr': True, 'russia': False, 'trabbi': True, 'germany': True}","['castle', 'luther', 'reformation', 'unesco', 'eisenach']",0,2,2,5
+Germany,"{'europe': True, 'western europe': False, 'berlin': True, 'munich': True, 'hamburg': True}","['autobahn', 'oktoberfest', 'berlin wall', 'castles', 'bratwurst']",0,1,1,5
+Cola,"{'drink': True, 'fanta': False, 'sprite': False, 'brown': True, 'coca': True}","['fizzy', 'sweet', 'brown', 'brand', 'refreshing']",1,2,3,4
+Croissant,"{'breakfast': True, 'bent': False, 'baked': True, 'sweet': True, 'jam': True}","['french', 'crescent', 'flaky', 'buttery', 'pastry']",0,1,1,5
+Eggs,"{'chicken': True, 'round': True, 'white': True, 'mirror': False, 'pan': True}","['chicken', 'breakfast', 'omelette', 'scrambled', 'nest']",1,1,2,4
+Fruitcake,"{'baking': True, 'apple': False, 'plum': False, 'granny': True, 'vegetable': False}","['fruit', 'nuts', 'spiced', 'dense', 'holiday']",0,3,3,5
+Hamburger,"{'mcdonalds': True, 'burger king': False, 'bread': True, 'pattie': True, 'salad': False}","['beef', 'bun', 'lettuce', 'cheese', 'fastfood']",0,2,2,5
+Honey,"{'bees': True, 'beekeeper': True, 'sweet': True, 'breakfast': True, 'bear': True}","['bee', 'sticky', 'sweet', 'golden', 'toast']",1,0,1,4
+Jello,"{'green': True, 'woodruff': False, 'trembling': False, 'sweet': True, 'dessert': True}","['wobbly', 'gelatin', 'jiggly', 'dessert', 'translucent']",1,2,3,4
+McDonalds,"{'burger king': False, 'hamburger': True, 'fries': True, 'yellow': True, 'bow': False}","['fastfood', 'goldenarches', 'bigmac', 'happymeal', 'fries']",1,2,3,4
+Pancakes,"{'baking': False, 'sweet': True, 'jam': True, 'dessert': False, 'pie': False}","['breakfast', 'flour', 'syrup', 'flipping', 'butter']",0,3,3,5
+Rice,"{'asia': True, 'china': True, 'white': True, 'grain': True, 'chopsticks': False}","['staple', 'paddy', 'grain', 'sushi', 'side']",1,1,2,4
+Steak,"{'meat': True, 'cutlet': False, 'fries': False, 't-bone': True, 'filet': True}","['grill', 'medium-rare', 'ribeye', 'salt', 'tender']",0,2,2,5
+Tiramisu,"{'mascarpone': True, 'coffee': True, 'biscuit': True, 'cake': True, 'italy': True}","['coffee', 'mascarpone', 'cocoa', 'layers', 'ladyfingers']",2,0,2,3
+Michelangelo,"{'painter': True, 'artist': True, 'italy': True, 'sistine chapel': True, 'renaissance': True}","['sistine', 'david', 'pieta', 'fresco', 'renaissance']",1,0,1,4
+Rembrandt,"{'artist': True, 'painter': True, 'dutch': True, 'netherlands': True, 'portraits': True}","['chiaroscuro', 'self-portraits', 'baroque', 'impasto', 'etchings']",0,0,0,5
+Casino,"{'drama': False, 'robert de niro': True, 'martin scorsese': True, 'mafia': True, 'gambling': True}","['gambling', 'slots', 'cards', 'money', 'risk']",1,1,2,4
+Gladiator,"{'action': True, 'roman general': True, 'russell crowe': True, 'slavery': False, 'colosseum': True}","['arena', 'sword', 'combat', 'colosseum', 'helmet']",1,1,2,4
+Inception,"{'action': False, 'christopher nolan': True, 'leonardo dicaprio': True, 'lucid dreaming': True, 'thoughts': False}","['dreams', 'layers', 'subconscious', 'reality', 'limbo']",0,2,2,5
+Interstellar,"{'sci fi': True, 'matthew mcconaughey': True, 'space': True, 'wormhole': True, 'black hole': True}","['space', 'wormhole', 'blackhole', 'time', 'love']",2,0,2,3
+Scarface,"{'action': False, 'tony montana': True, 'drug dealer': True, 'miami': True, 'drug cartel': True}","['cocaine', 'power', 'violence', 'greed', 'miami']",1,1,2,4
+Se7en,"{'thriller': True, 'morgan freeman': True, 'brad pitt': True, 'serial killer': True, 'deadly sins': True}","['sin', 'detectives', 'darkness', 'gruesome', 'box']",0,0,0,5
+Shining,"{'thriller': False, 'stanley kubrick': True, 'jack nicholson': True, 'hotel': True, 'axe': True}","['radiant', 'bright', 'gleaming', 'outstanding', 'luminous']",0,1,1,5
+Up,"{'disney': False, 'pixar': True, 'carl fredricksen': True, 'house': True, 'balloons': True}","['ascend', 'elevate', 'sky', 'height', 'soar']",0,1,1,5
+WALL·E,"{'disney': False, 'pixar': True, 'robots': True, 'eve': True, 'space': True}","['robot', 'waste', 'dystopia', 'love', 'consumerism']",0,1,1,5
+Zootopia,"{'disney': True, 'pixar': False, 'animals': True, 'rabbit': True, 'police': True}","['diversity', 'predator', 'prey', 'police', 'metropolis']",1,1,2,4
+Amazon,"{'jeff bezos': True, 'prime video': False, 'books': True, 'online shop': True, 'shopping': True}","['e-commerce', 'prime', 'cloud', 'alexa', 'rainforest']",0,1,1,5
+Bitcoin,"{'ethereum': False, 'blockchain': True, 'crypto': True, 'currency': True, 'money': False}","['cryptocurrency', 'blockchain', 'decentralized', 'mining', 'wallet']",1,2,3,4
+Blockchain,"{'bitcoin': True, 'ethereum': True, 'crypto': True, 'currency': True, 'money': False}","['decentralized', 'secure', 'transparent', 'immutable', 'cryptocurrency']",0,1,1,5
+Browser,"{'chrome': True, 'firefox': True, 'internet explorer': True, 'safari': True, 'websites': True}","['webpages', 'tabs', 'history', 'bookmarks', 'cookies']",0,0,0,5
+Cloud,"{'dropbox': True, 'google drive': True, 'file sharing': True, 'icloud': True, 'online': True}","['sky', 'storage', 'cumulus', 'data', 'vapor']",0,0,0,5
+Download,"{'browser': True, 'computer': True, 'files': True, 'images': True, 'videos': True}","['internet', 'file', 'speed', 'transfer', 'save']",0,0,0,5
+eBook,"{'amazon': False, 'kindle': True, 'books': True, 'digital': True, 'reading': True}","['digital', 'e-reader', 'download', 'format', 'portable']",1,1,2,4
+Facebook,"{'instagram': True, 'mark zuckerberg': True, 'whatsapp': False, 'blue': True, 'social network': True}","['social', 'friends', 'posts', 'newsfeed', 'messenger']",0,1,1,5
+Google,"{'gmail': True, 'maps': True, 'youtube': True, 'advertisement': False, 'web search': True}","['search', 'android', 'gmail', 'chrome', 'transformer']",1,1,2,4
+Hype,"{'fans': True, 'hashtag': True, 'new': True, 'social network': True, 'topic': False}","['excitement', 'buzz', 'trending', 'frenzy', 'overpromise']",0,1,1,5
+Malware,"{'dangerous': False, 'ransomware': True, 'rootkit': True, 'trojan': True, 'virus': True}","['virus', 'ransomware', 'spyware', 'trojan', 'worm']",3,1,4,2
+Instagram,"{'facebook': True, 'images': True, 'sharing': True, 'social network': True, 'videos': True}","['photos', 'filters', 'followers', 'stories', 'influencers']",0,0,0,5
+Nerd,"{'clever': True, 'computers': True, 'glasses': True, 'internet': True, 'pizza': False}","['intellectual', 'glasses', 'books', 'technology', 'science']",1,1,2,4
+Netflix,"{'binge watching': True, 'movies': True, 'online': False, 'series': True, 'streaming': True}","['streaming', 'binge-watch', 'original', 'content', 'recommendations']",1,1,2,4
+Newsletter,"{'advertisement': False, 'email': True, 'information': True, 'regular': True, 'schaduled': False}","['updates', 'subscribers', 'content', 'email', 'engagement']",1,2,3,4
+Reddit,"{'frontpage': True, 'postings': True, 'social network': False, 'subs': True, 'upvote': True}","['subreddits', 'upvotes', 'karma', 'ama', 'threads']",0,1,1,5
+Signal,"{'edward snowden': True, 'whatsapp': False, 'chat': True, 'messages': True, 'messenger': False}","['transmission', 'frequency', 'communication', 'wave', 'alert']",0,2,2,5
+Spam,"{'advertisement': True, 'annoying': True, 'email': True, 'fraud': True, 'newsletter': False}","['email', 'unwanted', 'meat', 'annoying', 'marketing']",2,1,3,3
+Spotify,"{'listening': True, 'music': True, 'playlists': True, 'radio': False, 'streaming': True}","['music', 'streaming', 'playlists', 'recommendations', 'subscription']",3,1,4,2
+Tinder,"{'app': True, 'dating': True, 'one night stand': False, 'singles': True, 'swipe': True}","['dating', 'swiping', 'match', 'profile', 'connection']",1,1,2,4
+Twitter,"{'facebook': False, 'bird': True, 'blue': True, 'short': True, 'social network': True}","['tweets', 'hashtags', 'retweet', 'trending', 'bird']",1,1,2,4
+viral,"{'clicks': True, 'famous': False, 'likes': True, 'social network': True, 'views': True}","['contagious', 'meme', 'spread', 'infection', 'trending']",0,1,1,5
+Webcam,"{'skype': True, 'zoom': True, 'camera': True, 'streaming': True, 'video': True}","['camera', 'video', 'streaming', 'privacy', 'microphone']",3,0,3,2
+Wikipedia,"{'google': False, 'encyclopedia': True, 'knowledge': True, 'non profit': True, 'research': True}","['encyclopedia', 'collaborative', 'editable', 'crowdsourced', 'free']",1,1,2,4
+YouTube,"{'google': True, 'streamer': False, 'streaming': True, 'uploads': True, 'videos': True}","['videos', 'youtubers', 'subscribers', 'views', 'channels']",1,1,2,4

@@ -1,0 +1,11 @@
+Word,Predictions,Generated Words,True Words Found,False Words Not Found,Word Count,Final Score (%)
+Bear,"{'grizzly': False, 'teddy': True, 'ted': False, 'honey': True, 'pooh': True}","['forest', 'outdoors', 'adventure', 'honey', 'carnivorous']",1,2,5,60.0
+Cat,"{'pet': True, 'meow': True, 'scratch': True, 'claws': True, 'dog': False}","['furry', 'pet', 'scratching', 'playful', 'whiskers']",1,1,5,40.0
+Cheetah,"{'fast': True, 'mp/h': False, 'lion': False, 'africa': True, 'savannah': True}","['speed', 'africa', 'savannah', 'hunting', 'agility']",2,2,5,80.0
+Chimpanzee,"{'monkey': True, 'human': False, 'intelligent': True, 'primate': True, 'orangutan': True}","['intelligent', 'tools', 'jungle', 'trees', 'bananas']",1,1,5,40.0
+Cow,"{'stable': False, 'milk': True, 'udder': True, 'milking': True, 'straw': True}","['udder', 'farm', 'herd', 'milk', 'leather']",2,1,5,60.0
+Dog,"{'shepherd': True, 'friend': True, 'pet': True, 'bark': True, 'cat': False}","['food', 'owners', 'people', 'care', 'affection']",0,1,5,20.0
+Giraffe,"{'neck': False, 'long': True, 'elephant': False, 'savannah': True, 'africa': True}","['tall', 'trees', 'leaves', 'green', 'africa']",1,2,5,60.0
+Gorilla,"{'monkey': False, 'chimpanzee': True, 'gray': True, 'roar': True, 'chest': False}","['jungle', 'africa', 'large', 'strong', 'intelligent']",0,2,5,40.0
+Jaguar,"{'car brand': True, 'cheetah': False, 'lion': False, 'savannah': True, 'africa': True}","['luxury', 'power', 'speed', 'exclusivity', 'prestige']",0,2,5,40.0
+Lion,"{'king': True, 'tiger': False, 'cheetah': False, 'africa': True, 'savannah': True}","['mane', 'roar', 'jungle', 'safari', 'power']",0,2,5,40.0

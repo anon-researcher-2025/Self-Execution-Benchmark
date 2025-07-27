@@ -1,0 +1,2765 @@
+
+{
+  "Alpaca": [
+    "South America",
+    "Camel",
+    "Llama",
+    "Wool"
+  ],
+  "Anemonefish": [
+    "shark",
+    "sea",
+    "coral"
+  ],
+  "Anteater": [
+    "forest",
+    "tongue",
+    "long"
+  ],
+  "Antelope": [
+    "hop",
+    "safari",
+    "lion"
+  ],
+  "Badger": [
+    "forest",
+    "marten",
+    "carnivore",
+    "predator"
+  ],
+  "Bat": [
+    "ultrasonic",
+    "vampire",
+    "night",
+    "fly"
+  ],
+  "Bear": [
+    "grizzly",
+    "teddy",
+    "ted",
+    "honey",
+    "pooh"
+  ],
+  "Bison": [
+    "cattle",
+    "bison",
+    "steppe",
+    "America"
+  ],
+  "Bonobo": [
+    "monkey",
+    "chimpanzee",
+    "baboon",
+    "primate"
+  ],
+  "Butterfly": [
+    "wings",
+    "flowers",
+    "colorful",
+    "meadow"
+  ],
+  "Cat": [
+    "pet",
+    "dog",
+    "meow",
+    "scratch",
+    "claws"
+  ],
+  "Cheetah": [
+    "fast",
+    "mp/H",
+    "lion",
+    "Africa",
+    "savannah"
+  ],
+  "Chicken": [
+    "fox",
+    "bird",
+    "swan",
+    "eggs"
+  ],
+  "Chihuahua": [
+    "Paris Hilton",
+    "dog",
+    "small",
+    "foot horn"
+  ],
+  "Chimpanzee": [
+    "monkey",
+    "human",
+    "intelligent",
+    "primate",
+    "orangutan"
+  ],
+  "Chinchilla": [
+    "small",
+    "mouse",
+    "rat",
+    "America"
+  ],
+  "Coati": [
+    "tree",
+    "climbing",
+    "america"
+  ],
+  "Cow": [
+    "stable",
+    "milk",
+    "udder",
+    "milking",
+    "straw"
+  ],
+  "Dog": [
+    "shepherd",
+    "friend",
+    "pet",
+    "bark",
+    "cat"
+  ],
+  "Dolphin": [
+    "whale",
+    "sea",
+    "intelligent",
+    "porpoise"
+  ],
+  "Elephant": [
+    "africa",
+    "india",
+    "trunk",
+    "grey",
+    "huge"
+  ],
+  "Emu": [
+    "bird",
+    "ostrich",
+    "Australia"
+  ],
+  "Ferret": [
+    "marten",
+    "car",
+    "cable",
+    "lltis"
+  ],
+  "Fish": [
+    "water",
+    "swim",
+    "gills",
+    "whale",
+    "salmon"
+  ],
+  "Fox": [
+    "red",
+    "fur",
+    "city",
+    "goose"
+  ],
+  "Frog": [
+    "croak",
+    "water",
+    "toad"
+  ],
+  "Giraffe": [
+    "neck",
+    "long",
+    "elephant",
+    "savannah",
+    "Africa"
+  ],
+  "Goat": [
+    "milk",
+    "stable",
+    "mountain",
+    "horns"
+  ],
+  "Gorilla": [
+    "monkey",
+    "chimpanzee",
+    "gray",
+    "roar",
+    "chest"
+  ],
+  "Grizzly": [
+    "brown",
+    "kodiak",
+    "predator",
+    "north america"
+  ],
+  "Hedgehog": [
+    "spines",
+    "small",
+    "city"
+  ],
+  "Hippopotamus": [
+    "hippopotamus",
+    "water",
+    "giant",
+    "rhino"
+  ],
+  "Horse": [
+    "riding",
+    "saddle",
+    "cow",
+    "trotting race"
+  ],
+  "Hyena": [
+    "africa",
+    "savannah",
+    "sneaky"
+  ],
+  "Jaguar": [
+    "England",
+    "Land Rover",
+    "luxury",
+    "sports car"
+  ],
+  "Jellyfish": [
+    "transparent",
+    "water",
+    "sea",
+    "nettles"
+  ],
+  "Kangaroo": [
+    "hopping",
+    "boxing",
+    "Australia",
+    "pouch"
+  ],
+  "Koala": [
+    "Australia",
+    "Eucalyptus",
+    "Tree"
+  ],
+  "Leopard": [
+    "cheetah",
+    "cat",
+    "predator"
+  ],
+  "Lion": [
+    "king",
+    "tiger",
+    "cheetah",
+    "Africa",
+    "savannah"
+  ],
+  "Llama": [
+    "spitting",
+    "south america",
+    "guanaco"
+  ],
+  "Mandrill": [
+    "primate",
+    "monkey",
+    "butt",
+    "gorilla"
+  ],
+  "Meerkat": [
+    "burrows",
+    "ground",
+    "dig",
+    "stand"
+  ],
+  "Mouse": [
+    "rodent",
+    "rat",
+    "small"
+  ],
+  "Orangutan": [
+    "orange",
+    "monkey",
+    "primate",
+    "chimpanzee"
+  ],
+  "Otter": [
+    "water",
+    "dam",
+    "wood"
+  ],
+  "Ox": [
+    "cow",
+    "bull",
+    "ring",
+    "nose"
+  ],
+  "Panda": [
+    "black",
+    "white",
+    "clumsy",
+    "China",
+    "bear"
+  ],
+  "Parrot": [
+    "colorful",
+    "red",
+    "bird",
+    "beak"
+  ],
+  "Penguin": [
+    "south pole",
+    "arctic",
+    "yellow",
+    "black",
+    "white"
+  ],
+  "Rabbit": [
+    "Pet",
+    "Bunny",
+    "Lout",
+    ""
+  ],
+  "Raccoon": [
+    "teddy",
+    "grizzly",
+    "garbage can"
+  ],
+  "Reindeer": [
+    "santa claus",
+    "rudolf",
+    "nose",
+    "red",
+    "deer"
+  ],
+  "Rhino": [
+    "hippopotamus",
+    "elephant",
+    "Africa",
+    "savannah"
+  ],
+  "Seahorse": [
+    "water",
+    "sea",
+    "small",
+    "saddle"
+  ],
+  "Seal": [
+    "tricks",
+    "balancing",
+    "water",
+    "sea",
+    "cat"
+  ],
+  "Shark": [
+    "water",
+    "teeth",
+    "surfer",
+    "tornado"
+  ],
+  "Sheepdog": [
+    "police",
+    "friend",
+    "pet",
+    "bark",
+    "cat"
+  ],
+  "Snail": [
+    "slime",
+    "house",
+    "small",
+    "slow"
+  ],
+  "Spider": [
+    "web",
+    "fly",
+    "legs",
+    "cellar"
+  ],
+  "Squirrel": [
+    "Forest",
+    "tree",
+    "nuts",
+    "hibernate",
+    "brown"
+  ],
+  "Walrus": [
+    "water",
+    "horse",
+    "sea",
+    "tusks"
+  ],
+  "Wasp": [
+    "bee",
+    "honey",
+    "sting",
+    "black",
+    "yellow"
+  ],
+  "Wolf": [
+    "wild",
+    "dog",
+    "howl",
+    "moon",
+    "pack"
+  ],
+  "Yak": [
+    "cow",
+    "horns",
+    "asia",
+    "cow"
+  ],
+  "Zebra": [
+    "strip",
+    "elephant",
+    "giraffe",
+    "black",
+    "white"
+  ],
+  "Audi": [
+    "Germany",
+    "Ingolstadt",
+    "rings",
+    "Volkswagen"
+  ],
+  "Bentley": [
+    "luxury",
+    "England",
+    "Rolls-Royce"
+  ],
+  "Bugatti": [
+    "luxury",
+    "sports car",
+    "Volkswagen",
+    "France"
+  ],
+  "Buick": [
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Cadillac": [
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Chevrolet": [
+    "America",
+    "United States",
+    "General Motors",
+    "Camaro",
+    "Transformers"
+  ],
+  "Chrysler": [
+    "America",
+    "United States",
+    "Dodge"
+  ],
+  "Citroën": [
+    "France",
+    "Peugeot",
+    "small cars"
+  ],
+  "Corvette": [
+    "America",
+    "United States",
+    "sports car"
+  ],
+  "Dacia": [
+    "Romania",
+    "small cars",
+    "cheap",
+    "Duster"
+  ],
+  "Daewoo": [
+    "South Korea",
+    "small cars",
+    "General Motors"
+  ],
+  "DAF": [
+    "trucks",
+    "big rig",
+    "Netherlands",
+    "cargo"
+  ],
+  "Daihatsu": [
+    "Japan",
+    "Toyota",
+    "small cars"
+  ],
+  "Dodge": [
+    "Viper",
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Ferrari": [
+    "Italy",
+    "red",
+    "sports car",
+    "luxury",
+    "Michael Schumacher"
+  ],
+  "Ford": [
+    "America",
+    "United States",
+    "Henry",
+    "F-150",
+    "assembly line"
+  ],
+  "GMC": [
+    "General Motors",
+    "United States",
+    "multicorporate enterprise"
+  ],
+  "Honda": [
+    "Japan",
+    "Mitsubishi",
+    "Civic"
+  ],
+  "Hummer": [
+    "Army",
+    "United States",
+    "America"
+  ],
+  "Infiniti": [
+    "Nissan",
+    "Japan",
+    "luxury"
+  ],
+  "Isuzu": [
+    "Japan",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Iveco": [
+    "Italy",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Jeep": [
+    "Chrysler",
+    "Army",
+    "America",
+    "United States"
+  ],
+  "Königsegg": [
+    "Sweden",
+    "luxury",
+    "sports car"
+  ],
+  "Lamborghini": [
+    "Italy",
+    "sports car",
+    "luxury",
+    "Volkswagen"
+  ],
+  "Lancia": [
+    "Italy",
+    "small cars",
+    "Fiat"
+  ],
+  "Lexus": [
+    "Toyota",
+    "luxury",
+    "Japan"
+  ],
+  "Lincoln": [
+    "America",
+    "United States",
+    "Ford",
+    "luxury"
+  ],
+  "Maserati": [
+    "Italy",
+    "Fiat",
+    "sports car",
+    "luxury"
+  ],
+  "Maybach": [
+    "Germany",
+    "Mercedes",
+    "luxury"
+  ],
+  "McLaren": [
+    "England",
+    "luxury",
+    "sports car",
+    "luxury"
+  ],
+  "Mercedes-AMG": [
+    "Germany",
+    "luxury",
+    "tuning"
+  ],
+  "Mercedes-Benz": [
+    "Germany",
+    "Daimler",
+    "Chrysler"
+  ],
+  "Mini": [
+    "Germany",
+    "England",
+    "BMW",
+    "small",
+    "Mr Bean"
+  ],
+  "Mitsubishi": [
+    "Japan",
+    "Lancer",
+    "Rally"
+  ],
+  "Moskwitsch": [
+    "Russia",
+    "Sowjet",
+    "DDR"
+  ],
+  "Nissan": [
+    "Japan",
+    "Skyline",
+    "Datsun"
+  ],
+  "Oldsmobile": [
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Opel": [
+    "Germany",
+    "Rüsselsheim",
+    "Vauxhall"
+  ],
+  "Pagani": [
+    "Italy",
+    "sports car",
+    "luxury",
+    "expensive"
+  ],
+  "Peugeot": [
+    "France",
+    "bicycles",
+    "motorcycle"
+  ],
+  "Piaggio": [
+    "Italy",
+    "motorcycles",
+    "moped",
+    "Vespa"
+  ],
+  "Polaris": [
+    "America",
+    "United States",
+    "quads",
+    "snow mobile"
+  ],
+  "Pontiac": [
+    "General Motors",
+    "United States",
+    "America"
+  ],
+  "Porsche": [
+    "Germany",
+    "Stuttgart",
+    "911",
+    "Volkswagen"
+  ],
+  "Renault": [
+    "France",
+    "small cars",
+    "Nissan"
+  ],
+  "Rover": [
+    "England",
+    "Tata",
+    "small cars",
+    "BWM"
+  ],
+  "Saab": [
+    "Sweden",
+    "Scania",
+    "Stockholm"
+  ],
+  "Seat": [
+    "Spanien",
+    "small cars",
+    "Volkswagen"
+  ],
+  "Scania": [
+    "Sweden",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Skoda": [
+    "Tschechien",
+    "Volkswagen",
+    "small cars"
+  ],
+  "Smart": [
+    "Germany",
+    "small",
+    "parking space",
+    "Mercedes",
+    "Daimler"
+  ],
+  "Subaru": [
+    "Japan",
+    "Impereza",
+    "Rally"
+  ],
+  "Suzuki": [
+    "Japan",
+    "motorbikes",
+    "Honda"
+  ],
+  "Tesla": [
+    "Elon Musk",
+    "United States",
+    "electric",
+    "sexy"
+  ],
+  "Toyota": [
+    "multicorporate enterprise",
+    "Japan",
+    "Yaris",
+    "Avensis"
+  ],
+  "Trabant": [
+    "Trabbi",
+    "DDR",
+    "VEB",
+    "Germany",
+    "Zwickau"
+  ],
+  "UAZ": [
+    "Russia",
+    "Soviet Union",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Volvo": [
+    "Sweden",
+    "trucks",
+    "big rig",
+    "Ford",
+    "cargo"
+  ],
+  "Volkswagen": [
+    "Germany",
+    "Golf",
+    "Passat",
+    "Audi",
+    "Wolfsburg"
+  ],
+  "Wartburg": [
+    "Lada",
+    "DDR",
+    "Russia",
+    "Trabbi",
+    "Germany"
+  ],
+  "Afghanistan": [
+    "Asia",
+    "Southern Asia",
+    "Kabul"
+  ],
+  "Albania": [
+    "Europe",
+    "Southern Europe",
+    "Tirana"
+  ],
+  "Algeria": [
+    "Africa",
+    "Northern Africa",
+    "Algiers"
+  ],
+  "Andorra": [
+    "Europe",
+    "Southern Europe",
+    "Andorra la Vella"
+  ],
+  "Angola": [
+    "Africa",
+    "Middle Africa",
+    "Luanda"
+  ],
+  "Anguilla": [
+    "Americas",
+    "Caribbean",
+    "The Valley"
+  ],
+  "Argentina": [
+    "Americas",
+    "South America",
+    "Buenos Aires"
+  ],
+  "Armenia": [
+    "Asia",
+    "Western Asia",
+    "Yerevan"
+  ],
+  "Aruba": [
+    "Americas",
+    "Caribbean",
+    "Oranjestad"
+  ],
+  "Australia": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Canberra"
+  ],
+  "Austria": [
+    "Europe",
+    "Western Europe",
+    "Vienna"
+  ],
+  "Azerbaijan": [
+    "Asia",
+    "Western Asia",
+    "Baku"
+  ],
+  "Bahamas": [
+    "Americas",
+    "Caribbean",
+    "Nassau"
+  ],
+  "Bahrain": [
+    "Asia",
+    "Western Asia",
+    "Manama"
+  ],
+  "Bangladesh": [
+    "Asia",
+    "Southern Asia",
+    "Dhaka"
+  ],
+  "Barbados": [
+    "Americas",
+    "Caribbean",
+    "Bridgetown"
+  ],
+  "Belarus": [
+    "Europe",
+    "Eastern Europe",
+    "Minsk"
+  ],
+  "Belgium": [
+    "Europe",
+    "Western Europe",
+    "Brussels"
+  ],
+  "Belize": [
+    "Americas",
+    "Central America",
+    "Belmopan"
+  ],
+  "Benin": [
+    "Africa",
+    "Western Africa",
+    "Porto-Novo"
+  ],
+  "Bermuda": [
+    "Americas",
+    "Northern America",
+    "Hamilton"
+  ],
+  "Bhutan": [
+    "Asia",
+    "Southern Asia",
+    "Thimphu"
+  ],
+  "Botswana": [
+    "Africa",
+    "Southern Africa",
+    "Gaborone"
+  ],
+  "Brazil": [
+    "Americas",
+    "South America",
+    "Brasília"
+  ],
+  "Bulgaria": [
+    "Europe",
+    "Eastern Europe",
+    "Sofia"
+  ],
+  "Burundi": [
+    "Africa",
+    "Eastern Africa",
+    "Bujumbura"
+  ],
+  "Cambodia": [
+    "Asia",
+    "South-Eastern Asia",
+    "Phnom Penh"
+  ],
+  "Cameroon": [
+    "Africa",
+    "Middle Africa",
+    "Yaoundé"
+  ],
+  "Canada": [
+    "Americas",
+    "Northern America",
+    "Ottawa"
+  ],
+  "Chad": [
+    "Africa",
+    "Middle Africa",
+    "N'Djamena"
+  ],
+  "Chile": [
+    "Americas",
+    "South America",
+    "Santiago"
+  ],
+  "China": [
+    "Asia",
+    "Eastern Asia",
+    "Beijing",
+    "Hong Kong"
+  ],
+  "Colombia": [
+    "Americas",
+    "South America",
+    "Bogotá"
+  ],
+  "Comoros": [
+    "Africa",
+    "Eastern Africa",
+    "Moroni"
+  ],
+  "Congo": [
+    "Africa",
+    "Middle Africa",
+    "Brazzaville"
+  ],
+  "Croatia": [
+    "Europe",
+    "Southern Europe",
+    "Zagreb"
+  ],
+  "Cuba": [
+    "Americas",
+    "Caribbean",
+    "Havana"
+  ],
+  "Curaçao": [
+    "Americas",
+    "Caribbean",
+    "Willemstad"
+  ],
+  "Cyprus": [
+    "Europe",
+    "Southern Europe",
+    "Nicosia"
+  ],
+  "Denmark": [
+    "Europe",
+    "Northern Europe",
+    "Copenhagen",
+    "Lego"
+  ],
+  "Djibouti": [
+    "Africa",
+    "Eastern Africa",
+    "Djibouti"
+  ],
+  "Dominica": [
+    "Americas",
+    "Caribbean",
+    "Roseau"
+  ],
+  "Ecuador": [
+    "Americas",
+    "South America",
+    "Quito"
+  ],
+  "Egypt": [
+    "Africa",
+    "Northern Africa",
+    "Cairo"
+  ],
+  "Eritrea": [
+    "Africa",
+    "Eastern Africa",
+    "Asmara"
+  ],
+  "Estonia": [
+    "Europe",
+    "Northern Europe",
+    "Tallinn"
+  ],
+  "Ethiopia": [
+    "Africa",
+    "Eastern Africa",
+    "Addis Ababa"
+  ],
+  "Fiji": [
+    "Oceania",
+    "Melanesia",
+    "Suva"
+  ],
+  "Finland": [
+    "Europe",
+    "Northern Europe",
+    "Helsinki"
+  ],
+  "France": [
+    "Europe",
+    "Western Europe",
+    "Paris",
+    "Eiffel Tower"
+  ],
+  "Gabon": [
+    "Africa",
+    "Middle Africa",
+    "Libreville"
+  ],
+  "Gambia": [
+    "Africa",
+    "Western Africa",
+    "Banjul"
+  ],
+  "Georgia": [
+    "Asia",
+    "Western Asia",
+    "Tbilisi"
+  ],
+  "Germany": [
+    "Europe",
+    "Western Europe",
+    "Berlin",
+    "Munich",
+    "Hamburg"
+  ],
+  "Ghana": [
+    "Africa",
+    "Western Africa",
+    "Accra"
+  ],
+  "Gibraltar": [
+    "Europe",
+    "Southern Europe",
+    "Gibraltar"
+  ],
+  "Greece": [
+    "Europe",
+    "Southern Europe",
+    "Athens"
+  ],
+  "Greenland": [
+    "Americas",
+    "Northern America",
+    "Nuuk"
+  ],
+  "Grenada": [
+    "Americas",
+    "Caribbean",
+    "St. George's"
+  ],
+  "Guadeloupe": [
+    "Americas",
+    "Caribbean",
+    "Basse-Terre"
+  ],
+  "Guam": [
+    "Oceania",
+    "Micronesia",
+    "Hagåtña"
+  ],
+  "Guatemala": [
+    "Americas",
+    "Central America",
+    "Guatemala City"
+  ],
+  "Guernsey": [
+    "Europe",
+    "Northern Europe",
+    "St. Peter Port"
+  ],
+  "Guinea": [
+    "Africa",
+    "Western Africa",
+    "Conakry"
+  ],
+  "Guinea-Bissau": [
+    "Africa",
+    "Western Africa",
+    "Bissau"
+  ],
+  "Guyana": [
+    "Americas",
+    "South America",
+    "Georgetown"
+  ],
+  "Haiti": [
+    "Americas",
+    "Caribbean",
+    "Port-au-Prince"
+  ],
+  "Honduras": [
+    "Americas",
+    "Central America",
+    "Tegucigalpa"
+  ],
+  "Hungary": [
+    "Europe",
+    "Eastern Europe",
+    "Budapest"
+  ],
+  "Iceland": [
+    "Europe",
+    "Northern Europe",
+    "Reykjavík"
+  ],
+  "India": [
+    "Asia",
+    "Southern Asia",
+    "New Delhi"
+  ],
+  "Indonesia": [
+    "Asia",
+    "South-Eastern Asia",
+    "Jakarta"
+  ],
+  "Iraq": [
+    "Asia",
+    "Western Asia",
+    "Baghdad"
+  ],
+  "Ireland": [
+    "Europe",
+    "Northern Europe",
+    "Dublin"
+  ],
+  "Israel": [
+    "Asia",
+    "Western Asia",
+    "Jerusalem"
+  ],
+  "Italy": [
+    "Europe",
+    "Southern Europe",
+    "Rome"
+  ],
+  "Jamaica": [
+    "Americas",
+    "Caribbean",
+    "Kingston"
+  ],
+  "Japan": [
+    "Asia",
+    "Eastern Asia",
+    "Tokyo"
+  ],
+  "Jersey": [
+    "Europe",
+    "Northern Europe",
+    "Saint Helier"
+  ],
+  "Jordan": [
+    "Asia",
+    "Western Asia",
+    "Amman"
+  ],
+  "Kazakhstan": [
+    "Asia",
+    "Central Asia",
+    "Astana"
+  ],
+  "Kenya": [
+    "Africa",
+    "Eastern Africa",
+    "Nairobi"
+  ],
+  "Kiribati": [
+    "Oceania",
+    "Micronesia",
+    "South Tarawa"
+  ],
+  "Kuwait": [
+    "Asia",
+    "Western Asia",
+    "Kuwait City"
+  ],
+  "Kyrgyzstan": [
+    "Asia",
+    "Central Asia",
+    "Bishkek"
+  ],
+  "Latvia": [
+    "Europe",
+    "Northern Europe",
+    "Riga"
+  ],
+  "Lebanon": [
+    "Asia",
+    "Western Asia",
+    "Beirut"
+  ],
+  "Lesotho": [
+    "Africa",
+    "Southern Africa",
+    "Maseru"
+  ],
+  "Liberia": [
+    "Africa",
+    "Western Africa",
+    "Monrovia"
+  ],
+  "Libya": [
+    "Africa",
+    "Northern Africa",
+    "Tripoli"
+  ],
+  "Liechtenstein": [
+    "Europe",
+    "Western Europe",
+    "Vaduz"
+  ],
+  "Lithuania": [
+    "Europe",
+    "Northern Europe",
+    "Vilnius"
+  ],
+  "Luxembourg": [
+    "Europe",
+    "Western Europe",
+    "Luxembourg"
+  ],
+  "Madagascar": [
+    "Africa",
+    "Eastern Africa",
+    "Antananarivo"
+  ],
+  "Malawi": [
+    "Africa",
+    "Eastern Africa",
+    "Lilongwe"
+  ],
+  "Malaysia": [
+    "Asia",
+    "South-Eastern Asia",
+    "Kuala Lumpur"
+  ],
+  "Maldives": [
+    "Asia",
+    "Southern Asia",
+    "Malé"
+  ],
+  "Mali": [
+    "Africa",
+    "Western Africa",
+    "Bamako"
+  ],
+  "Malta": [
+    "Europe",
+    "Southern Europe",
+    "Valletta"
+  ],
+  "Martinique": [
+    "Americas",
+    "Caribbean",
+    "Fort-de-France"
+  ],
+  "Mauritania": [
+    "Africa",
+    "Western Africa",
+    "Nouakchott"
+  ],
+  "Mauritius": [
+    "Africa",
+    "Eastern Africa",
+    "Port Louis"
+  ],
+  "Mayotte": [
+    "Africa",
+    "Eastern Africa",
+    "Mamoudzou"
+  ],
+  "Mexico": [
+    "Americas",
+    "Central America",
+    "Mexico City"
+  ],
+  "Monaco": [
+    "Europe",
+    "Western Europe",
+    "Monaco"
+  ],
+  "Mongolia": [
+    "Asia",
+    "Eastern Asia",
+    "Ulan Bator"
+  ],
+  "Montenegro": [
+    "Europe",
+    "Southern Europe",
+    "Podgorica"
+  ],
+  "Montserrat": [
+    "Americas",
+    "Caribbean",
+    "Plymouth"
+  ],
+  "Morocco": [
+    "Africa",
+    "Northern Africa",
+    "Rabat"
+  ],
+  "Mozambique": [
+    "Africa",
+    "Eastern Africa",
+    "Maputo"
+  ],
+  "Myanmar": [
+    "Asia",
+    "South-Eastern Asia",
+    "Naypyidaw"
+  ],
+  "Namibia": [
+    "Africa",
+    "Southern Africa",
+    "Windhoek"
+  ],
+  "Nauru": [
+    "Oceania",
+    "Micronesia",
+    "Yaren"
+  ],
+  "Nepal": [
+    "Asia",
+    "Southern Asia",
+    "Kathmandu"
+  ],
+  "Netherlands": [
+    "Europe",
+    "Western Europe",
+    "Amsterdam"
+  ],
+  "Nicaragua": [
+    "Americas",
+    "Central America",
+    "Managua"
+  ],
+  "Niger": [
+    "Africa",
+    "Western Africa",
+    "Niamey"
+  ],
+  "Nigeria": [
+    "Africa",
+    "Western Africa",
+    "Abuja"
+  ],
+  "Niue": [
+    "Oceania",
+    "Polynesia",
+    "Alofi"
+  ],
+  "Norway": [
+    "Europe",
+    "Northern Europe",
+    "Oslo"
+  ],
+  "Oman": [
+    "Asia",
+    "Western Asia",
+    "Muscat"
+  ],
+  "Pakistan": [
+    "Asia",
+    "Southern Asia",
+    "Islamabad"
+  ],
+  "Palau": [
+    "Oceania",
+    "Micronesia",
+    "Ngerulmud"
+  ],
+  "Panama": [
+    "Americas",
+    "Central America",
+    "Panama City"
+  ],
+  "Paraguay": [
+    "Americas",
+    "South America",
+    "Asunción"
+  ],
+  "Peru": [
+    "Americas",
+    "South America",
+    "Lima"
+  ],
+  "Philippines": [
+    "Asia",
+    "South-Eastern Asia",
+    "Manila"
+  ],
+  "Pitcairn": [
+    "Oceania",
+    "Polynesia",
+    "Adamstown"
+  ],
+  "Poland": [
+    "Europe",
+    "Eastern Europe",
+    "Warsaw"
+  ],
+  "Portugal": [
+    "Europe",
+    "Southern Europe",
+    "Lisbon"
+  ],
+  "Qatar": [
+    "Asia",
+    "Western Asia",
+    "Doha"
+  ],
+  "Réunion": [
+    "Africa",
+    "Eastern Africa",
+    "Saint-Denis"
+  ],
+  "Romania": [
+    "Europe",
+    "Eastern Europe",
+    "Bucharest"
+  ],
+  "Rwanda": [
+    "Africa",
+    "Eastern Africa",
+    "Kigali"
+  ],
+  "Samoa": [
+    "Oceania",
+    "Polynesia",
+    "Apia"
+  ],
+  "Senegal": [
+    "Africa",
+    "Western Africa",
+    "Dakar"
+  ],
+  "Serbia": [
+    "Europe",
+    "Southern Europe",
+    "Belgrade"
+  ],
+  "Seychelles": [
+    "Africa",
+    "Eastern Africa",
+    "Victoria"
+  ],
+  "Singapore": [
+    "Asia",
+    "South-Eastern Asia",
+    "Singapore"
+  ],
+  "Slovakia": [
+    "Europe",
+    "Eastern Europe",
+    "Bratislava"
+  ],
+  "Slovenia": [
+    "Europe",
+    "Southern Europe",
+    "Ljubljana"
+  ],
+  "Somalia": [
+    "Africa",
+    "Eastern Africa",
+    "Mogadishu"
+  ],
+  "Spain": [
+    "Europe",
+    "Southern Europe",
+    "Madrid"
+  ],
+  "Sudan": [
+    "Africa",
+    "Northern Africa",
+    "Khartoum"
+  ],
+  "Suriname": [
+    "Americas",
+    "South America",
+    "Paramaribo"
+  ],
+  "Swaziland": [
+    "Africa",
+    "Southern Africa",
+    "Lobamba"
+  ],
+  "Sweden": [
+    "Europe",
+    "Northern Europe",
+    "Stockholm"
+  ],
+  "Switzerland": [
+    "Europe",
+    "Western Europe",
+    "Bern"
+  ],
+  "Taiwan": [
+    "Asia",
+    "Eastern Asia",
+    "Taipei"
+  ],
+  "Tajikistan": [
+    "Asia",
+    "Central Asia",
+    "Dushanbe"
+  ],
+  "Thailand": [
+    "Asia",
+    "South-Eastern Asia",
+    "Bangkok"
+  ],
+  "Timor-Leste": [
+    "Asia",
+    "South-Eastern Asia",
+    "Dili"
+  ],
+  "Togo": [
+    "Africa",
+    "Western Africa",
+    "Lomé"
+  ],
+  "Tokelau": [
+    "Oceania",
+    "Polynesia",
+    "Fakaofo"
+  ],
+  "Tonga": [
+    "Oceania",
+    "Polynesia",
+    "Nuku'alofa"
+  ],
+  "Tunisia": [
+    "Africa",
+    "Northern Africa",
+    "Tunis"
+  ],
+  "Turkey": [
+    "Asia",
+    "Western Asia",
+    "Ankara"
+  ],
+  "Turkmenistan": [
+    "Asia",
+    "Central Asia",
+    "Ashgabat"
+  ],
+  "Tuvalu": [
+    "Oceania",
+    "Polynesia",
+    "Funafuti"
+  ],
+  "Uganda": [
+    "Africa",
+    "Eastern Africa",
+    "Kampala"
+  ],
+  "Ukraine": [
+    "Europe",
+    "Eastern Europe",
+    "Kiev",
+    "Chernobyl"
+  ],
+  "Uruguay": [
+    "Americas",
+    "South America",
+    "Montevideo"
+  ],
+  "Uzbekistan": [
+    "Asia",
+    "Central Asia",
+    "Tashkent"
+  ],
+  "Vanuatu": [
+    "Oceania",
+    "Melanesia",
+    "Port Vila"
+  ],
+  "Yemen": [
+    "Asia",
+    "Western Asia",
+    "Sana'a"
+  ],
+  "Zambia": [
+    "Africa",
+    "Eastern Africa",
+    "Lusaka"
+  ],
+  "Zimbabwe": [
+    "Africa",
+    "Eastern Africa",
+    "Harare"
+  ],
+  "Applesauce": [
+    "fruit",
+    "tree",
+    "glass",
+    "preserving"
+  ],
+  "Beer": [
+    "drink",
+    "bottle",
+    "toast"
+  ],
+  "Bratwurst": [
+    "currywurst",
+    "Thüringer",
+    "barbecue"
+  ],
+  "Butter": [
+    "magarine",
+    "fat",
+    "roast",
+    "bread"
+  ],
+  "Camembert": [
+    "cheese",
+    "white",
+    "cranberries"
+  ],
+  "Chocolate": [
+    "cocoa",
+    "Nutella",
+    "Ritter Sport"
+  ],
+  "Ciabatta": [
+    "bread",
+    "baked",
+    "Italy"
+  ],
+  "Cola": [
+    "drink",
+    "Fanta",
+    "Sprite",
+    "brown",
+    "Coca"
+  ],
+  "Cornflakes": [
+    "breakfast",
+    "milk",
+    "Kellogs",
+    "cereal"
+  ],
+  "Cream": [
+    "butter",
+    "milk",
+    "cake",
+    "sundae"
+  ],
+  "Crispbread": [
+    "dry",
+    "hard",
+    "bread",
+    "baked"
+  ],
+  "Croissant": [
+    "Breakfast",
+    "bent",
+    "baked",
+    "sweet",
+    "jam"
+  ],
+  "Croquettes": [
+    "potatoes",
+    "fries",
+    "wedges"
+  ],
+  "Currywurst": [
+    "barbecue",
+    "Berlin",
+    "Thüringer"
+  ],
+  "Donut": [
+    "round",
+    "sweet",
+    "glaze",
+    "coffee"
+  ],
+  "Duck": [
+    "pond",
+    "christmas",
+    "drake",
+    "goose"
+  ],
+  "Dürüm": [
+    "kebab",
+    "falafel",
+    "batter",
+    "salad"
+  ],
+  "Eggs": [
+    "chicken",
+    "round",
+    "white",
+    "mirror",
+    "pan"
+  ],
+  "Frikadelle": [
+    "boulette",
+    "meatball",
+    "meat"
+  ],
+  "Fruit": [
+    "vegetable",
+    "apple",
+    "banana",
+    "strawberry"
+  ],
+  "Fruitcake": [
+    "Baking",
+    "apple",
+    "plum",
+    "granny",
+    "vegetable"
+  ],
+  "Goose": [
+    "duck",
+    "Christmas",
+    "turkey"
+  ],
+  "Gouda": [
+    "cheese",
+    "Emmental",
+    "Maßdamer"
+  ],
+  "Hamburger": [
+    "McDonalds",
+    "Burger King",
+    "bread",
+    "pattie",
+    "salad"
+  ],
+  "Honey": [
+    "bees",
+    "beekeeper",
+    "sweet",
+    "breakfast",
+    "bear"
+  ],
+  "Jello": [
+    "green",
+    "woodruff",
+    "trembling",
+    "sweet",
+    "dessert"
+  ],
+  "KFC": [
+    "chicken wings",
+    "fat",
+    "USA",
+    "bucket"
+  ],
+  "Lemonade": [
+    "drink",
+    "cola",
+    "fanta",
+    "sprite"
+  ],
+  "Licorice": [
+    "sweet",
+    "black",
+    "snacking"
+  ],
+  "Mackerel": [
+    "Fish",
+    "Sea",
+    "Fishing"
+  ],
+  "Margarine": [
+    "Butter",
+    "Spread",
+    "Bread"
+  ],
+  "Marmalade": [
+    "Breakfast",
+    "Spread",
+    "Bread",
+    "Strawberries"
+  ],
+  "Marzipan": [
+    "cake",
+    "sweet",
+    "decoration",
+    "white"
+  ],
+  "Mascarpone": [
+    "Tiramisu",
+    "sweet",
+    "heavy",
+    "Italy"
+  ],
+  "Mayonnaise": [
+    "ketchup",
+    "sausage",
+    "fries",
+    "white"
+  ],
+  "McDonalds": [
+    "burger king",
+    "hamburger",
+    "fries",
+    "yellow",
+    "bow"
+  ],
+  "Milk": [
+    "cow",
+    "white",
+    "drink",
+    "cereal",
+    "breakfast"
+  ],
+  "Mousse": [
+    "chocolate",
+    "airy",
+    "brown",
+    "foam"
+  ],
+  "Mozzarella": [
+    "pizza",
+    "tomato",
+    "Italy",
+    "cheese"
+  ],
+  "Muesli": [
+    "breakfast",
+    "cornflakes",
+    "milk",
+    "bowl"
+  ],
+  "Nutella": [
+    "nut nougat cream",
+    "chocolate",
+    "breakfast",
+    "spread"
+  ],
+  "Nuts": [
+    "Macadamia",
+    "fruit",
+    "bowl",
+    "trail mix"
+  ],
+  "Olives": [
+    "oil",
+    "green",
+    "black",
+    "bitter"
+  ],
+  "Oranges": [
+    "Tangerine",
+    "fruit",
+    "Christmas"
+  ],
+  "Pancakes": [
+    "Baking",
+    "sweet",
+    "jam",
+    "dessert",
+    "pie"
+  ],
+  "Pasta": [
+    "spaghetti",
+    "pasta",
+    "tomato sauce",
+    "Italy"
+  ],
+  "Pesto": [
+    "pasta",
+    "spaghetti",
+    "herbs",
+    "paste"
+  ],
+  "Pollock": [
+    "fish",
+    "sea",
+    "fishing"
+  ],
+  "Popcorn": [
+    "corn",
+    "movie theater",
+    "salt",
+    "butter",
+    "sugar"
+  ],
+  "Potatoes": [
+    "earth apple",
+    "brown",
+    "cooking",
+    "fries"
+  ],
+  "Pudding": [
+    "chocolate",
+    "vanilla",
+    "sweet",
+    "dessert"
+  ],
+  "Rice": [
+    "asia",
+    "china",
+    "white",
+    "grain",
+    "chopsticks"
+  ],
+  "Rollmops": [
+    "Fish",
+    "Bread",
+    "Herring"
+  ],
+  "Rolls": [
+    "Schrippe",
+    "Semmel",
+    "baked",
+    "bakers"
+  ],
+  "Salami": [
+    "sausage",
+    "pork",
+    "mince",
+    "topping"
+  ],
+  "Salmon": [
+    "fish",
+    "sea",
+    "fishing",
+    "tuna fish"
+  ],
+  "Saltines": [
+    "brown",
+    "pretzels",
+    "nibbles"
+  ],
+  "Shrimp": [
+    "Sea",
+    "Fruit",
+    "Sushi"
+  ],
+  "Soup": [
+    "liquid",
+    "water",
+    "herbs",
+    "broth"
+  ],
+  "Speisequark": [
+    "potatoes",
+    "herbs",
+    "yogurt",
+    "cream"
+  ],
+  "Spätzle": [
+    "noodles",
+    "dough",
+    "Austria"
+  ],
+  "Starbucks": [
+    "coffee",
+    "expensive",
+    "cup",
+    "green",
+    "USA"
+  ],
+  "Steak": [
+    "meat",
+    "cutlet",
+    "fries",
+    "t-bone",
+    "filet"
+  ],
+  "Subway": [
+    "sandwich",
+    "salad",
+    "meat",
+    "USA",
+    "fast food"
+  ],
+  "Sushi": [
+    "fish",
+    "seaweed",
+    "rice",
+    "Asia",
+    "China"
+  ],
+  "Tiramisu": [
+    "mascarpone",
+    "coffee",
+    "biscuit",
+    "cake",
+    "Italy"
+  ],
+  "Toast": [
+    "bread",
+    "baking",
+    "white",
+    "light"
+  ],
+  "Trout": [
+    "fish",
+    "sea",
+    "fishing"
+  ],
+  "Vegetables": [
+    "fruit",
+    "salad",
+    "tomato"
+  ],
+  "Whiskey": [
+    "drink",
+    "spirit",
+    "scotland",
+    "brown"
+  ],
+  "Wiener": [
+    "Hot Dog",
+    "Bread",
+    "Austria"
+  ],
+  "Wine": [
+    "drink",
+    "red",
+    "white",
+    "adult"
+  ],
+  "Bono": [
+    "singer",
+    "U2",
+    "Rock",
+    "England"
+  ],
+  "Eminem": [
+    "Rapper",
+    "Slim Shady",
+    "Detroit",
+    "Without me"
+  ],
+  "Michelangelo": [
+    "painter",
+    "artist",
+    "Italy",
+    "Sistine Chapel",
+    "Renaissance"
+  ],
+  "Rembrandt": [
+    "artist",
+    "painter",
+    "Dutch",
+    "Netherlands",
+    "portraits"
+  ],
+  "Airship": [
+    "hindenburg",
+    "helium",
+    "balloon"
+  ],
+  "Antenna": [
+    "TV",
+    "Internet",
+    "WLAN"
+  ],
+  "Backpack": [
+    "carry",
+    "bag",
+    "school",
+    "transport"
+  ],
+  "Bedding": [
+    "pillow",
+    "blanket",
+    "cover"
+  ],
+  "BluRay": [
+    "DVD",
+    "CD",
+    "movie",
+    "gigabyte"
+  ],
+  "Broom": [
+    "Cleaning",
+    "sweeping",
+    "cleaning",
+    "sweeping"
+  ],
+  "Cable": [
+    "electricity",
+    "long",
+    "plug",
+    "television"
+  ],
+  "Carpet": [
+    "laminate",
+    "carpeting",
+    "floor"
+  ],
+  "Chopsticks": [
+    "wood",
+    "china",
+    "two",
+    "rice"
+  ],
+  "Clothesline": [
+    "dry",
+    "hang",
+    "clips"
+  ],
+  "Clothespin": [
+    "clothes",
+    "line",
+    "dry",
+    "hang up"
+  ],
+  "Computer": [
+    "PC",
+    "laptop",
+    "notebook",
+    "internet"
+  ],
+  "Corkscrew": [
+    "wine",
+    "food",
+    "restaurant",
+    "waiter"
+  ],
+  "Cutlery": [
+    "knife",
+    "spoon",
+    "fork",
+    "food"
+  ],
+  "Dishes": [
+    "cutlery",
+    "plate",
+    "knife",
+    "fork"
+  ],
+  "Dishwasher": [
+    "hand wash",
+    "plate",
+    "cutlery"
+  ],
+  "Dustpan": [
+    "cleaning",
+    "broom",
+    "dirt"
+  ],
+  "DVD": [
+    "movie",
+    "player",
+    "television",
+    "CD"
+  ],
+  "Dynamo": [
+    "bicycle",
+    "lamp",
+    "electricity"
+  ],
+  "Fan": [
+    "wind",
+    "air",
+    "cool"
+  ],
+  "Flag": [
+    "flag",
+    "hoist",
+    "mast",
+    "flap"
+  ],
+  "Flashlight": [
+    "dark",
+    "light",
+    "batteries"
+  ],
+  "Freezer": [
+    "refrigerator",
+    "ice",
+    "cold"
+  ],
+  "Hammer": [
+    "nail",
+    "wall",
+    "tool"
+  ],
+  "Helicopter": [
+    "rotor",
+    "fly",
+    "airplane"
+  ],
+  "Humidifier": [
+    "dry",
+    "wet",
+    "wind",
+    "climate"
+  ],
+  "Iron": [
+    "Shirts",
+    "hot",
+    "smooth"
+  ],
+  "Kettle": [
+    "heat",
+    "tea",
+    "coffee"
+  ],
+  "Keyboard": [
+    "computer",
+    "keys",
+    "input"
+  ],
+  "Mop": [
+    "mopping",
+    "bucket",
+    "water"
+  ],
+  "Padlock": [
+    "key",
+    "lock",
+    "cellar"
+  ],
+  "Phone": [
+    "long distance",
+    "cell phone",
+    "smart phone"
+  ],
+  "Plunger": [
+    "toilet",
+    "loo",
+    "blockage"
+  ],
+  "Pot": [
+    "tea",
+    "coffee",
+    "transport",
+    "glass"
+  ],
+  "Railroad": [
+    "steam",
+    "rails",
+    "locomotive"
+  ],
+  "Refrigerator": [
+    "freeze",
+    "food",
+    "cold"
+  ],
+  "Scrubber": [
+    "mop",
+    "cleaning",
+    "cleaning"
+  ],
+  "Smartphone": [
+    "mobile",
+    "Apple",
+    "Samsung",
+    "mobile"
+  ],
+  "Streetcar": [
+    "train",
+    "streetcar",
+    "transportation",
+    "public transportation"
+  ],
+  "Sunbed": [
+    "solarium",
+    "tan",
+    "tanning"
+  ],
+  "Toaster": [
+    "bread",
+    "hot",
+    "reheat"
+  ],
+  "Touchpad": [
+    "iPad",
+    "smartphone",
+    "display",
+    "touch"
+  ],
+  "Tray": [
+    "food",
+    "transport",
+    "bring",
+    "waiter"
+  ],
+  "TV": [
+    "boob tube",
+    "TV",
+    "RTL",
+    "ProSieben"
+  ],
+  "Typewriter": [
+    "obsolete",
+    "keys",
+    "paper"
+  ],
+  "Wardrobe": [
+    "clothes",
+    "hang",
+    "closet"
+  ],
+  "Waterbed": [
+    "sleep",
+    "night",
+    "pillow",
+    "comforter"
+  ],
+  "Whisk": [
+    "Egg",
+    "beat",
+    "metal"
+  ],
+  "Alien": [
+    "Sigourney Weaver",
+    "UFO",
+    "space",
+    "horror"
+  ],
+  "Amélie": [
+    "Drama",
+    "Romance",
+    "Paris",
+    "France"
+  ],
+  "Braveheart": [
+    "Mel Gibson",
+    "Scotland",
+    "rebellion",
+    "King Edward I of England"
+  ],
+  "Casablanca": [
+    "Drama",
+    "Humphrey Bogart",
+    "Nazis",
+    "French Morocco"
+  ],
+  "Casino": [
+    "Drama",
+    "Robert De Niro",
+    "Martin Scorsese",
+    "Mafia",
+    "gambling"
+  ],
+  "Deadpool": [
+    "Action",
+    "Ryan Reynolds",
+    "red suit",
+    "mercenary"
+  ],
+  "Downfall": [
+    "Drama",
+    "Adolf Hitler",
+    "World War II",
+    "Berlin bunker"
+  ],
+  "Gladiator": [
+    "Action",
+    "Roman General",
+    "Russell Crowe",
+    "slavery",
+    "Colosseum"
+  ],
+  "Goodfellas": [
+    "Drama",
+    "Robert De Niro",
+    "Mafia",
+    "Henry Hill"
+  ],
+  "Inception": [
+    "Action",
+    "Christopher Nolan",
+    "Leonardo DiCaprio",
+    "lucid dreaming",
+    "thoughts"
+  ],
+  "Interstellar": [
+    "Sci Fi",
+    "Matthew McConaughey",
+    "space",
+    "wormhole",
+    "black hole"
+  ],
+  "Jaws": [
+    "Thriller",
+    "shark",
+    "beach",
+    "surfing"
+  ],
+  "Memento": [
+    "Christopher Nolan",
+    "short-term memory",
+    "murderer",
+    "Leonard"
+  ],
+  "Platoon": [
+    "Action",
+    "Vietnam War",
+    "Charlie Sheen",
+    "Chris Taylor"
+  ],
+  "Psycho": [
+    "Alfred Hitchcock",
+    "Thriller",
+    "bathroom",
+    "knife"
+  ],
+  "Rocky": [
+    "Sylvester Stallone",
+    "heavyweight boxing champion",
+    "Eye of the tiger"
+  ],
+  "Scarface": [
+    "Action",
+    "Tony Montana",
+    "drug dealer",
+    "Miami",
+    "drug cartel"
+  ],
+  "Se7en": [
+    "Thriller",
+    "Morgan Freeman",
+    "Brad Pitt",
+    "serial killer",
+    "deadly sins"
+  ],
+  "Shining": [
+    "Thriller",
+    "Stanley Kubrick",
+    "Jack Nicholson",
+    "hotel",
+    "axe"
+  ],
+  "Up": [
+    "Disney",
+    "Pixar",
+    "Carl Fredricksen",
+    "house",
+    "balloons"
+  ],
+  "WALL·E": [
+    "Disney",
+    "Pixar",
+    "robots",
+    "Eve",
+    "space"
+  ],
+  "Zootopia": [
+    "Disney",
+    "Pixar",
+    "animals",
+    "rabbit",
+    "police"
+  ],
+  "Amazon": [
+    "Jeff Bezos",
+    "Prime Video",
+    "books",
+    "online shop",
+    "shopping"
+  ],
+  "Avatar": [
+    "image",
+    "photo",
+    "profile",
+    "user picture"
+  ],
+  "Bitcoin": [
+    "Ethereum",
+    "blockchain",
+    "crypto",
+    "currency",
+    "money"
+  ],
+  "Blockchain": [
+    "Bitcoin",
+    "Ethereum",
+    "crypto",
+    "currency",
+    "money"
+  ],
+  "Blog": [
+    "WordPress",
+    "articles",
+    "reading",
+    "writing"
+  ],
+  "Browser": [
+    "Chrome",
+    "Firefox",
+    "Internet Explorer",
+    "Safari",
+    "websites"
+  ],
+  "Cloud": [
+    "Dropbox",
+    "Google Drive",
+    "file sharing",
+    "iCloud",
+    "online"
+  ],
+  "Coinbase": [
+    "Crypto",
+    "Ethereum",
+    "blockchain",
+    "currencies",
+    "exchange"
+  ],
+  "Download": [
+    "browser",
+    "computer",
+    "files",
+    "images",
+    "videos"
+  ],
+  "eBay": [
+    "auctions",
+    "bidding",
+    "buy",
+    "sell"
+  ],
+  "eBook": [
+    "Amazon",
+    "Kindle",
+    "books",
+    "digital",
+    "reading"
+  ],
+  "Emoticon": [
+    "emotion",
+    "feelings",
+    "smiley",
+    "symbol"
+  ],
+  "Facebook": [
+    "Instagram",
+    "Mark Zuckerberg",
+    "Whatsapp",
+    "blue",
+    "social network"
+  ],
+  "Google": [
+    "Gmail",
+    "Maps",
+    "YouTube",
+    "advertisement",
+    "web search"
+  ],
+  "Hacker": [
+    "black hoodie",
+    "fraud",
+    "password",
+    "robbery"
+  ],
+  "Hype": [
+    "fans",
+    "hashtag",
+    "new",
+    "social network",
+    "topic"
+  ],
+  "Influencer": [
+    "VIP",
+    "famous",
+    "followers",
+    "impact",
+    "likes"
+  ],
+  "Instagram": [
+    "Facebook",
+    "images",
+    "sharing",
+    "social network",
+    "videos"
+  ],
+  "Login": [
+    "accounts",
+    "password",
+    "profile",
+    "username"
+  ],
+  "Logout": [
+    "login",
+    "profile",
+    "sign out"
+  ],
+  "Malware": [
+    "dangerous",
+    "ransomware",
+    "rootkit",
+    "trojan",
+    "virus"
+  ],
+  "Mention": [
+    "@",
+    "reference",
+    "social networks",
+    "username"
+  ],
+  "Nerd": [
+    "clever",
+    "computers",
+    "glasses",
+    "internet",
+    "pizza"
+  ],
+  "Netflix": [
+    "binge watching",
+    "movies",
+    "online",
+    "series",
+    "streaming"
+  ],
+  "Newsletter": [
+    "advertisement",
+    "email",
+    "information",
+    "regular",
+    "schaduled"
+  ],
+  "Password": [
+    "PIN",
+    "login",
+    "private",
+    "registration",
+    "secret"
+  ],
+  "PayPal": [
+    "account",
+    "online shopping",
+    "paying",
+    "sending money"
+  ],
+  "Pinterest": [
+    "boards",
+    "images",
+    "quotes",
+    "recipies",
+    "sharing"
+  ],
+  "Privacy": [
+    "NSA",
+    "Snowden",
+    "data",
+    "details",
+    "personal"
+  ],
+  "Reddit": [
+    "frontpage",
+    "postings",
+    "social network",
+    "subs",
+    "upvote"
+  ],
+  "Signal": [
+    "Edward Snowden",
+    "WhatsApp",
+    "chat",
+    "messages",
+    "messenger"
+  ],
+  "Snapchat": [
+    "Instagram",
+    "images",
+    "social network",
+    "videos"
+  ],
+  "Spam": [
+    "advertisement",
+    "annoying",
+    "email",
+    "fraud",
+    "newsletter"
+  ],
+  "Spotify": [
+    "listening",
+    "music",
+    "playlists",
+    "radio",
+    "streaming"
+  ],
+  "Telegram": [
+    "Signal",
+    "WhatsApp",
+    "chat",
+    "green",
+    "messages"
+  ],
+  "Tidal": [
+    "HiFi",
+    "listening",
+    "music",
+    "playlists",
+    "radio"
+  ],
+  "Tinder": [
+    "app",
+    "dating",
+    "one night stand",
+    "singles",
+    "swipe"
+  ],
+  "Tweet": [
+    "Twitter",
+    "posting",
+    "short",
+    "threads"
+  ],
+  "Twitch": [
+    "camera",
+    "computer games",
+    "gaming",
+    "steaming"
+  ],
+  "Twitter": [
+    "Facebook",
+    "bird",
+    "blue",
+    "short",
+    "social network"
+  ],
+  "Update": [
+    "application",
+    "downloads",
+    "new version",
+    "software"
+  ],
+  "viral": [
+    "clicks",
+    "famous",
+    "likes",
+    "social network",
+    "views"
+  ],
+  "Virus": [
+    "computer",
+    "dangerous",
+    "malware",
+    "trojan"
+  ],
+  "VPN": [
+    "IP address",
+    "anonymous",
+    "connection",
+    "networks"
+  ],
+  "Webcam": [
+    "Skype",
+    "Zoom",
+    "camera",
+    "streaming",
+    "video"
+  ],
+  "WhatsApp": [
+    "Chat",
+    "Facebook",
+    "Signal",
+    "green",
+    "messages"
+  ],
+  "Wikipedia": [
+    "Google",
+    "encyclopedia",
+    "knowledge",
+    "non profit",
+    "research"
+  ],
+  "YouTube": [
+    "Google",
+    "streamer",
+    "streaming",
+    "uploads",
+    "videos"
+  ]
+}

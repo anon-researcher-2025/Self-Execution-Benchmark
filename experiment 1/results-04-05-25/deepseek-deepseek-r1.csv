@@ -1,0 +1,64 @@
+Word,Predictions,Generated Words,Final Score (association detection accuracy),Count Words,If Only False Predictions,Predicted True Count,Success Out of True,Success Out of False
+Bonobo,"{'monkey': False, 'chimpanzee': True, 'baboon': False, 'primate': True}","['primate', 'chimpanzee', 'pan_paniscus', 'congo', 'matriarchal']",100.00 %,4,50.00 %,2,100.00 %,100.00 %
+Bear,"{'grizzly': True, 'teddy': True, 'ted': False, 'honey': True, 'pooh': True}","['honey', 'forest', 'hibernate', 'cub', 'paw']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Badger,"{'forest': True, 'marten': False, 'carnivore': True, 'predator': True}","['animal', 'burrow', 'nocturnal', 'digging', 'sett']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Bison,"{'cattle': True, 'bison': False, 'steppe': False, 'america': True}","['herd', 'plains', 'majestic', 'hooves', 'conservation']",50.00 %,4,100.00 %,2,0.00 %,100.00 %
+Butterfly,"{'wings': True, 'flowers': True, 'colorful': True, 'meadow': False}","['wings', 'metamorphosis', 'flutter', 'pollination', 'caterpillar']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Anemonefish,"{'shark': False, 'sea': True, 'coral': True}","['clownfish', 'symbiosis', 'coral', 'stripes', 'nemo']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Anteater,"{'forest': False, 'tongue': True, 'long': True}","['insects', 'long tongue', 'snout', 'claws', 'mammal']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Alpaca,"{'south america': True, 'camel': True, 'llama': True, 'wool': True}","['llama', 'andes', 'wool', 'fleece', 'herd']",50.00 %,4,50.00 %,4,50.00 %,
+Cheetah,"{'fast': True, 'mp/h': False, 'lion': False, 'africa': True, 'savannah': True}","['fast', 'spots', 'predator', 'savanna', 'agile']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Antelope,"{'hop': False, 'safari': True, 'lion': True}","['savanna', 'horns', 'swift', 'bovidae', 'grazing']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Chimpanzee,"{'monkey': True, 'human': True, 'intelligent': True, 'primate': True, 'orangutan': False}","['primate', 'intelligent', 'banana', 'social', 'endangered']",60.00 %,5,60.00 %,4,50.00 %,100.00 %
+Bat,"{'ultrasonic': False, 'vampire': True, 'night': True, 'fly': True}","['nocturnal', 'echolocation', 'baseball', 'wings', 'vampire']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Chicken,"{'fox': False, 'bird': True, 'swan': False, 'eggs': True}","['egg', 'feathers', 'farm', 'poultry', 'cluck']",50.00 %,4,100.00 %,2,0.00 %,100.00 %
+Chihuahua,"{'paris hilton': True, 'dog': True, 'small': True, 'foot horn': False}","['small', 'mexican', 'pointy ears', 'feisty', 'short-haired']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Coati,"{'tree': True, 'climbing': True, 'america': True}","['raccoon', 'nose', 'social', 'tropical', 'ringed-tail']",0.00 %,3,100.00 %,3,0.00 %,
+Cow,"{'stable': False, 'milk': True, 'udder': True, 'milking': True, 'straw': False}","['milk', 'moo', 'farm', 'grass', 'herd']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Emu,"{'bird': True, 'ostrich': False, 'australia': True}","['flightless', 'australian', 'bird', 'long-legged', 'fast-running']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Cat,"{'pet': True, 'dog': False, 'meow': True, 'scratch': True, 'claws': True}","['whiskers', 'purr', 'feline', 'paws', 'claws']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Goat,"{'milk': True, 'stable': False, 'mountain': True, 'horns': True}","['horn', 'hoof', 'bleat', 'livestock', 'mountain']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Frog,"{'croak': True, 'water': True, 'toad': False}","['amphibian', 'pond', 'tadpole', 'ribbit', 'leap']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Fish,"{'water': True, 'swim': True, 'gills': True, 'whale': False, 'salmon': True}","['gills', 'scales', 'aquatic', 'school', 'fins']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Dog,"{'shepherd': False, 'friend': True, 'pet': True, 'bark': True, 'cat': False}","['loyal', 'bark', 'paws', 'leash', 'playful']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Giraffe,"{'neck': True, 'long': True, 'elephant': False, 'savannah': True, 'africa': True}","['long-necked', 'giraffa', 'spotted', 'african', 'browsers']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Fox,"{'red': True, 'fur': True, 'city': False, 'goose': False}","['clever', 'red', 'sly', 'wild', 'burrow']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Grizzly,"{'brown': True, 'kodiak': True, 'predator': True, 'north america': True}","['bear', 'fierce', 'wilderness', 'brown', 'predator']",50.00 %,4,50.00 %,4,50.00 %,
+Elephant,"{'africa': True, 'india': True, 'trunk': True, 'grey': True, 'huge': True}","['trunk', 'ivory', 'herds', 'memory', 'large']",20.00 %,5,80.00 %,5,20.00 %,
+Dolphin,"{'whale': False, 'sea': True, 'intelligent': True, 'porpoise': False}","['marine', 'intelligent', 'playful', 'echolocation', 'pod']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Hedgehog,"{'spines': True, 'small': True, 'city': False}","['spines', 'nocturnal', 'insectivore', 'mammal', 'burrow']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Gorilla,"{'monkey': False, 'chimpanzee': False, 'gray': True, 'roar': False, 'chest': True}","['primate', 'jungle', 'troop', 'silverback', 'herbivore']",60.00 %,5,100.00 %,2,0.00 %,100.00 %
+Horse,"{'riding': True, 'saddle': True, 'cow': False, 'trotting race': False}","['saddle', 'gallop', 'mane', 'stable', 'hoof']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Jaguar,"{'england': True, 'land rover': False, 'luxury': True, 'sports car': True}","['predator', 'jungle', 'luxury', 'spotted', 'vehicle']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Koala,"{'australia': True, 'eucalyptus': True, 'tree': True}","['marsupial', 'eucalyptus', 'australia', 'cuddly', 'tree']",100.00 %,3,0.00 %,3,100.00 %,
+Mandrill,"{'primate': True, 'monkey': True, 'butt': True, 'gorilla': False}","['primate', 'colorful', 'rainforest', 'troop', 'mandrillus']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Leopard,"{'cheetah': False, 'cat': True, 'predator': True}","['spots', 'predator', 'savanna', 'stealthy', 'nocturnal']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Lion,"{'king': True, 'tiger': False, 'cheetah': False, 'africa': True, 'savannah': True}","['pride', 'mane', 'roar', 'savanna', 'king']",60.00 %,5,80.00 %,3,33.33 %,100.00 %
+Orangutan,"{'orange': False, 'monkey': False, 'primate': True, 'chimpanzee': False}","['primate', 'rainforest', 'red', 'intelligent', 'borneo']",100.00 %,4,75.00 %,1,100.00 %,100.00 %
+Kangaroo,"{'hopping': True, 'boxing': True, 'australia': True, 'pouch': True}","['marsupial', 'australia', 'joey', 'pouch', 'hopping']",75.00 %,4,25.00 %,4,75.00 %,
+Mouse,"{'rodent': True, 'rat': False, 'small': True}","['rodent', 'cheese', 'tail', 'scurry', 'computer']",66.67 %,3,66.67 %,2,50.00 %,100.00 %
+Otter,"{'water': True, 'dam': False, 'wood': False}","['aquatic', 'playful', 'sleek', 'river', 'tool-use']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Hyena,"{'africa': True, 'savannah': True, 'sneaky': True}","['laugh', 'clan', 'scavenger', 'savanna', 'cunning']",0.00 %,3,100.00 %,3,0.00 %,
+Meerkat,"{'burrows': True, 'ground': True, 'dig': True, 'stand': True}","['desert', 'mob', 'sentinel', 'mongoose', 'burrow']",0.00 %,4,100.00 %,4,0.00 %,
+Llama,"{'spitting': True, 'south america': True, 'guanaco': False}","['wool', 'andes', 'alpaca', 'spit', 'herd']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
+Panda,"{'black': True, 'white': True, 'clumsy': True, 'china': True, 'bear': True}","['bamboo', 'black-and-white', 'endangered', 'china', 'cuddly']",20.00 %,5,80.00 %,5,20.00 %,
+Jellyfish,"{'transparent': True, 'water': True, 'sea': True, 'nettles': False}","['tentacles', 'ocean', 'transparent', 'sting', 'drift']",50.00 %,4,75.00 %,3,33.33 %,100.00 %
+Parrot,"{'colorful': True, 'red': False, 'bird': True, 'beak': True}","['feathers', 'squawk', 'tropical', 'talkative', 'cage']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Reindeer,"{'santa claus': True, 'rudolf': True, 'nose': True, 'red': True, 'deer': True}","['antlers', 'santa', 'arctic', 'sleigh', 'caribou']",0.00 %,5,100.00 %,5,0.00 %,
+Rabbit,"{'pet': True, 'bunny': True, 'lout': False}","['hare', 'carrot', 'burrow', 'hop', 'fluffy']",50.00 %,3,100.00 %,2,0.00 %,100.00 %
+Raccoon,"{'teddy': False, 'grizzly': False, 'garbage can': True}","['mask', 'nocturnal', 'trash', 'paws', 'ringed tail']",66.67 %,3,100.00 %,1,0.00 %,100.00 %
+Penguin,"{'south pole': True, 'arctic': False, 'yellow': False, 'black': True, 'white': True}","['antarctica', 'feathers', 'flightless', 'colony', 'tuxedo']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Ox,"{'cow': True, 'bull': True, 'ring': True, 'nose': False}","['bovine', 'plow', 'strength', 'yoke', 'agriculture']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Rhino,"{'hippopotamus': False, 'elephant': False, 'africa': True, 'savannah': True}","['horn', 'herbivore', 'thick-skinned', 'endangered', 'africa']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Seahorse,"{'water': True, 'sea': True, 'small': True, 'saddle': False}","['marine', 'equine', 'camouflage', 'prehensile', 'coral']",25.00 %,4,100.00 %,3,0.00 %,100.00 %
+Walrus,"{'water': False, 'horse': False, 'sea': True, 'tusks': True}","['tusks', 'arctic', 'marine', 'whiskers', 'social']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Spider,"{'web': True, 'fly': False, 'legs': True, 'cellar': False}","['web', 'silk', 'venom', 'arachnid', 'eight-legged']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Snail,"{'slime': True, 'house': True, 'small': False, 'slow': True}","['shell', 'slow', 'slime', 'gastropod', 'garden']",75.00 %,4,50.00 %,3,66.67 %,100.00 %
+Shark,"{'water': True, 'teeth': True, 'surfer': False, 'tornado': False}","['ocean', 'predator', 'teeth', 'fin', 'danger']",75.00 %,4,75.00 %,2,50.00 %,100.00 %
+Seal,"{'tricks': True, 'balancing': True, 'water': True, 'sea': True, 'cat': False}","['animal', 'ocean', 'stamp', 'wax', 'emblem']",20.00 %,5,100.00 %,4,0.00 %,100.00 %
+Squirrel,"{'forest': True, 'tree': True, 'nuts': True, 'hibernate': False, 'brown': True}","['nut', 'tail', 'tree', 'acorn', 'cheeks']",40.00 %,5,80.00 %,4,25.00 %,100.00 %
+Wolf,"{'wild': True, 'dog': False, 'howl': True, 'moon': True, 'pack': True}","['pack', 'howl', 'predator', 'wilderness', 'moon']",80.00 %,5,40.00 %,4,75.00 %,100.00 %
+Zebra,"{'strip': True, 'elephant': False, 'giraffe': False, 'black': True, 'white': True}","['stripes', 'herd', 'savanna', 'africa', 'equine']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Sheepdog,"{'police': False, 'friend': True, 'pet': True, 'bark': True, 'cat': False}","['herding', 'loyal', 'intelligent', 'energetic', 'protective']",40.00 %,5,100.00 %,3,0.00 %,100.00 %
+Yak,"{'cow': True, 'horns': True, 'asia': True}","['himalayan', 'woolly', 'bovine', 'shaggy', 'pack']",0.00 %,3,100.00 %,3,0.00 %,
+Cadillac,"{'america': True, 'united states': False, 'general motors': True}","['luxury', 'prestige', 'american', 'automobile', 'classic']",33.33 %,3,100.00 %,2,0.00 %,100.00 %
